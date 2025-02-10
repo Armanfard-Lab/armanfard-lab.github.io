@@ -1,3 +1,6 @@
+- date: Jan 2025
+  headline: Congratulations to Alex on successfully transferring to the PhD program at iSMART! He continues his excellent work on LLM and VLM for Autonomous Driving.
+
 - date: Nov 2024
   headline: Congratulations to Bahar and Mohammadreza on successfully defending their PhD theses! Their hard work and dedication have truly paid off!
   
@@ -12,6 +15,9 @@
 
 - date: Sept 2024
   headline: We are being awarded the prestigious Vadasz Scholar McGill Engineering Doctoral Award in support of our research studies. Congratulations to Alex and the iSMART team!
+
+- date: Aug 2024
+  headline: Congratulations to Thomas on successfully transferring to the PhD program at iSMART! He continues his excellent work on time series data analysis by leveraging LLMs and VLMs.
 
 - date: Aug 2024
   headline: Congratulations to Ali for successfully completing his MSc thesis on Graph-Jigsaw Conditioned Diffusion Model for Video Anomaly Detection. Excellent work, Ali! 
@@ -89,10 +95,19 @@
   headline: The iSMART team has been honored with an exclusive invitation to lead ASTAD, a half-day workshop on cutting-edge topics in anomaly detection, including novel AI architectures, large-scale datasets, self-supervised and few-shot techniques, continual learning, interpretability, and real-world applications in computer vision. ASTAD will take place at the prestigious Rank A AI conference, WACV 2024, in Waikoloa, Hawaii. For more details, visit <a href="https://ismart.ece.mcgill.ca/wacv24/">ASTAD</a>.
 
 - date: Aug 2023
+  headline: Congratulations to Damien on successfully completing his MSc thesis on Self-Supervised Continual Learning. Great job, Damien!
+
+- date: Aug 2023
   headline: Our recent study on Multivariate Time-Series Anomaly Detection with Contaminated Data is now available <a href="https://arxiv.org/abs/2308.12563">here.</a>
 
 - date: Aug 2023
   headline: Our paper "C3&#58; Cross-instance guided Contrastive Clustering" has been accepted for publication at the prestigious Rank A AI Conference BMVC 2023 in the UK.
+
+- date: Aug 2023
+  headline: Congratulations to Denzel on successfully completing his MSc thesis on predicting mechanical properties leveraging physics-informed modeling! Great job, Denzel!
+
+- date: Aug 2023
+  headline: Congratulations to Dimitri on successfully transferring to the PhD program at iSMART! He continues his excellent work on Multi-task Learning.
 
 - date: June 2023
   headline: Our paper "Multi-Representation Learning for Data Clustering" has been accepted for publication at the prestigious IEEE Trans. on Neural Networks and Learning Systems (TNNLS).
