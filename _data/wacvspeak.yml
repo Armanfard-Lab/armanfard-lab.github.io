@@ -9,16 +9,16 @@
   linkedin: https://www.linkedin.com/in/leman-akoglu-b164329
   bio: Dr. Akoglu is the Heinz College Dean's Associate Professor at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. She also hold courtesy appointments at the Machine Learning Department (MLD) and the Computer Science Department (CSD) of School of Computer Science (SCS). At Heinz, she directs the Data Analytics Techniques Algorithms (DATA) Lab. Her research interests are broadly in data mining, graph mining, machine learning, and knowledge discovery, with specific focus on anOmaLiEs---identifying and characterizing 'what stands out' in large-scale, time-varying, multi-modal data sources through scalable computational methods.
 
-- name: Stephan Mandt
-  photo: mandt.jpg
+- name: Maja Rudolph
+  photo: maja.png
   info: University of California, Irvine
   email:
   number_educ: 0
   education1:
   education2:
-  scholar: https://scholar.google.ca/citations?user=HOrGe7wAAAAJ&hl=pl
-  linkedin: https://ca.linkedin.com/
-  bio: Stephan Mandt is an Associate Professor of Computer Science and Statistics at the University of California, Irvine. His research centers on deep generative modeling, uncertainty quantification, neural data compression, and AI for science. Previously, he led the machine learning group at Disney Research in Pittsburgh and Los Angeles and held postdoctoral positions at Princeton and Columbia University. 
+  scholar: https://scholar.google.com/citations?user=QW_JZnsAAAAJ
+  linkedin: https://www.linkedin.com/in/maja-rudolph-b2952566
+  bio: Maja Rudolph is a Research Professor at the Data Science Institute, University of Wisconsin-Madison, specializing in probabilistic machine learning and generative AI. Previously, she was a Machine Learning Researcher at the Bosch Center for AI, where she advanced the fields of anomaly detection and hybrid modeling. Maja earned her Ph.D. in Computer Science from Columbia University under the mentorship of David Blei and holds a B.S. in Mathematics from MIT.
 
 - name:  Guansong Pang
   photo: Guansong-Pang.png
@@ -41,15 +41,4 @@
   scholar: 
   linkedin: https://www.linkedin.com/
   bio: Andrea Ceccarelli is Associate Professor in Computer Science at the Department of Mathematics and Informatics of the University of Florence (Italy), and has nowadays above 15 years of experience in the design and assessment of dependable and secure systems and System-of-Systems, with a preference for experimental approaches. He has published above 100 papers and he has been program co-chair of SRDS, SafeComp, LADC, and he is a member of the IFIP WG 10.4 on Dependable Computing and Fault Tolerance.
-  
-- name: Daksha Yadav
-  photo: daksha.jpg
-  info: Amazon
-  email:
-  number_educ: 0
-  education1:
-  education2:
-  scholar: https://scholar.google.ca/citations?hl=en&user=_B5T_CAAAAAJ&view_op=list_works&sortby=pubdate
-  linkedin: https://ca.linkedin.com/in/dakshayadav
-  bio: Dr. Yadav is a passionate Applied Scientist with expertise in leveraging large-scale data and machine learning to drive impactful business solutions. Currently, she utilizes her skills at Amazon to extract meaningful insights from real-time financial data using cutting-edge techniques including LLMs and Deep Learning. She has also delved into innovative approaches for detecting anomalies in time-series data using generative and transformer models. Holding a Ph.D. in Computer Science from West Virginia University, Dr. Yadav has a proven track record of research and development. Her contributions include multiple publications and patents in the fields of biometrics, machine learning, and computer vision. 
-  
+    
