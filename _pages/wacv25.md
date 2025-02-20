@@ -91,7 +91,7 @@ March 4, 2025 (Time below is in Arizona local time)
   <ul>
     <li>  8:00-8:10 AM: <b>Opening</b> </li>
     <li>  8:10-9:00 AM: <b> Keynote Take by Prof. Guansong Pang </b> </li>
-    <li> 9:00-9:50 AM: <b> Keynote Talk by Prof. Stephan Mandt </b>  </li>
+    <li> 9:00-9:50 AM: <b> Keynote Talk by Prof. Maja Rudolph </b>  </li>
     <li> 9:50-10:00 AM: <b>Break</b>  </li>
     <li> 10:00-10:30 AM: <b>Oral Presentation Session</b>  </li>
     <li> 10:30-11:20 AM: <b> Keynote Talk by Prof. Leman Akoglu </b>  </li>
