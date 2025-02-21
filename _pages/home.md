@@ -59,6 +59,7 @@ We extend our gratitude to McGill University, Natural Sciences and Engineering R
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc-partner-logo_e.jpg" style="width: 100px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/engine.jpg" style="width: 100px">
 </figure>
 
 <figure class="fourth">
