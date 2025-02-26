@@ -182,6 +182,18 @@
   scholar:
   linkedin:
   bio: Amir received his Bachelor’s degree in Electrical Engineering from Amirkabir University of Technology in Tehran, Iran, and his Master’s degree in Computer Science from York University in Toronto, ON, Canada. He is currently a Research Assistant at the iSMART Lab, focusing on software development and AI-related projects, particularly in the context of machine learning applications.
+
+- name: Théophile Soulié
+  photo: thumbnail_image001.jpg
+  info: Research Assistant (BSc)
+  email: theophile.soulie@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: Made in France, assembled in Morocco, shipped to Canada, Théophile is pursuing a Bachelor’s in Electrical Engineering at McGill University as a James McGill Scholar. Passionate about AI and machine learning, he is particularly interested in their applications in signal processing and intelligent systems. As the founder of McGill H2, he is also engaged in sustainable energy solutions. With a strong foundation in hardware and software, Théophile is eager to contribute to cutting-edge research at the iSMART Lab.
   
 - name: Alexander Wyrstiuk
   photo: AlexW.jpg
