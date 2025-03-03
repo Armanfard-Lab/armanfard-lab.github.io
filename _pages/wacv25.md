@@ -90,7 +90,7 @@ March 4, 2025 (Time below is in Arizona local time)
   
   <ul>
     <li>  8:00-8:10 AM: <b>Opening</b> </li>
-    <li>  8:10-9:00 AM: <b> Keynote Take by Prof. Guansong Pang </b> </li>
+    <li>  8:10-9:00 AM: <b> Keynote Take by Prof. Guansong Pang (Learning Generalist Anomaly Detectors) </b> </li>
     <li> 9:00-9:50 AM: <b> Keynote Talk by Prof. Maja Rudolph (Model Selection for Anomaly Detection) </b>  </li>
     <li> 9:50-10:00 AM: <b>Break</b>  </li>
     <li> 10:00-10:30 AM: <b>Oral Presentation Session</b>  </li>
