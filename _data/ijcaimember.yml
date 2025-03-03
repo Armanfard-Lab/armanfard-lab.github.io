@@ -8,6 +8,18 @@
   scholar: https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/armanfardn
   bio: Narges Armanfard is an Associate Professor of Electrical and Computer Engineering at McGill University and Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM) and McGill Institute for Aerospace Engineering (MIAE). Dr. Armanfard is the founder and principal investigator of the iSMART Lab with the mission to pioneer advanced algorithms in artificial intelligence, with expertise in computer vision, time series analysis, tabular data, large language models, and visual language models.  
+
+- name: Dimitrios Sinodinos
+  photo: Dimitri (2).jpg
+  info: AI Researcher (PhD)
+  email: dimitrios.sinodinos@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/dimitrios-sinodinos/
+  bio: Dimitrios completed his Bachelor's degree in Electrical Engineering at McGill University and was awarded the British Association Medal for graduating with the highest CGPA in the department. Shortly after starting his Master's, Dimitrios fast-tracked into a PhD, where he received the MEDA Award and was selected into the prestigious Vadasz Scholars program. His research involves multi-task learning learning employing lightweight multimodal large language models.
   
 - name: Hadi Hojjati
   photo: Hadi.jpg
