@@ -102,6 +102,7 @@ March 4, 2025 (Time below is in Arizona local time)
     </li>
     <li> 10:30-11:20 AM: <b> Keynote Talk by Prof. Leman Akoglu  (Toward Zero-shot Anomaly Detection) </b>  </li>
     <li> 11:20 AM -12:10 PM: <b> Keynote Talk by Prof. Andrea Ceccarelli (Anomaly-based intrusion detection : Challenges and possible strategies from unknowns to APT detection) </b>  </li>
+    <li> 12:10 PM -12:30 PM: <b> Closing and Poster Session </b>  </li>
   </ul>  
 
 
