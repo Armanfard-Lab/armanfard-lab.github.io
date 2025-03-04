@@ -89,13 +89,19 @@ March 4, 2025 (Time below is in Arizona local time)
   
   
   <ul>
-    <li>  8:00-8:10 AM: <b>Opening</b> </li>
-    <li>  8:10-9:00 AM: <b> Keynote Take by Prof. Guansong Pang (Learning Generalist Anomaly Detectors) </b> </li>
-    <li> 9:00-9:50 AM: <b> Keynote Talk by Prof. Maja Rudolph (Model Selection for Anomaly Detection) </b>  </li>
-    <li> 9:50-10:00 AM: <b>Break</b>  </li>
-    <li> 10:00-10:30 AM: <b>Oral Presentation Session</b>  </li>
-    <li> 10:30-11:20 AM: <b> Keynote Talk by Prof. Leman Akoglu  (Toward Zero-shot Anomaly Detection) </b>  </li>
-    <li> 11:20 AM -12:10 PM: <b> Keynote Talk by Prof. Andrea Ceccarelli (Anomaly-based intrusion detection : Challenges and possible strategies from unknowns to APT detection) </b>  </li>
+    <li>  10:00-10:10 AM: <b>Opening</b> </li>
+    <li>  10:10-11:00 AM: <b> Keynote Take by Prof. Guansong Pang (Learning Generalist Anomaly Detectors) </b> </li>
+    <li> 11:00-11:50 AM: <b> Keynote Talk by Prof. Maja Rudolph (Model Selection for Anomaly Detection) </b>  </li>
+    <li> 11:50-12:00 AM: <b>Break</b>  </li>
+    <li> 12:00-12:30 AM: <b>Oral Presentation Session</b>
+    <ul>
+      <li> 12:00-12:10PM: <b>AnoFPDM: Anomaly Detection with Forward Process of Diffusion Models for Brain MRI</b>  </li>
+      <li> 12:10-12:20PM: <b>PCAD: A Real-World Dataset for 6D Pose Industrial Anomaly Detection</b> </li>
+      <li> 12:20-12:30PM: <b>Detecting Contextual Anomalies by Discovering Consistent Spatial Regions</b> </li>
+    </ul> 
+    </li>
+    <li> 12:30-1:20 PM: <b> Keynote Talk by Prof. Leman Akoglu  (Toward Zero-shot Anomaly Detection) </b>  </li>
+    <li> 1:20 PM -2:10 PM: <b> Keynote Talk by Prof. Andrea Ceccarelli (Anomaly-based intrusion detection : Challenges and possible strategies from unknowns to APT detection) </b>  </li>
   </ul>  
 
 
