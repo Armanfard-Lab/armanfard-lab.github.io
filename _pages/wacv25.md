@@ -100,8 +100,8 @@ March 4, 2025 (Time below is in Arizona local time)
       <li> 10:20-10:30AM: <b>Detecting Contextual Anomalies by Discovering Consistent Spatial Regions</b> </li>
     </ul> 
     </li>
-    <li> 10:30-11:20 AM: <b> Keynote Talk by Prof. Leman Akoglu  (Toward Zero-shot Anomaly Detection) [Slides](https://mcgill-my.sharepoint.com/my?id=%2Fpersonal%2Fhadi%5Fhojjati%5Fmail%5Fmcgill%5Fca%2FDocuments%2FASTAD25%2F25%2DST%2DSSAD%2Dcut%2Epdf&parent=%2Fpersonal%2Fhadi%5Fhojjati%5Fmail%5Fmcgill%5Fca%2FDocuments%2FASTAD25&ga=1) </b>  </li>
-    <li> 11:20 AM -12:10 PM: <b> Keynote Talk by Prof. Andrea Ceccarelli (Anomaly-based intrusion detection : Challenges and possible strategies from unknowns to APT detection) [Slides](https://mcgill-my.sharepoint.com/my?id=%2Fpersonal%2Fhadi%5Fhojjati%5Fmail%5Fmcgill%5Fca%2FDocuments%2FASTAD25%2Fwacv2025%20CECCARELLI%2Epdf&parent=%2Fpersonal%2Fhadi%5Fhojjati%5Fmail%5Fmcgill%5Fca%2FDocuments%2FASTAD25&ga=1) </b>  </li>
+    <li> 10:30-11:20 AM: <b> Keynote Talk by Prof. Leman Akoglu  (Toward Zero-shot Anomaly Detection) </b>  </li>
+    <li> 11:20 AM -12:10 PM: <b> Keynote Talk by Prof. Andrea Ceccarelli (Anomaly-based intrusion detection : Challenges and possible strategies from unknowns to APT detection) </b>  </li>
     <li> 12:10 PM -12:30 PM: <b> Closing and Poster Session </b>  </li>
   </ul>  
 
