@@ -78,7 +78,7 @@ permalink: /ijcai23/
 <h2 align="center"> Organizers </h2>
 <hr>
 {% assign number_printed = 0 %}
-{% for member in site.data.ijcaimember %}
+{% for member in site.data.wacv24member %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
