@@ -1,0 +1,43 @@
+- name: Dr. Jie Ren
+  photo: ren.jpg
+  info: Google DeepMind
+  email: narges.armanfard@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=Os9wmpkAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/
+  bio: Prof. Ren is a Senior Research Scientist in Google DeepMind (formerly Google Brain). Previously, she received her PhD in Computational Biology and Bioinformatics, as well as MSc in Statistics, from the University of Southern California. Her research interests span (1) out-of-distribution (OOD) detection in deep learning, (2) uncertainty estimation and robustness of large models, and (3) the development of reliable machine learning and statistical modeling methods for real-world application, with a special interest in biological and medical studies. 
+  
+- name: Jaemin Yoo
+  photo: yoo.jpg
+  info: Korea Advanced Institute of Science and Technology (KAIST)
+  email:  jaemin@kaist.ac.kr
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.co.kr/citations?user=LcxcTRUAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/jaeminyoo/
+  bio: Prof. Yoo is an Assistant Professor in the School of Electrical Engineering at KAIST. Previously, he was a postdoctoral research fellow at Carnegie Mellon University, where he worked with Prof. Leman Akoglu and Prof. Christos Faloutsos. He received his Ph.D. and B.S. in Computer Science and Engineering from Seoul National University, working with Prof. U Kang. His studies were supported by the Google PhD Fellowship and the Qualcomm Innovation Fellowship. He has been honored with the Outstanding Dissertation Awards from Seoul National University and the Korean Academy of Science and Technology. His research interests include data mining, machine learning, graph neural networks, and anomaly detection.
+  
+- name: Prof. Ye Zhu
+  photo: zhu.jpg
+  info: Deakin University
+  email: ye.zhu@deakin.edu.au
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=QxRHA48AAAAJ&hl=zh-CN
+  linkedin: https://www.deakin.edu.au/about-deakin/people/ye-zhu
+  bio: Dr Ye Zhu is a senior lecturer of computer science at the School of Information Technology at Deakin University. He is also the Data to Intelligence (D2i) Research Centre HDR coordinator and Master of Data Science Course CPL Officer. He received a PhD degree in Artificial Intelligence with a Mollie Holman Medal for the best doctoral thesis of the year from Monash University in 2017. Dr Zhu joined Deakin University as a postdoc research fellow in complex system data analytics in July 2017 and then became a lecturer in Feb 2019. Dr Zhu is an IEEE senior member and ACM member.
+
+- name: Dr. Latha Pemula
+  photo: latha.jpg
+  info: Amazon AWS AI Labs
+  email: narges.armanfard@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=t8EcF9oAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/latha-pemula-9a745023/
+  bio: Dr. Pemula is an applied data scientist in Amazon AWS AI Labs. She has received her Master in from Virginia Tech. Her master thesis was focused on attention for Visual Question Answering systems. She has worked in numerous top tech companies, including Microsoft and Intel before joining Amazon. 
