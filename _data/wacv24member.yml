@@ -1,1 +1,34 @@
+- name: Narges Armanfard (Chair)
+  photo: Narges.jpg
+  info: Assistant Professor
+  email: narges.armanfard@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en
+  linkedin: https://ca.linkedin.com/in/armanfardn
+  bio: Narges Armanfard is a Tenure-Track Assistant Professor of Electrical and Computer Engineering at McGill University, and Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM) and McGill Institute for Aerospace Engineering (MIAE). Before joining McGill, she was a postdoctoral researcher in the Intelligent Assistive Technology and Systems Lab at the University of Toronto and University Health Network. She obtained her PhD degree in Electrical and Computer Engineering from McMaster University.
+  
+- name: Hadi Hojjati
+  photo: Hadi.jpg
+  info: PhD Student
+  email: hadi.hojjati@mcgill.ca
+  number_educ: 0
+  education1: Master <a href="https://www.mcgill.ca/ece/">McGill University</a>
+  education2: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
+  scholar: https://scholar.google.com/citations?user=sdy7NXMAAAAJ&hl=en
+  linkedin:
+  bio: Hadi received his Bachelor's degree in Electrical Engineering from Sharif University of Technology, Iran. He started as an MSc student at the iSMART Lab. and fast-tracked to PhD. He has received Graduate Excellence Fellowship Award (GEF), McGill Engineering Doctoral Award (MEDA), GREAT Award, and AGE-WELL Award. He is currently doing research on multi-modal and multi-variate anomaly detection in time-series data.
+ 
+- name: Thi Kieu Khanh Ho
+  photo: Khanh.jpg
+  info: PhD Student
+  email: thi.k.ho@mail.mcgill.ca
+  number_educ: 0
+  education1: Master <a href="https://www.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology (GIST)</a>
+  education2: BSc <a href="https://hcmiu.edu.vn/en/">International University - Vietnam National University</a>
+  scholar: https://scholar.google.com/citations?hl=en&user=GKb618sAAAAJ&view_op=list_works
+  linkedin:
+  bio: Khanh received her Master's degree at Gwangju Institute of Science and Technology (GIST), South Korea. She was a researcher at Seoul National University Hospital (SNUH), South Korea, before moving to Montreal for her PhD. She has received the prestigious McGill Engineering Doctoral Award (MEDA), GREAT Award and is nominated for the prestigious Vanier Scholarship. Her research focuses on time-series data anomaly detection using generative models and graphs.
+
 
