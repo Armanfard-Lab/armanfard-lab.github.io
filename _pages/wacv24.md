@@ -113,7 +113,7 @@ Jan. 08, 2024 (Time below is in Hawaii local time)
 <hr>
 
 {% assign number_printed = 0 %}
-{% for member in site.data.wacvspeak %}
+{% for member in site.data.wacv24speak %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
