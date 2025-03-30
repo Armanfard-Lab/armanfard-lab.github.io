@@ -1,9 +1,9 @@
 ---
 title: "iSMART Lab - Knowledge Translate"
 layout: textlay
-excerpt: "knowledge transfer"
+excerpt: "Knowledge Tranlate"
 sitemap: false
-permalink: /knowledge_transfer/
+permalink: /knowledge_translate/
 ---
 
 # Tutorials and Workshops
