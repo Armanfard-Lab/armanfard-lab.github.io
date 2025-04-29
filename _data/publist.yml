@@ -1,3 +1,13 @@
+- title: "Graph-based Time-Series Anomaly Detection: A Survey"
+  image: khanh.jpg
+  description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
+  authors: TKK Ho, A Karami, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2302.00058
+    display: 	IEEE Transactions on Pattern ANalysis and Machine Intelligence (TPAMI 2025)
+  highlight: 1
+  news2: 
+
 - title: "Cross-Task Affinity Learning for Multitask Dense Scene Predictions"
   image: ctal_site.jpg
   description: In this paper, we introduce the Cross-Task Affinity Learning (CTAL) module, a lightweight framework that enhances task refinement in multitask networks. CTAL effectively captures local and long-range cross-task interactions by optimizing task affinity matrices for parameter-efficient grouped convolutions without concern for information loss. Our results demonstrate state-of-the-art MTL performance for both CNN and transformer backbones, using significantly fewer parameters than single-task learning.
@@ -99,16 +109,6 @@
   news2: 
 
   
-- title: "Graph-based Time-Series Anomaly Detection: A Survey and Outlook"
-  image: khanh.jpg
-  description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
-  authors: TKK Ho, A Karami, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2302.00058
-    display: 	arXiv:2302.00058 (2023)
-  highlight: 1
-  news2: 
-
 - title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
   image: DASVDD.png
   description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. 
