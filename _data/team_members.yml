@@ -206,6 +206,18 @@
   scholar:
   linkedin:
   bio: Made in France, assembled in Morocco, shipped to Canada, Théophile is pursuing a Bachelor’s in Electrical Engineering at McGill University as a James McGill Scholar. Passionate about AI and machine learning, he is particularly interested in their applications in signal processing and intelligent systems. As the founder of McGill H2, he is also engaged in sustainable energy solutions. With a strong foundation in hardware and software, Théophile is eager to contribute to cutting-edge research at the iSMART Lab.
+
+- name: Benjamin Curis-Friedman
+  photo: benjamin.jpg
+  info: Research Assistant (BSc)
+  email: benjamin.curis-friedman@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/benjaminc-f/
+  bio: Benjamin Curis-Friedman is a Software Engineering CO-OP student at McGill University with software-development experience and a strong interest in machine learning and mathematics. As a research assistant in the iSMART Lab, he will develop programs to turn raw video and sensor data into analysis-ready structured datasets.
   
 - name: Alexander Wyrstiuk
   photo: AlexW.jpg
