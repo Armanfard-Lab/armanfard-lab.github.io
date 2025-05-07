@@ -1,3 +1,13 @@
+- title: "Contaminated Multivariate Time-Series Anomaly Detection with Spatio-Temporal Graph Conditional Diffusion Models"
+  image: khanhaaai.jpg
+  description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
+  authors: TKK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2308.12563
+    display: 	The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)
+  highlight: 1
+  news2: 
+
 - title: "Graph-based Time-Series Anomaly Detection: A Survey"
   image: khanh.jpg
   description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
@@ -75,16 +85,6 @@
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/SSLAD-Survey-NN.pdf
     display: Neural Networks (Elsevier 2024)
-  highlight: 1
-  news2: 
-
-- title: "Contaminated Multivariate Time-Series Anomaly Detection with Spatio-Temporal Graph Conditional Diffusion Models"
-  image: khanhaaai.jpg
-  description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
-  authors: TKK Ho, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2308.12563
-    display: 	arXiv:2308.12563 (2024)
   highlight: 1
   news2: 
 
