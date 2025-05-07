@@ -1,5 +1,5 @@
 - date: April 2025
-  headline:  <a href="https://arxiv.org/abs/2308.12563"> TSAD‑C </a> — a pioneering framework for handling label‑level noise in sensory time‑series anomaly detection—has been accepted for publication at Uncertainty in Artificial Intelligence (UAI 2025), a top‑tier AI conference. The work introduces a practical method that stays robust even when the training data itself is contaminated with anomalies. Congratulations to the iSMART team!
+  headline:  <a href="https://arxiv.org/abs/2308.12563"> TSAD‑C </a> — a pioneering framework for handling label‑level noise in sensory time‑series anomaly detection—has been accepted for publication at Uncertainty in Artificial Intelligence (UAI 2025), one of the few top‑tier AI conferences. The work introduces a practical method that stays robust even when the training data itself is contaminated with anomalies. Congratulations to the iSMART team!
  
 - date: April 2025
   headline: Our in-depth study, <a href="https://arxiv.org/abs/2302.00058"> Graph-based Time Series Anomaly Detection</a>, has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) — the leading venue in the Machine Learning field. This paper functions almost as a textbook, offering a comprehensive treatment of the topic. Congratulations to Khanh and the entire team.  
