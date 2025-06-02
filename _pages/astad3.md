@@ -102,6 +102,7 @@ permalink: /astad3/
 <hr>
 {% assign number_printed = 0 %}
 {% for member in site.data.ijcaimember %}
+{% if member.name == "Prof. Narges Armanfard" %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -152,7 +153,7 @@ permalink: /astad3/
 {% assign number_printed = number_printed | plus: 1 %}
 
 </div>
-
+{% endif %}
 {% endfor %}
 
 {% for member in site.data.team_members %}
