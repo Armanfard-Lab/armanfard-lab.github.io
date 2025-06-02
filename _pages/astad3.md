@@ -101,11 +101,12 @@ permalink: /astad3/
 <h2 align="center"> Organizers </h2>
 <hr>
 {% assign number_printed = 0 %}
-
 {% for member in site.data.pi %}
-{% if member.name == "Prof. Narges Armanfard" %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
 
 <div class="row">
+
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h4>{{ member.name }}</h4>
@@ -147,9 +148,11 @@ permalink: /astad3/
   </ul>
  <a href="{{ member.scholar }}" target="_blank"><img src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" alt="Google Scholar" style="width:26px;height:26px;margin:0px 3px"></a><a href="{{ member.linkedin }}" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:26px;height:26px;margin:0px 3px"></a>
 </div>
+
 {% assign number_printed = number_printed | plus: 1 %}
+
 </div>
-{% endif %}
+
 {% endfor %}
 
 {% for member in site.data.team_members %}
