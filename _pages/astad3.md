@@ -22,7 +22,7 @@ permalink: /astad3/
   
   <h2 align="center">Overview</h2>
    <hr>
-  <p align="center">Anomalies and outliers in visual data can greatly affect the performance and reliability of computer vision systems. As computer vision applications expand across various fields, the need for robust and efficient anomaly detection techniques becomes crucial. This workshop aims to unite researchers, industry experts, and practitioners to explore the latest advancements in automated anomaly detection methods tailored specifically for computer vision tasks. The primary goal of this workshop is to provide a platform for researchers to share and discuss their cutting-edge research in anomaly detection within computer vision. We aim to foster collaboration, encourage knowledge exchange, and promote the development of novel approaches to address the challenges posed by anomalies in visual data. The expected outcome of this workshop is a vibrant exchange of knowledge and ideas among researchers and practitioners. Through insightful presentations, discussions, and interactive sessions, participants will gain a comprehensive understanding of the latest AI-based methodologies for anomaly detection in computer vision. The workshop seeks to inspire new research directions, encourage collaborations, and promote the development of innovative solutions to real-world challenges in anomaly detection. As a result, attendees will leave the workshop with valuable insights and practical tools that will contribute to advancements in anomaly detection techniques, ultimately leading to more robust and reliable computer vision systems across various domains.</p>
+  <p align="center">The 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) aims to gather researchers and practitioners in AI to explore the latest advancements and novel approaches in anomaly detection using AI techniques, with a focus on spatial and temporal dimensions. As AI-assisted systems become more embedded in critical applications such as healthcare and industry, the demand for robust anomaly detection methods has intensified. Anomalies can significantly hinder system reliability, making robust detection methods critical for various real-world applications. In the age of foundation models and large models, the 3rd ASTAD workshop would incorporate discussion on the latest trends in anomaly detection, which includes foundation models in anomaly detection, zero-shot and few-shot anomaly detection, real-time anomaly detection in industrial automation and healthcare systems, and explainable AI methods that enhance transparency and reliability.</p>
  
   <ul style="overflow: hidden">
   
@@ -72,11 +72,13 @@ permalink: /astad3/
   <ul>
     <li> Novel AI architectures for anomaly detection in images and videos </li>
     <li> Large-scale anomaly datasets and benchmarking methodologies </li>
-    <li> Self-supervised, unsupervised, and few-shot anomaly detection techniques </li>
-    <li> Continual Learning for anomaly detection </li>
-    <li> Interpretability and explainability in anomaly detection models </li>
-    <li> Real-world applications of anomaly detection in computer vision </li>
-    <li> Large-Language Models (LLMs) and Anomaly Detection </li>
+    <li> Self-supervised, unsupervised, few-shot, and zero-shot anomaly detection techniques </li>
+    <li> Continual learning for anomaly detection </li>
+    <li> Foundation models and Large Models for anomaly detection </li>
+    <li> Interpretability and explainability in anomaly detection </li>
+    <li> Real-world anomaly detection applications in healthcare, industry, automotive sector, etc. </li>
+    <li> Cross-modal and tabular anomaly detection </li>
+    <li> Real-time anomaly detection </li>
   </ul>  
 
 <p align="left">Submission Site: Coming Soon</p>
@@ -99,7 +101,8 @@ permalink: /astad3/
 <h2 align="center"> Organizers </h2>
 <hr>
 {% assign number_printed = 0 %}
-{% for member in site.data.ijcaimember %}
+{% for member in site.data.team_members %}
+{% if member.name == "Prof. Narges Armanfard" or member.name == "Hadi Hojjati" or member.name == "Thi Kieu Khanh Ho" or member.name == "Thomas Lai" or member.name == "Alexander Koran" or member.name == "Zihan Wang" or member.name == "Jack Wei" or member.name == "Sareh Soleimani" or member.name == "Navid Hassan Zadeh" or member.name == "Dimitrios Sinodinos" %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -150,5 +153,5 @@ permalink: /astad3/
 {% assign number_printed = number_printed | plus: 1 %}
 
 </div>
-
+{% endif %}
 {% endfor %} 
