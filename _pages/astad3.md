@@ -101,13 +101,11 @@ permalink: /astad3/
 <h2 align="center"> Organizers </h2>
 <hr>
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
-{% if member.name == "Prof. Narges Armanfard" or member.name == "Hadi Hojjati" or member.name == "Thi Kieu Khanh Ho" or member.name == "Thomas Lai" or member.name == "Alexander Koran" or member.name == "Zihan Wang" or member.name == "Jack Wei" or member.name == "Sareh Soleimani" or member.name == "Navid Hassan Zadeh" or member.name == "Dimitrios Sinodinos" %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% for member in site.data.pi %}
+{% if member.name == "Prof. Narges Armanfard" %}
 
 <div class="row">
-
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h4>{{ member.name }}</h4>
@@ -149,9 +147,59 @@ permalink: /astad3/
   </ul>
  <a href="{{ member.scholar }}" target="_blank"><img src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" alt="Google Scholar" style="width:26px;height:26px;margin:0px 3px"></a><a href="{{ member.linkedin }}" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:26px;height:26px;margin:0px 3px"></a>
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
+</div>
+{% endif %}
+{% endfor %}
 
+{% for member in site.data.team_members %}
+{% if member.name == "Hadi Hojjati" or member.name == "Thi Kieu Khanh Ho" or member.name == "Thomas Lai" or member.name == "Alexander Koran" or member.name == "Zihan Wang" or member.name == "Jack Wei" or member.name == "Sareh Soleimani" or member.name == "Navid Hassan Zadeh" or member.name == "Dimitrios Sinodinos" %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+    
+  <p style="font-size:14px;">{{ member.bio }}</p>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+ <a href="{{ member.scholar }}" target="_blank"><img src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" alt="Google Scholar" style="width:26px;height:26px;margin:0px 3px"></a><a href="{{ member.linkedin }}" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:26px;height:26px;margin:0px 3px"></a>
+</div>
+{% assign number_printed = number_printed | plus: 1 %}
 </div>
 {% endif %}
 {% endfor %} 
