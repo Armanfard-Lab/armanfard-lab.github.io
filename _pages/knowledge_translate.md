@@ -22,7 +22,6 @@ permalink: /knowledge_translate/
   * [Website](https://ismart.ece.mcgill.ca/aaai24/)
 
 ### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
-  * Organized and led by iSMART Lab
   * [Website](https://ismart.ece.mcgill.ca/ijcai23/)
 
 # Teaching Activities
