@@ -8,6 +8,10 @@ permalink: /knowledge_translate/
 
 # Tutorials and Workshops
 
+### 5th Edition of the Mila Partner Symposium
+  * Prof. Narges Armanfard as Invited Speaker
+  * [Website](https://mila.quebec/en/events/5th-edition-of-the-mila-partner-symposium/)
+
 ### 2nd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2025)
   * [Website](https://ismart.ece.mcgill.ca/wacv25/)
 
@@ -20,12 +24,6 @@ permalink: /knowledge_translate/
 ### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
   * Organized and led by iSMART Lab
   * [Website](https://ismart.ece.mcgill.ca/ijcai23/)
-
-# Invited Talks and Presentations
-
-### 5th Edition of the Mila Partner Symposium
-  * Prof. Narges Armanfard as Invited Speaker
-  * [Website](https://mila.quebec/en/events/5th-edition-of-the-mila-partner-symposium/)
 
 # Teaching Activities
 
