@@ -101,7 +101,7 @@ permalink: /astad3/
 <h2 align="center"> Organizers </h2>
 <hr>
 {% assign number_printed = 0 %}
-{% for member in site.data.pi %}
+{% for member in site.data.ijcaimember %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
