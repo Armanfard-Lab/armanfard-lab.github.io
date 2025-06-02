@@ -21,6 +21,12 @@ permalink: /knowledge_translate/
   * Organized and led by iSMART Lab
   * [Website](https://ismart.ece.mcgill.ca/ijcai23/)
 
+# Invited Talks and Presentations
+
+### 5th Edition of the Mila Partner Symposium
+  * Prof. Narges Armanfard as Invited Speaker
+  * [Website](https://mila.quebec/en/events/5th-edition-of-the-mila-partner-symposium/)
+
 # Teaching Activities
 
 ### 1. ECSE 551 Machine Learning for Engineers (4 credits)
