@@ -102,7 +102,7 @@ permalink: /astad3/
 <hr>
 {% assign number_printed = 0 %}
 {% for member in site.data.ijcaimember %}
-{% if member.name == "Prof. Narges Armanfard" %}
+{% if member.name == "Narges Armanfard (Chair)" %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
