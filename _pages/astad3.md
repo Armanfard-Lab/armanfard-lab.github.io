@@ -17,7 +17,7 @@ permalink: /astad3/
 
 <div class="col-sm-12 clearfix">
   <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/ASTAD Logo-WACV25.png" align="middle" style="max-width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iSMART_white.png" align="middle" style="max-width: 100%;">
 </div>
   
   <h2 align="center">Overview</h2>
