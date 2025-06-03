@@ -62,7 +62,6 @@ permalink: /astad3/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-</div>
 {% endfor %}
 
 <h2 align="center"> Call for Paper </h2>
