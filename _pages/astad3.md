@@ -17,8 +17,8 @@ permalink: /astad3/
 
 <div class="row">
   
-  <div style="background: #777; border-radius: 16px; padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/iSMART_white.png" style="width: 320px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
+  <div style="border-radius: 16px; padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ismart.png" style="width: 320px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
 </div>
 
   <h2 align="center">Overview</h2>
