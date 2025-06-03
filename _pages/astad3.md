@@ -17,8 +17,7 @@ permalink: /astad3/
 
 <div class="col-sm-12 clearfix">
   <div style="text-align: center; background: #000; display: inline-block; border-radius: 16px; padding: 16px; margin-bottom: 16px;">
-    <img src="{{ site.url }}{{ site.baseurl 
-}}/images/iSMART_white.png" align="middle" style="width: 250px; max-width: 90vw; height: auto; display: block; margin: 0 auto;" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/iSMART_white.png" align="middle" style="width: 250px; max-width: 90vw; height: auto; display: block; margin: 0 auto;" />
   </div>
   
   <h2 align="center">Overview</h2>
