@@ -8,6 +8,10 @@ permalink: /astad3/
 
 <h1 align="center"> 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) </h1>
 
+<div style="text-align: center; background: #000; display: inline-block; border-radius: 16px; padding: 16px; margin-bottom: 16px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iSMART_white.png" align="middle" style="width: 250px; max-width: 90vw; height: auto; display: block; margin: 0 auto;" />
+</div>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
 
