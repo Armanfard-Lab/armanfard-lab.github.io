@@ -8,9 +8,7 @@ permalink: /astad3/
 
 <h1 align="center"> 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) </h1>
 
-<div style="background: #222; border-radius: 16px; padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/iSMART_white.png" style="width: 320px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
-</div>
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
@@ -19,6 +17,10 @@ permalink: /astad3/
 
 <div class="row">
   
+  <div style="background: #777; border-radius: 16px; padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iSMART_white.png" style="width: 320px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
+</div>
+
   <h2 align="center">Overview</h2>
    <hr>
   <p align="center">The 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) aims to gather researchers and practitioners in AI to explore the latest advancements and novel approaches in anomaly detection using AI techniques, with a focus on spatial and temporal dimensions. As AI-assisted systems become more embedded in critical applications such as healthcare and industry, the demand for robust anomaly detection methods has intensified. Anomalies can significantly hinder system reliability, making robust detection methods critical for various real-world applications. In the age of foundation models and large models, the 3rd ASTAD workshop would incorporate discussion on the latest trends in anomaly detection, which includes foundation models in anomaly detection, zero-shot and few-shot anomaly detection, real-time anomaly detection in industrial automation and healthcare systems, and explainable AI methods that enhance transparency and reliability.</p>
