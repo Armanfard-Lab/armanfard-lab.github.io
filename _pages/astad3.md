@@ -157,7 +157,7 @@ permalink: /astad3/
 {% endfor %}
 
 {% for member in site.data.team_members %}
-{% if member.name == "Hadi Hojjati" or member.name == "Thi Kieu Khanh Ho" or member.name == "Thomas Lai" or member.name == "Alexander Koran" or member.name == "Zihan Wang" or member.name == "Jack Wei" or member.name == "Sareh Soleimani" or member.name == "Navid Hassan Zadeh" or member.name == "Dimitrios Sinodinos" %}
+{% if member.name == "Hadi Hojjati" or member.name == "Thi Kieu Khanh Ho" or member.name == "Thomas Lai" or member.name == "Alexander Koran" or member.name == "Sareh Soleimani" or member.name == "Navid Hassan Zadeh" or member.name == "Dimitrios Sinodinos" %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
