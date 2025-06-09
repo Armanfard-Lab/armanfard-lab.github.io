@@ -6,7 +6,8 @@ sitemap: false
 permalink: /knowledge_translate/
 ---
 
-# Workshops and Tutorials
+<details open>
+<summary><h2>Workshops and Tutorials</h2></summary>
 
 ### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (NIPS 2025)
   * [Website](https://ismart.ece.mcgill.ca/astad3/)
@@ -22,8 +23,10 @@ permalink: /knowledge_translate/
 
 ### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
   * [Website](https://ismart.ece.mcgill.ca/ijcai23/)
+</details>
 
-# Invited Talks and Conference Presentations
+<details>
+<summary><h2>Invited Talks and Distinguished Lectures</h2></summary>
 
 ### 5th Edition of Mila's Partner Symposium | Partner Symposium - 2025
   * Prof. Narges Armanfard as Invited Speaker
@@ -33,26 +36,32 @@ permalink: /knowledge_translate/
   * "Anomaly Detection in Time Series Data"
   * McMaster University, Hamilton, Canada
   * [Link](https://www.eng.mcmaster.ca/ece/events/lecture-4-anomaly-detection-in-time-series-data/)
+</details>
 
-### Conference Presentations
+<details>
+<summary><h2>Conference Presentations</h2></summary>
 
-#### 2025
+<details>
+<summary><h3>2025</h3></summary>
+
 * The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)
   * [Website](https://www.auai.org/uai2025/)
 
 * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)
   * [Website](https://wacv2025.thecvf.com/)
+</details>
 
-#### 2024
+<details>
+<summary><h3>2024</h3></summary>
+
 * 27th European Conference on Artificial Intelligence (ECAI 2024)
   * Santiago de Compostela, Spain
   * [Website](https://www.ecai2024.eu/)
+</details>
 
-* 5th Edition of Mila's Partner Symposium
-  * Montreal, Canada
-  * [Website](https://lu.ma/pclwwxvr)
+<details>
+<summary><h3>2023</h3></summary>
 
-#### 2023
 * 34th British Machine Vision Conference (BMVC 2023)
   * Aberdeen, Scotland
   * [Website](https://bmvc2023.org/)
@@ -64,8 +73,11 @@ permalink: /knowledge_translate/
 * Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-2023)
   * Washington DC, USA
   * [Website](https://aaai.org/Conferences/AAAI-23/)
+</details>
 
-#### 2022
+<details>
+<summary><h3>2022</h3></summary>
+
 * 26th International Conference on Pattern Recognition (ICPR 2022)
   * Montreal, Canada
   * [Website](https://www.icpr2022.com/)
@@ -73,8 +85,11 @@ permalink: /knowledge_translate/
 * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)
   * Singapore
   * [Website](https://2022.ieeeicassp.org/)
- 
-#### 2021
+</details>
+
+<details>
+<summary><h3>2021</h3></summary>
+
 * IEEE International Conference on Image Processing (ICIP 2021)
   * Anchorage, Alaska, USA
   * [Website](https://2021.ieeeicip.org/)
@@ -86,8 +101,11 @@ permalink: /knowledge_translate/
 * International Joint Conference on Neural Networks (IJCNN 2021)
   * Virtual Conference
   * [Website](https://www.ijcnn.org/)
+</details>
+</details>
 
-# Teaching Activities
+<details>
+<summary><h2>Teaching Activities</h2></summary>
 
 ### 1. ECSE 551 Machine Learning for Engineers (4 credits)
   * Instructor: Prof. Narges Armanfard
@@ -102,3 +120,29 @@ permalink: /knowledge_translate/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/class.jpg" width="75%">
 </figure>
+</details>
+
+<style>
+details {
+    margin: 1em 0;
+    padding: 0.5em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+details summary {
+    cursor: pointer;
+    padding: 0.5em;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+}
+
+details summary:hover {
+    background-color: #e9ecef;
+}
+
+details[open] summary {
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #ddd;
+}
+</style>
