@@ -64,5 +64,7 @@ We extend our gratitude to McGill University, Natural Sciences and Engineering R
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/326467610_727288518831504_1045156533378518963_n.png" style="width: 100px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/engine.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/engine.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cscanada.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bombardier.webp" style="width: 100px">
 </figure>
