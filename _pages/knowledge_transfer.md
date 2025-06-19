@@ -8,7 +8,6 @@ permalink: /knowledge_transfer/
 
 <details open>
 <summary><h2>Invited Workshops and Tutorials</h2></summary>
-*All workshops and tutorials listed below are organized by the iSMART Lab.*
 
 ### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (NIPS 2025)
   * [Website](https://ismart.ece.mcgill.ca/astad3/)
@@ -24,6 +23,8 @@ permalink: /knowledge_transfer/
 
 ### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
   * [Website](https://ismart.ece.mcgill.ca/ijcai23/)
+
+*All workshops and tutorials listed above are organized by the iSMART Lab.*
 </details>
 
 <details>
@@ -46,9 +47,11 @@ permalink: /knowledge_transfer/
 <summary><h3>2025</h3></summary>
 
 * The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)
+  * Rio de Janeiro, Brazil
   * [Website](https://www.auai.org/uai2025/)
 
 * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)
+  * Tucson, Arizona
   * [Website](https://wacv2025.thecvf.com/)
 </details>
 
