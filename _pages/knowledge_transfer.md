@@ -7,7 +7,8 @@ permalink: /knowledge_transfer/
 ---
 
 <details open>
-<summary><h2>Invited Workshops and Tutorials (Organized by iSMART)</h2></summary>
+<summary><h2>Invited Workshops and Tutorials</h2></summary>
+*All workshops and tutorials listed below are organized by the iSMART Lab.*
 
 ### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (NIPS 2025)
   * [Website](https://ismart.ece.mcgill.ca/astad3/)
