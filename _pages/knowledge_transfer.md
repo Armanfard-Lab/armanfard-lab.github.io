@@ -9,6 +9,8 @@ permalink: /knowledge_transfer/
 <details open>
 <summary><h2>Invited Workshops and Tutorials</h2></summary>
 
+**All workshops and tutorials listed below are organized by the iSMART Lab.**
+
 ### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (NIPS 2025)
   * [Website](https://ismart.ece.mcgill.ca/astad3/)
 
@@ -23,8 +25,6 @@ permalink: /knowledge_transfer/
 
 ### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
   * [Website](https://ismart.ece.mcgill.ca/ijcai23/)
-
-*All workshops and tutorials listed above are organized by the iSMART Lab.*
 </details>
 
 <details>
