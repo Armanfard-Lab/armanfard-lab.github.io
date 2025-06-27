@@ -6,9 +6,9 @@ sitemap: false
 permalink: /redesign/
 ---
 
-## Our Research Areas
 
-<section class="content-section">
+
+<div class="content-section">
     <div class="container">
         <div class="row g-4">
             <div class="col-lg-4 col-md-6">
@@ -52,7 +52,7 @@ permalink: /redesign/
             </div>
         </div>
     </div>
-</section>
+</div>
 
 <!-- About Section -->
 <section class="content-section bg-light">
