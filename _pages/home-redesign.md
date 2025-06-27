@@ -6,10 +6,10 @@ sitemap: false
 permalink: /redesign/
 ---
 
-<!-- Research Areas Section -->
-<section id="research" class="content-section">
+## Our Research Areas
+
+<section class="content-section">
     <div class="container">
-        <h2 class="section-title">Our Research Areas</h2>
         <div class="row g-4">
             <div class="col-lg-4 col-md-6">
                 <div class="card-modern">
