@@ -1,147 +1,208 @@
 ---
 title: "iSMART Lab - Redesigned"
-layout: homelay
+layout: redesign
 excerpt: "Innovative Solutions in Machine Learning, Artificial Intelligence, and Robotics Technologies"
 sitemap: false
 permalink: /redesign/
 ---
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 4rem 0; margin: -2rem -15px 3rem -15px; text-align: center;">
+<!-- Research Areas Section -->
+<section id="research" class="content-section">
     <div class="container">
-        <h1 style="font-size: 3.5rem; font-weight: 700; margin-bottom: 1.5rem;">iSMART Lab</h1>
-        <p style="font-size: 1.25rem; margin-bottom: 2rem; opacity: 0.9;">Innovative Solutions in Machine Learning, Artificial Intelligence, and Robotics Technologies</p>
-        <p style="font-size: 1.1rem; max-width: 600px; margin: 0 auto 3rem; opacity: 0.8;">
-            Pioneering advanced algorithms in artificial intelligence with expertise in physics-informed modeling, 
-            computer vision, time series analysis, and large language models at McGill University.
-        </p>
-        <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-            <a href="#research" style="background: white; color: #667eea; padding: 0.75rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; transition: all 0.3s ease;">
-                Our Research
-            </a>
-            <a href="{{ site.url }}{{ site.baseurl }}/team" style="border: 2px solid white; color: white; padding: 0.75rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; transition: all 0.3s ease;">
-                Meet Our Team
-            </a>
+        <h2 class="section-title">Our Research Areas</h2>
+        <div class="row g-4">
+            <div class="col-lg-4 col-md-6">
+                <div class="card-modern">
+                    <div class="card-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <h3 class="card-title">Theoretical Artificial Intelligence</h3>
+                    <p class="card-text">
+                        Exploring foundational principles and pioneering methodologies in attention mechanisms, 
+                        dimensionality reduction, time series analysis, and computer vision. Our work encompasses 
+                        unsupervised learning, clustering, anomaly detection, and multi-modal learning.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="card-modern">
+                    <div class="card-icon">
+                        <i class="fas fa-industry"></i>
+                    </div>
+                    <h3 class="card-title">AI in Industry</h3>
+                    <p class="card-text">
+                        Leading the integration of artificial intelligence to drive transformative advancements 
+                        across diverse industrial applications. We develop advanced ML algorithms for automation, 
+                        predictive maintenance, and process optimization in autonomous driving and manufacturing.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="card-modern">
+                    <div class="card-icon">
+                        <i class="fas fa-heartbeat"></i>
+                    </div>
+                    <h3 class="card-title">AI for Healthcare</h3>
+                    <p class="card-text">
+                        Revolutionizing healthcare through cutting-edge AI technologies. We enhance diagnostic 
+                        accuracy, optimize treatment plans, and improve patient outcomes through sophisticated 
+                        algorithms for early disease detection and personalized medicine.
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
-</div>
+</section>
 
-## Our Research Areas
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">
-    <div style="background: white; border-radius: 16px; padding: 2rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); border: 1px solid rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
-        <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 1.5rem; color: white; font-size: 1.5rem;">🧠</div>
-        <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; color: #1f2937;">Theoretical Artificial Intelligence</h3>
-        <p style="color: #6b7280; line-height: 1.7;">
-            Exploring foundational principles and pioneering methodologies in attention mechanisms, 
-            dimensionality reduction, time series analysis, and computer vision. Our work encompasses 
-            unsupervised learning, clustering, anomaly detection, and multi-modal learning.
-        </p>
-    </div>
-    
-    <div style="background: white; border-radius: 16px; padding: 2rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); border: 1px solid rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
-        <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 1.5rem; color: white; font-size: 1.5rem;">🏭</div>
-        <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; color: #1f2937;">AI in Industry</h3>
-        <p style="color: #6b7280; line-height: 1.7;">
-            Leading the integration of artificial intelligence to drive transformative advancements 
-            across diverse industrial applications. We develop advanced ML algorithms for automation, 
-            predictive maintenance, and process optimization in autonomous driving and manufacturing.
-        </p>
-    </div>
-    
-    <div style="background: white; border-radius: 16px; padding: 2rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); border: 1px solid rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
-        <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 1.5rem; color: white; font-size: 1.5rem;">❤️</div>
-        <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; color: #1f2937;">AI for Healthcare</h3>
-        <p style="color: #6b7280; line-height: 1.7;">
-            Revolutionizing healthcare through cutting-edge AI technologies. We enhance diagnostic 
-            accuracy, optimize treatment plans, and improve patient outcomes through sophisticated 
-            algorithms for early disease detection and personalized medicine.
-        </p>
-    </div>
-</div>
-
-## About iSMART Lab
-
-<div style="background: #f8fafc; padding: 4rem 0; margin: 3rem -15px;">
+<!-- About Section -->
+<section class="content-section bg-light">
     <div class="container">
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center;">
-            <div>
-                <p style="font-size: 1.25rem; font-weight: 500; margin-bottom: 1.5rem; color: #1f2937;">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h2 class="section-title text-start">About iSMART Lab</h2>
+                <p class="lead mb-4">
                     Welcome to the Innovative Solutions in Machine Learning, Artificial Intelligence, and Robotics Technologies (iSMART) Laboratory, 
                     founded and led by <strong>Prof. Narges Armanfard</strong> at McGill University.
                 </p>
-                <p style="margin-bottom: 2rem; color: #6b7280; line-height: 1.7;">
+                <p class="mb-4">
                     Our mission is to pioneer advanced algorithms in artificial intelligence, with expertise in physics-informed modeling, 
                     computer vision, time series analysis, tabular data, large language models, and visual language models.
                 </p>
-                <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-                    <a href="{{ site.url }}{{ site.baseurl }}/team" style="background: #2563eb; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 8px; font-weight: 600;">
-                        Meet Our Team
+                <div class="d-flex gap-3">
+                    <a href="{{ site.url }}{{ site.baseurl }}/team" class="btn btn-primary">
+                        <i class="fas fa-users me-2"></i>Meet Our Team
                     </a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/publications" style="border: 2px solid #2563eb; color: #2563eb; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 8px; font-weight: 600;">
-                        View Publications
+                    <a href="{{ site.url }}{{ site.baseurl }}/publications" class="btn btn-outline-primary">
+                        <i class="fas fa-book me-2"></i>View Publications
                     </a>
                 </div>
             </div>
-            <div style="text-align: center;">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Banner-v2 (2).svg" 
-                     alt="iSMART Lab Research" 
-                     style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);">
+            <div class="col-lg-6">
+                <div class="position-relative">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Banner-v2 (2).svg" 
+                         alt="iSMART Lab Research" 
+                         class="img-fluid rounded-3 shadow-lg floating">
+                </div>
             </div>
         </div>
     </div>
-</div>
+</section>
 
-## Our Partners & Collaborators
-
-We extend our gratitude to our valued partners and collaborators for their invaluable support.
-
-### Academic & Research Partners
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem; margin: 2rem 0;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" alt="McGill University" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FRQNT.png" alt="FRQNT" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.jpg" alt="NSERC" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MITACS.jpg" alt="MITACS" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SCALE.jpg" alt="SCALE AI" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CFI.png" alt="CFI" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-</div>
-
-### Industry Partners
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem; margin: 2rem 0;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ericsson-Logo-700x394.png" alt="Ericsson" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/algoma.jpg" alt="Algoma" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" alt="Nissan" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" alt="Preteckt" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" alt="Trimac" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bridgestone-Logo.png" alt="Bridgestone" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-</div>
-
-### Healthcare Partners
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem; margin: 2rem 0;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuro.png" alt="MNI" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" alt="Jewish General Hospital" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" alt="UHN" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" alt="AgeWell" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" alt="CIHR" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc-partner-logo_e.jpg" alt="NRC" style="height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s ease;">
-</div>
-
-<div style="background: #2563eb; color: white; padding: 4rem 0; margin: 3rem -15px; text-align: center;">
+<!-- Key Features Section -->
+<section class="content-section">
     <div class="container">
-        <h2 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 1.5rem;">Join Our Research Team</h2>
-        <p style="font-size: 1.25rem; margin-bottom: 2rem; opacity: 0.9;">
+        <h2 class="section-title">Why Choose iSMART Lab?</h2>
+        <div class="row g-4">
+            <div class="col-md-3">
+                <div class="text-center">
+                    <div class="card-icon mx-auto">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <h4 class="mt-3">Academic Excellence</h4>
+                    <p class="text-muted">World-class research at McGill University</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="text-center">
+                    <div class="card-icon mx-auto">
+                        <i class="fas fa-handshake"></i>
+                    </div>
+                    <h4 class="mt-3">Industry Partnerships</h4>
+                    <p class="text-muted">Collaborations with leading companies</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="text-center">
+                    <div class="card-icon mx-auto">
+                        <i class="fas fa-flask"></i>
+                    </div>
+                    <h4 class="mt-3">Cutting-edge Research</h4>
+                    <p class="text-muted">Pioneering AI and ML technologies</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="text-center">
+                    <div class="card-icon mx-auto">
+                        <i class="fas fa-globe"></i>
+                    </div>
+                    <h4 class="mt-3">Global Impact</h4>
+                    <p class="text-muted">Solutions for real-world challenges</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Partners Section -->
+<section class="partners-section">
+    <div class="container">
+        <h2 class="section-title">Our Partners & Collaborators</h2>
+        <p class="text-center text-muted mb-5">
+            We extend our gratitude to our valued partners and collaborators for their invaluable support.
+        </p>
+        
+        <!-- Academic & Research Partners -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h5 class="text-center mb-4">Academic & Research Partners</h5>
+            </div>
+            <div class="col-12 d-flex justify-content-center flex-wrap">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" alt="McGill University" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FRQNT.png" alt="FRQNT" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.jpg" alt="NSERC" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MITACS.jpg" alt="MITACS" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SCALE.jpg" alt="SCALE AI" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CFI.png" alt="CFI" class="partner-logo">
+            </div>
+        </div>
+        
+        <!-- Industry Partners -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h5 class="text-center mb-4">Industry Partners</h5>
+            </div>
+            <div class="col-12 d-flex justify-content-center flex-wrap">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ericsson-Logo-700x394.png" alt="Ericsson" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/algoma.jpg" alt="Algoma" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" alt="Nissan" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" alt="Preteckt" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" alt="Trimac" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bridgestone-Logo.png" alt="Bridgestone" class="partner-logo">
+            </div>
+        </div>
+        
+        <!-- Healthcare Partners -->
+        <div class="row">
+            <div class="col-12">
+                <h5 class="text-center mb-4">Healthcare Partners</h5>
+            </div>
+            <div class="col-12 d-flex justify-content-center flex-wrap">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuro.png" alt="MNI" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" alt="Jewish General Hospital" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" alt="UHN" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" alt="AgeWell" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" alt="CIHR" class="partner-logo">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc-partner-logo_e.jpg" alt="NRC" class="partner-logo">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="content-section bg-primary text-white">
+    <div class="container text-center">
+        <h2 class="section-title text-white">Join Our Research Team</h2>
+        <p class="lead mb-4">
             Are you passionate about artificial intelligence and machine learning? 
             We're always looking for talented researchers and students to join our team.
         </p>
-        <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-            <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="background: white; color: #2563eb; padding: 0.75rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600;">
-                View Openings
+        <div class="d-flex justify-content-center gap-3">
+            <a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="btn btn-light btn-lg">
+                <i class="fas fa-briefcase me-2"></i>View Openings
             </a>
-            <a href="{{ site.url }}{{ site.baseurl }}/contact" style="border: 2px solid white; color: white; padding: 0.75rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600;">
-                Contact Us
+            <a href="{{ site.url }}{{ site.baseurl }}/contact" class="btn btn-outline-light btn-lg">
+                <i class="fas fa-envelope me-2"></i>Contact Us
             </a>
         </div>
     </div>
-</div> 
+</section> 
