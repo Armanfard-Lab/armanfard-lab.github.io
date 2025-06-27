@@ -6,87 +6,9 @@ sitemap: false
 permalink: /redesign/
 ---
 
+{% include research-areas.html %}
 
-
-<div class="content-section">
-    <div class="container">
-        <div class="row g-4">
-            <div class="col-lg-4 col-md-6">
-                <div class="card-modern">
-                    <div class="card-icon">
-                        <i class="fas fa-brain"></i>
-                    </div>
-                    <h3 class="card-title">Theoretical Artificial Intelligence</h3>
-                    <p class="card-text">
-                        Exploring foundational principles and pioneering methodologies in attention mechanisms, 
-                        dimensionality reduction, time series analysis, and computer vision. Our work encompasses 
-                        unsupervised learning, clustering, anomaly detection, and multi-modal learning.
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="card-modern">
-                    <div class="card-icon">
-                        <i class="fas fa-industry"></i>
-                    </div>
-                    <h3 class="card-title">AI in Industry</h3>
-                    <p class="card-text">
-                        Leading the integration of artificial intelligence to drive transformative advancements 
-                        across diverse industrial applications. We develop advanced ML algorithms for automation, 
-                        predictive maintenance, and process optimization in autonomous driving and manufacturing.
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="card-modern">
-                    <div class="card-icon">
-                        <i class="fas fa-heartbeat"></i>
-                    </div>
-                    <h3 class="card-title">AI for Healthcare</h3>
-                    <p class="card-text">
-                        Revolutionizing healthcare through cutting-edge AI technologies. We enhance diagnostic 
-                        accuracy, optimize treatment plans, and improve patient outcomes through sophisticated 
-                        algorithms for early disease detection and personalized medicine.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- About Section -->
-<section class="content-section bg-light">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <h2 class="section-title text-start">About iSMART Lab</h2>
-                <p class="lead mb-4">
-                    Welcome to the Innovative Solutions in Machine Learning, Artificial Intelligence, and Robotics Technologies (iSMART) Laboratory, 
-                    founded and led by <strong>Prof. Narges Armanfard</strong> at McGill University.
-                </p>
-                <p class="mb-4">
-                    Our mission is to pioneer advanced algorithms in artificial intelligence, with expertise in physics-informed modeling, 
-                    computer vision, time series analysis, tabular data, large language models, and visual language models.
-                </p>
-                <div class="d-flex gap-3">
-                    <a href="{{ site.url }}{{ site.baseurl }}/team" class="btn btn-primary">
-                        <i class="fas fa-users me-2"></i>Meet Our Team
-                    </a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/publications" class="btn btn-outline-primary">
-                        <i class="fas fa-book me-2"></i>View Publications
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="position-relative">
-                    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Banner-v2 (2).svg" 
-                         alt="iSMART Lab Research" 
-                         class="img-fluid rounded-3 shadow-lg floating">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+{% include about-section.html %}
 
 <!-- Key Features Section -->
 <section class="content-section">
