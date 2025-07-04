@@ -17,14 +17,14 @@ permalink: /team-new/
     <div class="row mb-5">
         <div class="col-md-4">
             <div class="text-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/team/armanfard.jpg" 
-                     alt="Dr. Narges Armanfard" 
+                <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ site.data.pi[0].photo }}" 
+                     alt="{{ site.data.pi[0].name }}" 
                      class="img-fluid rounded-circle mb-3" 
                      style="width: 250px; height: 250px; object-fit: cover;">
             </div>
         </div>
         <div class="col-md-8">
-            <h2 class="text-primary mb-3">Dr. Narges Armanfard</h2>
+            <h2 class="text-primary mb-3">{{ site.data.pi[0].name }}</h2>
             <p class="lead mb-3">Associate Professor (Tenured)</p>
             <p class="mb-3">Dr. Narges Armanfard holds the position of Associate Professor (tenured) in the Department of Electrical and Computer Engineering at McGill University, as well as at Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), where she contributes to cutting-edge research in artificial intelligence and machine learning.</p>
             
@@ -60,50 +60,215 @@ permalink: /team-new/
         </div>
     </div>
 
-    <!-- Current Members Section -->
+    <!-- Postdoctoral Researchers -->
+    {% assign postdoc_members = site.data.team_members | where: "info", "AI Researcher (Postdoctoral)" %}
+    {% if postdoc_members.size > 0 %}
     <div class="row mb-5">
         <div class="col-12">
-            <h2 class="section-title mb-4" style="color: #9E0918;">Current Members</h2>
+            <h2 class="section-title mb-4" style="color: #9E0918;">Postdoctoral Researchers</h2>
         </div>
     </div>
 
     <div class="row">
-        <div class="col-md-6 col-lg-4 mb-4">
+        {% for member in postdoc_members %}
+        <div class="col-lg-6 col-md-12 mb-4">
             <div class="card h-100 shadow-sm">
-                <div class="card-header text-white" style="background-color: #9E0918;">
-                    <h5 class="mb-0">PhD Students</h5>
-                </div>
                 <div class="card-body">
-                    <p class="card-text">Our dedicated PhD students are working on cutting-edge research projects in artificial intelligence, machine learning, and robotics technologies.</p>
-                    <p class="text-muted">Contact us to learn more about our current research opportunities.</p>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                                 alt="{{ member.name }}" 
+                                 class="img-fluid rounded mb-3" 
+                                 style="width: 100%; height: 150px; object-fit: cover;">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title text-primary">{{ member.name }}</h5>
+                            <p class="text-muted mb-2">{{ member.info }}</p>
+                            <p class="card-text" style="font-size: 0.9rem;">{{ member.bio }}</p>
+                            
+                            <div class="d-flex gap-2 mt-3">
+                                {% if member.scholar %}
+                                <a href="{{ member.scholar }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-graduation-cap"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.linkedin %}
+                                <a href="{{ member.linkedin }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.email %}
+                                <a href="mailto:{{ member.email }}" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-envelope"></i>
+                                </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-        
-        <div class="col-md-6 col-lg-4 mb-4">
-            <div class="card h-100 shadow-sm">
-                <div class="card-header text-white" style="background-color: #9E0918;">
-                    <h5 class="mb-0">Master's Students</h5>
-                </div>
-                <div class="card-body">
-                    <p class="card-text">Master's students contribute to various research projects and gain hands-on experience in AI and machine learning applications.</p>
-                    <p class="text-muted">Join our team to work on innovative research projects.</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-md-6 col-lg-4 mb-4">
-            <div class="card h-100 shadow-sm">
-                <div class="card-header text-white" style="background-color: #9E0918;">
-                    <h5 class="mb-0">Research Associates</h5>
-                </div>
-                <div class="card-body">
-                    <p class="card-text">Our research associates bring diverse expertise and contribute to the lab's mission of advancing AI technologies.</p>
-                    <p class="text-muted">Collaborate with us on interdisciplinary research projects.</p>
-                </div>
-            </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <!-- PhD Students -->
+    {% assign phd_members = site.data.team_members | where: "info", "AI Researcher (PhD)" %}
+    {% if phd_members.size > 0 %}
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="section-title mb-4" style="color: #9E0918;">PhD Students</h2>
         </div>
     </div>
+
+    <div class="row">
+        {% for member in phd_members %}
+        <div class="col-lg-6 col-md-12 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                                 alt="{{ member.name }}" 
+                                 class="img-fluid rounded mb-3" 
+                                 style="width: 100%; height: 150px; object-fit: cover;">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title text-primary">{{ member.name }}</h5>
+                            <p class="text-muted mb-2">{{ member.info }}</p>
+                            <p class="card-text" style="font-size: 0.9rem;">{{ member.bio }}</p>
+                            
+                            <div class="d-flex gap-2 mt-3">
+                                {% if member.scholar %}
+                                <a href="{{ member.scholar }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-graduation-cap"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.linkedin %}
+                                <a href="{{ member.linkedin }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.email %}
+                                <a href="mailto:{{ member.email }}" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-envelope"></i>
+                                </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <!-- MSc Students -->
+    {% assign msc_members = site.data.team_members | where: "info", "AI Researcher (MSc)" %}
+    {% if msc_members.size > 0 %}
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="section-title mb-4" style="color: #9E0918;">Master's Students</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for member in msc_members %}
+        <div class="col-lg-6 col-md-12 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                                 alt="{{ member.name }}" 
+                                 class="img-fluid rounded mb-3" 
+                                 style="width: 100%; height: 150px; object-fit: cover;">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title text-primary">{{ member.name }}</h5>
+                            <p class="text-muted mb-2">{{ member.info }}</p>
+                            <p class="card-text" style="font-size: 0.9rem;">{{ member.bio }}</p>
+                            
+                            <div class="d-flex gap-2 mt-3">
+                                {% if member.scholar %}
+                                <a href="{{ member.scholar }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-graduation-cap"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.linkedin %}
+                                <a href="{{ member.linkedin }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.email %}
+                                <a href="mailto:{{ member.email }}" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-envelope"></i>
+                                </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <!-- Research Assistants -->
+    {% assign ra_members = site.data.team_members | where: "info", "Research Assistant (MSc)" %}
+    {% assign ra_bsc_members = site.data.team_members | where: "info", "Research Assistant (BSc)" %}
+    {% assign all_ra_members = ra_members | concat: ra_bsc_members %}
+    {% if all_ra_members.size > 0 %}
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="section-title mb-4" style="color: #9E0918;">Research Assistants</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for member in all_ra_members %}
+        <div class="col-lg-6 col-md-12 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                                 alt="{{ member.name }}" 
+                                 class="img-fluid rounded mb-3" 
+                                 style="width: 100%; height: 150px; object-fit: cover;">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title text-primary">{{ member.name }}</h5>
+                            <p class="text-muted mb-2">{{ member.info }}</p>
+                            <p class="card-text" style="font-size: 0.9rem;">{{ member.bio }}</p>
+                            
+                            <div class="d-flex gap-2 mt-3">
+                                {% if member.scholar %}
+                                <a href="{{ member.scholar }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-graduation-cap"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.linkedin %}
+                                <a href="{{ member.linkedin }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                                {% endif %}
+                                {% if member.email %}
+                                <a href="mailto:{{ member.email }}" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-envelope"></i>
+                                </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
 
     <!-- Join Our Team Section -->
     <div class="row mt-5">
