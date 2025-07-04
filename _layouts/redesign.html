@@ -325,10 +325,10 @@
                         <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/team">Team</a>
+                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/team-new">Team</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a>
+                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications-new">Publications</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/knowledge_transfer">Knowledge Transfer</a>
@@ -340,7 +340,7 @@
                         <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/vacancies">Vacancies</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/contact">Contact</a>
+                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/contact-new">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -348,6 +348,7 @@
     </nav>
 
     <!-- Hero Section -->
+    {% if page.permalink == "/" or page.permalink == "/redesign/" or page.permalink == "/redesign-new/" %}
     <section class="hero-section">
         <div class="container">
             <div class="hero-content">
@@ -361,7 +362,7 @@
                     <a href="#research" class="btn btn-light btn-lg px-4 py-2">
                         <i class="fas fa-microscope me-2"></i>Our Research
                     </a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/team" class="btn btn-outline-light btn-lg px-4 py-2">
+                    <a href="{{ site.url }}{{ site.baseurl }}/team-new" class="btn btn-outline-light btn-lg px-4 py-2">
                         <i class="fas fa-users me-2"></i>Meet Our Team
                     </a>
                 </div>
@@ -371,6 +372,7 @@
             <i class="fas fa-chevron-down"></i>
         </div>
     </section>
+    {% endif %}
 
     <!-- Main Content -->
     <main>
