@@ -1,108 +1,109 @@
 ---
 title: "iSMART Lab - Publications"
 layout: redesign
-excerpt: "Our research publications and contributions"
+excerpt: "iSMART Lab -- Publications."
 sitemap: false
 permalink: /publications-new/
 ---
 
-<!-- Publications Section -->
-<section class="content-section">
-    <div class="container">
-        <h2 class="section-title">Research Highlights</h2>
-        <p class="text-center text-muted mb-5">
-            For a complete list of publications and patents, visit our 
-            <a href="https://scholar.google.com/citations?hl=en&user=V8pn4tIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="text-decoration-none">Google Scholar profile</a>
-        </p>
-        
-        <div class="row g-4">
-            {% assign number_printed = 0 %}
-            {% for publi in site.data.publist %}
-                {% if publi.highlight == 1 %}
-                <div class="col-lg-6 col-md-12 mb-4">
-                    <div class="card-modern h-100">
-                        <div class="row g-0">
-                            <div class="col-md-4">
-                                <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
-                                     alt="{{ publi.title }}" 
-                                     class="img-fluid rounded-start h-100" 
-                                     style="object-fit: cover;">
-                            </div>
-                            <div class="col-md-8">
-                                <div class="card-body">
-                                    <h5 class="card-title">{{ publi.title }}</h5>
-                                    <p class="card-text">{{ publi.description }}</p>
-                                    <p class="text-muted mb-2"><em>{{ publi.authors }}</em></p>
-                                    
-                                    {% if publi.link.url %}
-                                    <a href="{{ publi.link.url }}" target="_blank" class="btn btn-primary btn-sm mb-2">
-                                        <i class="fas fa-external-link-alt me-1"></i>{{ publi.link.display }}
-                                    </a>
-                                    {% endif %}
-                                    
-                                    {% if publi.news1 %}
-                                    <p class="text-danger mb-1"><strong>{{ publi.news1 }}</strong></p>
-                                    {% endif %}
-                                    
-                                    {% if publi.news2 %}
-                                    <p class="text-muted" style="font-size: 0.9rem;">{{ publi.news2 }}</p>
-                                    {% endif %}
-                                </div>
-                            </div>
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="section-title mb-4">Publications</h1>
+            <p class="lead mb-4">For full list of publications and patents see <a href="https://scholar.google.com/citations?hl=en&user=V8pn4tIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="link-primary">Google Scholar</a></p>
+        </div>
+    </div>
+
+    <!-- Research Highlights -->
+    <div class="row">
+        <div class="col-12">
+            <h2 class="section-title mb-4" style="color: #9E0918;">Group Highlights</h2>
+        </div>
+    </div>
+
+    {% assign number_printed = 0 %}
+    {% for publi in site.data.publist %}
+    {% assign even_odd = number_printed | modulo: 2 %}
+    {% if publi.highlight == 1 %}
+
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-fluid rounded" alt="Publication Image" style="aspect-ratio: 1.8;">
+                        </div>
+                        <div class="col-md-9">
+                            <h5 class="card-title text-primary">{{ publi.title }}</h5>
+                            <p class="card-text">{{ publi.description }}</p>
+                            <p class="text-muted"><em>{{ publi.authors }}</em></p>
+                            <p><strong><a href="{{ publi.link.url }}" target="_blank" class="link-primary">{{ publi.link.display }}</a></strong></p>
+                            {% if publi.news1 %}
+                            <p class="text-danger mb-1"><strong>{{ publi.news1 }}</strong></p>
+                            {% endif %}
+                            {% if publi.news2 %}
+                            <p class="mb-0">{{ publi.news2 }}</p>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
-                {% assign number_printed = number_printed | plus: 1 %}
-                {% endif %}
-            {% endfor %}
+            </div>
         </div>
     </div>
-</section>
 
-<!-- Research Areas Section -->
-<section class="content-section bg-light">
-    <div class="container">
-        <h2 class="section-title">Research Areas</h2>
-        <div class="row g-4">
-            <div class="col-lg-4 col-md-6">
-                <div class="card-modern text-center">
-                    <div class="card-icon mx-auto">
-                        <i class="fas fa-brain"></i>
-                    </div>
-                    <h3 class="card-title">Theoretical AI</h3>
-                    <p class="card-text">
-                        Foundational research in attention mechanisms, dimensionality reduction, 
-                        time series analysis, and computer vision.
-                    </p>
+    {% assign number_printed = number_printed | plus: 1 %}
+    {% endif %}
+    {% endfor %}
+
+    <!-- Research Areas -->
+    <div class="row mt-5">
+        <div class="col-12">
+            <h2 class="section-title mb-4" style="color: #9E0918;">Research Areas</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-header text-white" style="background-color: #9E0918;">
+                    <h5 class="mb-0">Theoretical AI</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Foundational research in attention mechanisms, dimensionality reduction,
+                    time series analysis, and computer vision. Our work encompasses various learning paradigms
+                    including unsupervised learning, clustering, anomaly detection, and reinforcement learning.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="card-modern text-center">
-                    <div class="card-icon mx-auto">
-                        <i class="fas fa-industry"></i>
-                    </div>
-                    <h3 class="card-title">Industrial Applications</h3>
-                    <p class="card-text">
-                        AI solutions for automation, predictive maintenance, and process optimization 
-                        in manufacturing and autonomous systems.
-                    </p>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-header text-white" style="background-color: #9E0918;">
+                    <h5 class="mb-0">AI in Industry</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">AI solutions for automation, predictive maintenance, and process optimization
+                    in autonomous driving and manufacturing. We develop intelligent systems that enhance
+                    efficiency and safety across industrial applications.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="card-modern text-center">
-                    <div class="card-icon mx-auto">
-                        <i class="fas fa-heartbeat"></i>
-                    </div>
-                    <h3 class="card-title">Healthcare AI</h3>
-                    <p class="card-text">
-                        Advanced diagnostic systems, treatment optimization, and personalized medicine 
-                        through sophisticated AI algorithms.
-                    </p>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-header text-white" style="background-color: #9E0918;">
+                    <h5 class="mb-0">AI for Healthcare</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Revolutionary AI technologies for healthcare, focusing on diagnostic accuracy,
+                    treatment optimization, and patient outcomes. Our algorithms support early disease detection
+                    and personalized medicine approaches.</p>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</div>
 
 <!-- Call to Action Section -->
 <section class="content-section bg-primary text-white">
