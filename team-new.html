@@ -1,0 +1,219 @@
+---
+title: "iSMART Lab - Team"
+layout: redesign
+excerpt: "Meet our research team"
+sitemap: false
+permalink: /team-new/
+---
+
+<!-- Hero Section -->
+<section class="hero-section">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">Our Research Team</h1>
+            <p class="hero-subtitle">Meet the brilliant minds behind iSMART Lab's innovative research</p>
+            <p class="hero-description">
+                Our diverse team of researchers, students, and collaborators work together to advance 
+                the frontiers of artificial intelligence and machine learning.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Principal Investigator Section -->
+<section class="content-section">
+    <div class="container">
+        <h2 class="section-title">Founder and Principal Investigator</h2>
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card-modern text-center">
+                    <div class="position-relative mb-4">
+                        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ site.data.pi[0].photo }}" 
+                             alt="{{ site.data.pi[0].name }}" 
+                             class="img-fluid rounded-circle" 
+                             style="width: 200px; height: 200px; object-fit: cover;">
+                    </div>
+                    <h3 class="card-title">{{ site.data.pi[0].name }}</h3>
+                    <p class="text-muted mb-4">{{ site.data.pi[0].info }}</p>
+                    
+                    <div class="mb-4">
+                        <p class="card-text">
+                            Dr. Armanfard is the founder and principal investigator of the iSMART Lab. She holds the position of Associate Professor (tenured) in the Department of Electrical and Computer Engineering at McGill University, as well as at Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM), and McGill Institute for Aerospace Engineering (MIAE). She earned her Ph.D. and Postdoctoral in Artificial Intelligence from McMaster University and the University of Toronto in Canada.
+                        </p>
+                        <p class="card-text">
+                            Her contributions to the field of AI have been acknowledged through numerous awards from institutions, including the Natural Sciences and Engineering Research Council of Canada, AgeWell, Vanier-Banting, the Fonds de recherche du Québec, McMaster University, McGill University, the University of Toronto, the Canadian Institutes of Health Research, Scale AI, National Research Council Canada, and Canada Foundation for Innovation, among others. Narges's academic accomplishments extend to the publication of over fifty AI-focused articles across distinguished platforms, including AAAI, WACV, ECAI, BMVC, ECML PKDD, TPAMI, TNNLS, TSMC, TIFS, and more.
+                        </p>
+                    </div>
+                    
+                    <div class="d-flex justify-content-center gap-3 mb-4">
+                        <a href="https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en" target="_blank" class="btn btn-outline-primary">
+                            <i class="fas fa-graduation-cap me-2"></i>Google Scholar
+                        </a>
+                        <a href="https://ca.linkedin.com/in/armanfardn" target="_blank" class="btn btn-outline-primary">
+                            <i class="fab fa-linkedin me-2"></i>LinkedIn
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Research Team Members Section -->
+<section class="content-section bg-light">
+    <div class="container">
+        <h2 class="section-title">Research Team Members</h2>
+        
+        <!-- Postdoctoral Researchers -->
+        {% if site.data.postdoc[0].name %}
+        <div class="row mb-5">
+            <div class="col-12">
+                <h3 class="text-center mb-4" style="color: var(--primary-color);">Postdoctoral Researchers</h3>
+            </div>
+            {% for member in site.data.postdoc %}
+            <div class="col-lg-6 col-md-12 mb-4">
+                <div class="card-modern h-100">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                                 alt="{{ member.name }}" 
+                                 class="img-fluid rounded" 
+                                 style="width: 100%; height: 150px; object-fit: cover;">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ member.name }}</h5>
+                                <p class="text-muted mb-2">{{ member.info }}</p>
+                                <p class="card-text" style="font-size: 0.9rem;">{{ member.bio }}</p>
+                                
+                                {% if member.number_educ > 0 %}
+                                <ul class="list-unstyled" style="font-size: 0.85rem;">
+                                    {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
+                                    {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
+                                    {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
+                                    {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
+                                    {% if member.number_educ >= 5 %}<li>{{ member.education5 }}</li>{% endif %}
+                                </ul>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+        
+        <!-- Graduate Students -->
+        {% if site.data.team_members[0].name %}
+        <div class="row mb-5">
+            <div class="col-12">
+                <h3 class="text-center mb-4" style="color: var(--primary-color);">Graduate Students</h3>
+            </div>
+            {% for member in site.data.team_members %}
+            <div class="col-lg-6 col-md-12 mb-4">
+                <div class="card-modern h-100">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                                 alt="{{ member.name }}" 
+                                 class="img-fluid rounded" 
+                                 style="width: 100%; height: 150px; object-fit: cover;">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ member.name }}</h5>
+                                <p class="text-muted mb-2">{{ member.info }}</p>
+                                <p class="card-text" style="font-size: 0.9rem;">{{ member.bio }}</p>
+                                
+                                {% if member.number_educ > 0 %}
+                                <ul class="list-unstyled" style="font-size: 0.85rem;">
+                                    {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
+                                    {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
+                                    {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
+                                    {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
+                                    {% if member.number_educ >= 5 %}<li>{{ member.education5 }}</li>{% endif %}
+                                </ul>
+                                {% endif %}
+                                
+                                <div class="mt-3">
+                                    {% if member.scholar %}
+                                    <a href="{{ member.scholar }}" target="_blank" class="btn btn-sm btn-outline-primary me-2">
+                                        <i class="fas fa-graduation-cap"></i>
+                                    </a>
+                                    {% endif %}
+                                    {% if member.linkedin %}
+                                    <a href="{{ member.linkedin }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                        <i class="fab fa-linkedin"></i>
+                                    </a>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+        
+        <!-- Undergraduate Students -->
+        {% if site.data.bsc[0].name %}
+        <div class="row">
+            <div class="col-12">
+                <h3 class="text-center mb-4" style="color: var(--primary-color);">Undergraduate Students</h3>
+            </div>
+            {% for member in site.data.bsc %}
+            <div class="col-lg-6 col-md-12 mb-4">
+                <div class="card-modern h-100">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                                 alt="{{ member.name }}" 
+                                 class="img-fluid rounded" 
+                                 style="width: 100%; height: 150px; object-fit: cover;">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ member.name }}</h5>
+                                <p class="text-muted mb-2">{{ member.info }}</p>
+                                <p class="card-text" style="font-size: 0.9rem;">{{ member.project }}</p>
+                                
+                                {% if member.number_educ > 0 %}
+                                <ul class="list-unstyled" style="font-size: 0.85rem;">
+                                    {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
+                                    {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
+                                    {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
+                                    {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
+                                    {% if member.number_educ >= 5 %}<li>{{ member.education5 }}</li>{% endif %}
+                                </ul>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="content-section bg-primary text-white">
+    <div class="container text-center">
+        <h2 class="section-title text-white">Join Our Team</h2>
+        <p class="lead mb-4">
+            Are you passionate about artificial intelligence and machine learning? 
+            We're always looking for talented researchers and students to join our team.
+        </p>
+        <div class="d-flex justify-content-center gap-3">
+            <a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="btn btn-light btn-lg">
+                <i class="fas fa-briefcase me-2"></i>View Openings
+            </a>
+            <a href="{{ site.url }}{{ site.baseurl }}/contact" class="btn btn-outline-light btn-lg">
+                <i class="fas fa-envelope me-2"></i>Contact Us
+            </a>
+        </div>
+    </div>
+</section> 

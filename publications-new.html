@@ -1,0 +1,143 @@
+---
+title: "iSMART Lab - Publications"
+layout: redesign
+excerpt: "Our research publications and contributions"
+sitemap: false
+permalink: /publications-new/
+---
+
+<!-- Hero Section -->
+<section class="hero-section">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">Our Publications</h1>
+            <p class="hero-subtitle">Discover our latest research contributions in AI and machine learning</p>
+            <p class="hero-description">
+                Explore our published work across prestigious conferences and journals, 
+                showcasing our innovative approaches to artificial intelligence challenges.
+            </p>
+            <div class="d-flex justify-content-center gap-3">
+                <a href="https://scholar.google.com/citations?hl=en&user=V8pn4tIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn btn-light btn-lg">
+                    <i class="fas fa-graduation-cap me-2"></i>Google Scholar
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Publications Section -->
+<section class="content-section">
+    <div class="container">
+        <h2 class="section-title">Research Highlights</h2>
+        <p class="text-center text-muted mb-5">
+            For a complete list of publications and patents, visit our 
+            <a href="https://scholar.google.com/citations?hl=en&user=V8pn4tIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="text-decoration-none">Google Scholar profile</a>
+        </p>
+        
+        <div class="row g-4">
+            {% assign number_printed = 0 %}
+            {% for publi in site.data.publist %}
+                {% if publi.highlight == 1 %}
+                <div class="col-lg-6 col-md-12 mb-4">
+                    <div class="card-modern h-100">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
+                                     alt="{{ publi.title }}" 
+                                     class="img-fluid rounded-start h-100" 
+                                     style="object-fit: cover;">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{ publi.title }}</h5>
+                                    <p class="card-text">{{ publi.description }}</p>
+                                    <p class="text-muted mb-2"><em>{{ publi.authors }}</em></p>
+                                    
+                                    {% if publi.link.url %}
+                                    <a href="{{ publi.link.url }}" target="_blank" class="btn btn-primary btn-sm mb-2">
+                                        <i class="fas fa-external-link-alt me-1"></i>{{ publi.link.display }}
+                                    </a>
+                                    {% endif %}
+                                    
+                                    {% if publi.news1 %}
+                                    <p class="text-danger mb-1"><strong>{{ publi.news1 }}</strong></p>
+                                    {% endif %}
+                                    
+                                    {% if publi.news2 %}
+                                    <p class="text-muted" style="font-size: 0.9rem;">{{ publi.news2 }}</p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% assign number_printed = number_printed | plus: 1 %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- Research Areas Section -->
+<section class="content-section bg-light">
+    <div class="container">
+        <h2 class="section-title">Research Areas</h2>
+        <div class="row g-4">
+            <div class="col-lg-4 col-md-6">
+                <div class="card-modern text-center">
+                    <div class="card-icon mx-auto">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <h3 class="card-title">Theoretical AI</h3>
+                    <p class="card-text">
+                        Foundational research in attention mechanisms, dimensionality reduction, 
+                        time series analysis, and computer vision.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="card-modern text-center">
+                    <div class="card-icon mx-auto">
+                        <i class="fas fa-industry"></i>
+                    </div>
+                    <h3 class="card-title">Industrial Applications</h3>
+                    <p class="card-text">
+                        AI solutions for automation, predictive maintenance, and process optimization 
+                        in manufacturing and autonomous systems.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="card-modern text-center">
+                    <div class="card-icon mx-auto">
+                        <i class="fas fa-heartbeat"></i>
+                    </div>
+                    <h3 class="card-title">Healthcare AI</h3>
+                    <p class="card-text">
+                        Advanced diagnostic systems, treatment optimization, and personalized medicine 
+                        through sophisticated AI algorithms.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="content-section bg-primary text-white">
+    <div class="container text-center">
+        <h2 class="section-title text-white">Stay Updated</h2>
+        <p class="lead mb-4">
+            Follow our latest research and publications to stay informed about 
+            cutting-edge developments in artificial intelligence.
+        </p>
+        <div class="d-flex justify-content-center gap-3">
+            <a href="https://scholar.google.com/citations?hl=en&user=V8pn4tIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn btn-light btn-lg">
+                <i class="fas fa-graduation-cap me-2"></i>View All Publications
+            </a>
+            <a href="{{ site.url }}{{ site.baseurl }}/contact" class="btn btn-outline-light btn-lg">
+                <i class="fas fa-envelope me-2"></i>Contact Us
+            </a>
+        </div>
+    </div>
+</section> 
