@@ -11,7 +11,7 @@ permalink: /knowledge_transfer/
 
 **All workshops and tutorials listed below are organized by iSMART Lab.**
 
-### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (NIPS 2025)
+### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (When/Where: TBD)
   * [Website](https://ismart.ece.mcgill.ca/astad3/)
 
 ### 2nd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2025)
