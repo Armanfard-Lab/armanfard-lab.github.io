@@ -285,6 +285,15 @@
             background-color: var(--primary-color) !important;
         }
 
+        .navbar {
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            z-index: 1000;
+        }
+
+        main {
+            padding-top: 20px;
+        }
+
         .text-danger {
             color: var(--primary-color) !important;
         }
@@ -308,8 +317,8 @@
 </head>
 
 <body>
-    <!-- Modern Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-modern fixed-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: #9E0918;">
         <div class="container">
             <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
                 <i class="fas fa-brain me-2"></i>iSMART Lab
@@ -378,7 +387,7 @@
     {% endif %}
 
     <!-- Main Content -->
-    <main>
+    <main style="margin-top: 80px;">
         {{ content }}
     </main>
 
