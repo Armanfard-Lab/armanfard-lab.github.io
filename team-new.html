@@ -270,6 +270,65 @@ permalink: /team-new/
     </div>
     {% endif %}
 
+    <!-- Alumni Section -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="section-title mb-4" style="color: #9E0918;">Alumni</h2>
+            <p class="text-center text-muted mb-4">Our former team members who have moved on to exciting opportunities in academia and industry.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for alumni in site.data.alumni_members %}
+        <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    {% if alumni.photo %}
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ alumni.photo }}" 
+                         alt="{{ alumni.name }}" 
+                         class="img-fluid rounded-circle mb-3" 
+                         style="width: 120px; height: 120px; object-fit: cover;">
+                    {% else %}
+                    <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" 
+                         style="width: 120px; height: 120px;">
+                        <i class="fas fa-user-graduate fa-2x text-muted"></i>
+                    </div>
+                    {% endif %}
+                    
+                    <h5 class="card-title text-primary">{{ alumni.name }}</h5>
+                    <p class="text-muted mb-2">{{ alumni.duration }}</p>
+                    
+                    <a href="/alumni/" class="btn btn-outline-primary btn-sm">
+                        <i class="fas fa-user me-2"></i>View Alumni
+                    </a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Undergraduate Alumni -->
+    {% if site.data.alumni_bsc.size > 0 %}
+    <div class="row mb-5">
+        <div class="col-12">
+            <h3 class="section-title mb-4" style="color: #9E0918; font-size: 1.8rem;">Undergraduate Alumni</h3>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for alumni in site.data.alumni_bsc %}
+        <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center">
+                    <h6 class="card-title text-primary">{{ alumni.name }}</h6>
+                    <p class="text-muted small">{{ alumni.duration }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
     <!-- Join Our Team Section -->
     <div class="row mt-5">
         <div class="col-12">

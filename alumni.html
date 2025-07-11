@@ -1,0 +1,233 @@
+---
+title: "iSMART Lab - Alumni"
+layout: redesign
+excerpt: "iSMART Lab -- Alumni."
+sitemap: false
+permalink: /alumni/
+---
+
+<div class="container mt-5">
+    <!-- Header Section -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <h1 class="section-title mb-4" style="color: #9E0918;">Alumni</h1>
+            <p class="lead mb-4">Our former team members who have moved on to exciting opportunities in academia and industry.</p>
+        </div>
+    </div>
+
+    <!-- Alumni Directory -->
+    <div id="alumni-directory">
+        <!-- Graduate Alumni -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <h2 class="section-title mb-4" style="color: #9E0918;">Graduate Alumni</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            {% for alumni in site.data.alumni_members %}
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="card h-100 shadow-sm alumni-card" data-alumni="{{ alumni.name | slugify }}">
+                    <div class="card-body text-center">
+                        {% if alumni.photo %}
+                        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ alumni.photo }}" 
+                             alt="{{ alumni.name }}" 
+                             class="img-fluid rounded-circle mb-3" 
+                             style="width: 120px; height: 120px; object-fit: cover;">
+                        {% else %}
+                        <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" 
+                             style="width: 120px; height: 120px;">
+                            <i class="fas fa-user-graduate fa-2x text-muted"></i>
+                        </div>
+                        {% endif %}
+                        
+                        <h5 class="card-title text-primary">{{ alumni.name }}</h5>
+                        <p class="text-muted mb-2">{{ alumni.duration }}</p>
+                        
+                        <button class="btn btn-outline-primary btn-sm view-profile-btn" 
+                                data-alumni="{{ alumni.name | slugify }}"
+                                data-name="{{ alumni.name }}"
+                                data-duration="{{ alumni.duration }}"
+                                data-info="{{ alumni.info }}"
+                                data-email="{{ alumni.email }}"
+                                data-linkedin="{{ alumni.linkedin }}"
+                                data-scholar="{{ alumni.scholar }}"
+                                data-photo="{{ alumni.photo }}"
+                                data-education1="{{ alumni.education1 }}"
+                                data-education2="{{ alumni.education2 }}"
+                                data-education3="{{ alumni.education3 }}"
+                                data-education4="{{ alumni.education4 }}"
+                                data-education5="{{ alumni.education5 }}">
+                            <i class="fas fa-user me-2"></i>View Profile
+                        </button>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Undergraduate Alumni -->
+        {% if site.data.alumni_bsc.size > 0 %}
+        <div class="row mb-5">
+            <div class="col-12">
+                <h2 class="section-title mb-4" style="color: #9E0918;">Undergraduate Alumni</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            {% for alumni in site.data.alumni_bsc %}
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body text-center">
+                        <h6 class="card-title text-primary">{{ alumni.name }}</h6>
+                        <p class="text-muted small">{{ alumni.duration }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <!-- Back to Team -->
+        <div class="row mt-5">
+            <div class="col-12 text-center">
+                <a href="/team-new/" class="btn btn-primary btn-lg">
+                    <i class="fas fa-users me-2"></i>Back to Current Team
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Individual Alumni Profile Modal -->
+    <div class="modal fade" id="alumniModal" tabindex="-1" aria-labelledby="alumniModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header" style="background-color: #9E0918; color: white;">
+                    <h5 class="modal-title" id="alumniModalLabel">Alumni Profile</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <img id="alumni-photo" src="" alt="" class="img-fluid rounded-circle mb-3" 
+                                     style="width: 200px; height: 200px; object-fit: cover; display: none;">
+                                <div id="alumni-photo-placeholder" class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" 
+                                     style="width: 200px; height: 200px;">
+                                    <i class="fas fa-user-graduate fa-3x text-muted"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <h3 id="alumni-name" class="text-primary mb-3"></h3>
+                            <p id="alumni-duration" class="lead mb-3"></p>
+                            <p id="alumni-info" class="mb-3"></p>
+                            
+                            <div id="alumni-education" class="mb-4" style="display: none;">
+                                <h5 style="color: #9E0918;">Education</h5>
+                                <ul id="education-list" class="list-unstyled"></ul>
+                            </div>
+                            
+                            <div id="alumni-links" class="d-flex gap-3"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Handle view profile button clicks
+    document.querySelectorAll('.view-profile-btn').forEach(button => {
+        button.addEventListener('click', function() {
+            const alumniData = this.dataset;
+            
+            // Update modal content
+            document.getElementById('alumni-name').textContent = alumniData.name;
+            document.getElementById('alumni-duration').textContent = alumniData.duration;
+            
+            // Handle info
+            const infoElement = document.getElementById('alumni-info');
+            if (alumniData.info && alumniData.info.trim()) {
+                infoElement.textContent = alumniData.info;
+                infoElement.style.display = 'block';
+            } else {
+                infoElement.style.display = 'none';
+            }
+            
+            // Handle photo
+            const photoElement = document.getElementById('alumni-photo');
+            const photoPlaceholder = document.getElementById('alumni-photo-placeholder');
+            if (alumniData.photo && alumniData.photo.trim()) {
+                photoElement.src = '{{ site.url }}{{ site.baseurl }}/images/teampic/' + alumniData.photo;
+                photoElement.style.display = 'block';
+                photoPlaceholder.style.display = 'none';
+            } else {
+                photoElement.style.display = 'none';
+                photoPlaceholder.style.display = 'flex';
+            }
+            
+            // Handle education
+            const educationDiv = document.getElementById('alumni-education');
+            const educationList = document.getElementById('education-list');
+            educationList.innerHTML = '';
+            
+            let hasEducation = false;
+            for (let i = 1; i <= 5; i++) {
+                const education = alumniData['education' + i];
+                if (education && education.trim()) {
+                    const li = document.createElement('li');
+                    li.innerHTML = '• ' + education;
+                    educationList.appendChild(li);
+                    hasEducation = true;
+                }
+            }
+            
+            if (hasEducation) {
+                educationDiv.style.display = 'block';
+            } else {
+                educationDiv.style.display = 'none';
+            }
+            
+            // Handle links
+            const linksDiv = document.getElementById('alumni-links');
+            linksDiv.innerHTML = '';
+            
+            if (alumniData.email && alumniData.email.trim()) {
+                const emailBtn = document.createElement('a');
+                emailBtn.href = 'mailto:' + alumniData.email;
+                emailBtn.className = 'btn btn-outline-primary';
+                emailBtn.innerHTML = '<i class="fas fa-envelope me-2"></i>Email';
+                linksDiv.appendChild(emailBtn);
+            }
+            
+            if (alumniData.linkedin && alumniData.linkedin.trim()) {
+                const linkedinBtn = document.createElement('a');
+                linkedinBtn.href = alumniData.linkedin;
+                linkedinBtn.target = '_blank';
+                linkedinBtn.className = 'btn btn-outline-primary';
+                linkedinBtn.innerHTML = '<i class="fab fa-linkedin me-2"></i>LinkedIn';
+                linksDiv.appendChild(linkedinBtn);
+            }
+            
+            if (alumniData.scholar && alumniData.scholar.trim()) {
+                const scholarBtn = document.createElement('a');
+                scholarBtn.href = alumniData.scholar;
+                scholarBtn.target = '_blank';
+                scholarBtn.className = 'btn btn-outline-primary';
+                scholarBtn.innerHTML = '<i class="fas fa-graduation-cap me-2"></i>Google Scholar';
+                linksDiv.appendChild(scholarBtn);
+            }
+            
+            // Show modal
+            const modal = new bootstrap.Modal(document.getElementById('alumniModal'));
+            modal.show();
+        });
+    });
+});
+</script> 
