@@ -38,6 +38,17 @@
   highlight: 1
   news2: 
 
+- title: "Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning"
+  image: baharaaai.jpg
+  description: In this paper, we introduce LaHA, a novel framework that leverages language-guided deep reinforcement learning to identify and utilize informative data regions, thereby improving both interpretability and performance.
+  authors: B Nikpour, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2310.07800
+    display: 	arXiv:2310.07800 (2025)
+  highlight: 1
+  news2: 
+
+
 - title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
   description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
@@ -85,16 +96,6 @@
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/SSLAD-Survey-NN.pdf
     display: Neural Networks (Elsevier 2024)
-  highlight: 1
-  news2: 
-
-- title: "Explainable Attention for Few-shot Learning and Beyond"
-  image: baharaaai.jpg
-  description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanisms in scenarios where limited training samples are accessible due to challenges in data collection and labeling.
-  authors: B Nikpour, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2310.07800
-    display: 	arXiv:2310.07800 (2024)
   highlight: 1
   news2: 
 
