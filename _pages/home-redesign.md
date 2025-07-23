@@ -141,31 +141,60 @@ permalink: /redesign/
             We extend our gratitude to our valued partners and collaborators for their invaluable support.
         </p>
         
-        <!-- All Partners Together -->
+        <!-- All Partners Organized Grid -->
         <div class="row">
-            <div class="col-12 d-flex justify-content-center flex-wrap">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" alt="McGill University" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FRQNT.png" alt="FRQNT" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.jpg" alt="NSERC" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MITACS.jpg" alt="MITACS" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SCALE.jpg" alt="SCALE AI" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CFI.png" alt="CFI" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ericsson-Logo-700x394.png" alt="Ericsson" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/algoma.jpg" alt="Algoma" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" alt="Nissan" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" alt="Preteckt" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" alt="Trimac" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bridgestone-Logo.png" alt="Bridgestone" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuro.png" alt="MNI" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" alt="Jewish General Hospital" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" alt="UHN" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" alt="AgeWell" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" alt="CIHR" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc-partner-logo_e.jpg" alt="NRC" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/326467610_727288518831504_1045156533378518963_n.png" alt="Additional Partner" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/engine.jpg" alt="Engine Partner" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cscanada.png" alt="CSCanada" class="partner-logo">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bombardier.webp" alt="Bombardier" class="partner-logo">
+            <div class="col-12">
+                <div class="d-flex justify-content-center flex-wrap">
+                    <!-- Academic & Research Partners -->
+                    <div class="partner-group mb-4 me-4">
+                        <h6 class="text-center mb-3 text-muted">Academic & Research</h6>
+                        <div class="d-flex flex-wrap justify-content-center">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" alt="McGill University" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FRQNT.png" alt="FRQNT" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.jpg" alt="NSERC" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MITACS.jpg" alt="MITACS" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SCALE.jpg" alt="SCALE AI" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CFI.png" alt="CFI" class="partner-logo">
+                        </div>
+                    </div>
+                    
+                    <!-- Industry Partners -->
+                    <div class="partner-group mb-4 me-4">
+                        <h6 class="text-center mb-3 text-muted">Industry</h6>
+                        <div class="d-flex flex-wrap justify-content-center">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ericsson-Logo-700x394.png" alt="Ericsson" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/algoma.jpg" alt="Algoma" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" alt="Nissan" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" alt="Preteckt" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" alt="Trimac" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bridgestone-Logo.png" alt="Bridgestone" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cscanada.png" alt="CSCanada" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bombardier.webp" alt="Bombardier" class="partner-logo">
+                        </div>
+                    </div>
+                    
+                    <!-- Healthcare Partners -->
+                    <div class="partner-group mb-4 me-4">
+                        <h6 class="text-center mb-3 text-muted">Healthcare</h6>
+                        <div class="d-flex flex-wrap justify-content-center">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuro.png" alt="MNI" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" alt="Jewish General Hospital" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" alt="UHN" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" alt="AgeWell" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" alt="CIHR" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc-partner-logo_e.jpg" alt="NRC" class="partner-logo">
+                        </div>
+                    </div>
+                    
+                    <!-- Additional Partners -->
+                    <div class="partner-group mb-4">
+                        <h6 class="text-center mb-3 text-muted">Additional</h6>
+                        <div class="d-flex flex-wrap justify-content-center">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/326467610_727288518831504_1045156533378518963_n.png" alt="Additional Partner" class="partner-logo">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/engine.jpg" alt="Engine Partner" class="partner-logo">
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -180,8 +209,8 @@ permalink: /redesign/
             We're always looking for talented researchers and students to join our team.
         </p>
         <div class="d-flex justify-content-center gap-3">
-            <a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="btn btn-light btn-lg">
-                <i class="fas fa-briefcase me-2"></i>View Openings
+            <a href="{{ site.url }}{{ site.baseurl }}/collaborate-with-us" class="btn btn-light btn-lg">
+                <i class="fas fa-handshake me-2"></i>Collaborate with Us
             </a>
             <a href="{{ site.url }}{{ site.baseurl }}/contact" class="btn btn-outline-light btn-lg">
                 <i class="fas fa-envelope me-2"></i>Contact Us

@@ -188,11 +188,29 @@
             object-fit: contain;
             filter: grayscale(100%);
             transition: filter 0.3s ease;
-            margin: 1rem;
+            margin: 0.5rem;
         }
 
         .partner-logo:hover {
             filter: grayscale(0%);
+        }
+
+        .partner-group {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+            min-width: 280px;
+            flex: 1;
+        }
+
+        .partner-group h6 {
+            color: var(--text-secondary);
+            font-weight: 600;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
         /* Animations */
@@ -349,7 +367,7 @@
                         <a class="nav-link" href="https://github.com/Armanfard-Lab" target="_blank">Repository</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/vacancies-new">Vacancies</a>
+                        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/collaborate-with-us-new">Collaborate with Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/contact-new">Contact</a>

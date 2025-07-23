@@ -3,7 +3,7 @@ title: "iSMART Lab - Collaborate with Us"
 layout: textlay
 excerpt: "Collaborate with Us"
 sitemap: false
-permalink: /vacancies/
+permalink: /collaborate-with-us/
 ---
 
 # Industrial Collaboration
