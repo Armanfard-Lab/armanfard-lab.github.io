@@ -1,9 +1,17 @@
 ---
-title: "iSMART Lab - Vacancies"
+title: "iSMART Lab - Collaborate with Us"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Collaborate with Us"
 sitemap: false
 permalink: /vacancies/
+---
+
+# Industrial Collaboration
+
+We welcome partnerships with industry leaders and organizations interested in advancing artificial intelligence and machine learning technologies. Our lab specializes in cutting-edge research across multiple domains including computer vision, healthcare AI, autonomous systems, and industrial automation.
+
+If you are interested in exploring collaborative opportunities, joint research projects, technology transfer, or consulting services, please reach out to [Prof. Armanfard](https://ismart.ece.mcgill.ca/contact) via email. We are particularly interested in partnerships that can translate our research innovations into real-world applications and solutions.
+
 ---
 
 # Open positions
