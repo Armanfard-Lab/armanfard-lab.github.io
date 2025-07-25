@@ -1,6 +1,6 @@
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
-  description: A framework that combines dual-branch prompt learning with label-free test-time adaptation to improve anomaly detection. It adaptively weights relevant prompts using semantic cues and refines them at test time using high-confidence pseudo-labels from unlabeled data.
+  description: A framework integrating dual-branch prompt learning with label-free test-time adaptation for anomaly detection, using semantic cues to weight prompts and refining them via high-confidence pseudo-labels from unlabeled data.
   authors: Z Wang, N Armanfard
   link:
     url: 
@@ -40,7 +40,7 @@
 
 - title: "Cross-Task Affinity Learning for Multitask Dense Scene Predictions"
   image: ctal_site.jpg
-  description: In this paper, we introduce the Cross-Task Affinity Learning (CTAL) module, a lightweight framework that enhances task refinement in multitask networks. CTAL effectively captures local and long-range cross-task interactions by optimizing task affinity matrices for parameter-efficient grouped convolutions without concern for information loss. CTAL outperforms both CNN and transformer backbones, using significantly fewer parameters than single-task learning.
+  description: We propose Cross-Task Affinity Learning (CTAL), a lightweight module that improves task refinement in multitask networks by capturing local and long-range cross-task interactions. CTAL optimizes task affinity matrices for efficient grouped convolutions, outperforming both CNN and transformer backbones while using fewer parameters than single-task models.
   authors: D Sinodinos, N Armanfard
   link:
     url: https://arxiv.org/abs/2401.11124
