@@ -1,3 +1,23 @@
+- title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
+  image: PILOT.png
+  description: This paper introduces PILOT, a framework that combines dual-branch prompt learning with label-free test-time adaptation to improve anomaly detection. It adaptively weights relevant prompts using semantic cues and refines them at test time using high-confidence pseudo-labels from unlabeled data.
+  authors: Z Wang, N Armanfard
+  link:
+    url: 
+    display: 	The 36th British Machine Vision Conference (BMVC 2025)
+  highlight: 1
+  news2:
+
+- title: "Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning"
+  image: baharaaai.jpg
+  description: In this paper, we introduce LaHA, a novel framework that leverages language-guided deep reinforcement learning to identify and utilize informative data regions, thereby improving both interpretability and performance.
+  authors: B Nikpour, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2310.07800
+    display: 	The 36th British Machine Vision Conference (BMVC 2025)
+  highlight: 1
+  news2: 
+
 - title: "Contaminated Multivariate Time-Series Anomaly Detection with Spatio-Temporal Graph Conditional Diffusion Models"
   image: khanhaaai.jpg
   description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
@@ -38,15 +58,7 @@
   highlight: 1
   news2: 
 
-- title: "Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning"
-  image: baharaaai.jpg
-  description: In this paper, we introduce LaHA, a novel framework that leverages language-guided deep reinforcement learning to identify and utilize informative data regions, thereby improving both interpretability and performance.
-  authors: B Nikpour, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2310.07800
-    display: 	arXiv:2310.07800 (2025)
-  highlight: 1
-  news2: 
+
 
 
 - title: "Open-Set Multivariate Time-Series Anomaly Detection"
