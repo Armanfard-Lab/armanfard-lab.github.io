@@ -40,7 +40,7 @@
 
 - title: "Cross-Task Affinity Learning for Multitask Dense Scene Predictions"
   image: ctal_site.jpg
-  description: We propose Cross-Task Affinity Learning (CTAL), a lightweight module that improves task refinement in multitask networks by capturing local and long-range cross-task interactions. CTAL optimizes task affinity matrices for efficient grouped convolutions, outperforming both CNN and transformer backbones while using fewer parameters than single-task models.
+  description: We propose Cross-Task Affinity Learning (CTAL), a lightweight module that enhances multitask networks by modeling local and long-range cross-task interactions via optimized task affinity matrices. CTAL enables efficient grouped convolutions and outperforms CNN and transformer backbones with fewer parameters than single-task models.
   authors: D Sinodinos, N Armanfard
   link:
     url: https://arxiv.org/abs/2401.11124
