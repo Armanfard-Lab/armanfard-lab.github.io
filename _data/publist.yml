@@ -1,6 +1,6 @@
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
-  description: A framework that combines dual-branch prompt learning with label-free test-time adaptation to improve anomaly detection. PILOT adaptively weights relevant prompts using semantic cues and refines them at test time using high-confidence pseudo-labels from unlabeled data.
+  description: A framework that combines dual-branch prompt learning with label-free test-time adaptation to improve anomaly detection. It adaptively weights relevant prompts using semantic cues and refines them at test time using high-confidence pseudo-labels from unlabeled data.
   authors: Z Wang, N Armanfard
   link:
     url: 
