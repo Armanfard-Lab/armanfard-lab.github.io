@@ -3,7 +3,7 @@
   description: A framework integrating dual-branch prompt learning with label-free test-time adaptation for anomaly detection, using semantic cues to weight prompts and refining them via high-confidence pseudo-labels from unlabeled data.
   authors: Z Wang, N Armanfard
   link:
-    url: 
+    url: https://arxiv.org/abs/2508.00777
     display: 	The 36th British Machine Vision Conference (BMVC 2025)
   highlight: 1
   news2:
