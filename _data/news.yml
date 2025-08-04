@@ -1,11 +1,11 @@
 - date: July 2025
-  headline: Our research work on Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning (PILOT) has been accepted at the British Machine Vision Conference (BMVC) 2025, to be held in Sheffield. Congrats to Zihan and the entire iSMART team. 
+  headline: Our recent study on Zero-Shot Anomaly Detection with Prompt Learning (<a href="https://arxiv.org/abs/2508.00777"> PILOT </a>) has been accepted at the prestigious Rank A AI conference, British Machine Vision Conference (BMVC 2025). Congrats to Zihan and the entire iSMART team. 
 
 - date: July 2025
-  headline: Our research work on Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning (LaHA) has been accepted at the British Machine Vision Conference (BMVC) 2025, to be held in Sheffield. Kudos to Bahar and the whole team for this outstanding contribution! 
+  headline: Our research work on Language-Guided Reinforcement Learning for Attention in Few-Shot (<a href="https://arxiv.org/abs/2310.07800"> LaHa </a>) has been accepted at the prestigious Rank A AI conference, British Machine Vision Conference (BMVC) 2025, to be held in Sheffield. Kudos to Bahar and the whole team for this outstanding contribution! 
 
 - date: May 2025
-  headline:  <a href="https://arxiv.org/abs/2308.12563"> TSAD‑C </a> — a pioneering framework for handling label‑level noise in sensory time‑series anomaly detection—has been accepted for publication at the Uncertainty in Artificial Intelligence conference (UAI 2025), one of the premier venues in AI research. The work introduces a practical method that remains robust even when the training data itself is contaminated with anomalies. Congratulations to the iSMART team!
+  headline:  <a href="https://arxiv.org/abs/2308.12563"> TSAD‑C </a> — a pioneering framework for handling label‑level noise in sensory time‑series anomaly detection—has been accepted for publication at the prestigious Rank A AI conference, Uncertainty in Artificial Intelligence conference (UAI 2025), one of the premier venues in AI research. The work introduces a practical method that remains robust even when the training data itself is contaminated with anomalies. Congratulations to the iSMART team!
  
 - date: April 2025
   headline: Our in-depth study, <a href="https://arxiv.org/abs/2302.00058"> Graph-based Time Series Anomaly Detection</a>, has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) — the leading venue in the Machine Learning field. This paper functions almost as a textbook, offering a comprehensive treatment of the topic. Congratulations to Khanh and the entire team.  
@@ -38,7 +38,7 @@
   headline: iSMART Wins Prestigious Award for Innovations in AI Healthcare! Congratulations to Our Entire Team!
   
 - date: Oct 2024
-  headline: <a href="https://arxiv.org/abs/2401.11124">CTAL</a>&#58; A novel distillation module and framework achieving significant multitask gains with minimal parameters, accepted in the first round (~10% acceptance) at WACV 2025. Congrats to Dimitri and the iSMART Team! 
+  headline: <a href="https://arxiv.org/abs/2401.11124">CTAL</a>&#58; A novel distillation module and framework achieving significant multitask gains with minimal parameters, accepted in the first round (~10% acceptance) at the prestigious Rank A AI conference WACV 2025. Congrats to Dimitri and the iSMART Team! 
 
 - date: Sept 2024
   headline:  The iSMART team has been honored with an exclusive invitation to organize ASTAD, a half-day workshop on cutting-edge topics in anomaly detection, including novel AI architectures, large-scale datasets, self-supervised and few-shot techniques, continual learning, interpretability, real-world applications, and LLM integration. ASTAD will take place at the elite Rank A AI conference, WACV 2025, in Tucson, Arizona. For more details, visit <a href="https://ismart.ece.mcgill.ca/wacv25/">ASTAD</a>.
@@ -95,9 +95,6 @@
   headline: Our paper "Self-Supervised Anomaly Detection&#58; A Survey and Outlook" has been accepted for publication in the prestigious Journal "Neural Networks" (Elsevier), which is the Official Journal of the International Neural Network Society, European Neural Network Society, and Japanese Neural Network Society.
 
 - date: Nov 2023
-  headline: Congratulations to Mohammadreza on receiving the prestigious Graduate Research Enhancement and Travel (GREAT) award. 
-
-- date: Nov 2023
   headline: iSMART has been featured by Harvard University. For more details, see <a href="https://www.labxchange.org/"> here.</a>
 
 - date: Oct 2023
@@ -128,7 +125,7 @@
   headline: Our recent study on Multivariate Time-Series Anomaly Detection with Contaminated Data is now available <a href="https://arxiv.org/abs/2308.12563">here.</a>
 
 - date: Aug 2023
-  headline: Our paper "C3&#58; Cross-instance guided Contrastive Clustering" has been accepted for publication at the prestigious Rank A AI Conference BMVC 2023 in the UK.
+  headline: Our paper "C3&#58; Cross-instance guided Contrastive Clustering" has been accepted for publication at the prestigious Rank A AI Conference, BMVC 2023, in the UK.
 
 - date: Aug 2023
   headline: Congratulations to Denzel on successfully completing his MSc thesis on predicting mechanical properties leveraging physics-informed modeling! Great job, Denzel!
