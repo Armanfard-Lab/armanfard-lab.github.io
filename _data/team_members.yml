@@ -12,20 +12,6 @@
   linkedin: https://ca.linkedin.com/in/sareh-soleimani-69468976
   bio: Sareh received the M.Sc. and Ph.D. degrees in electrical and computer engineering from the University of Ottawa, Ontario, Canada, both with the prestigious University of Ottawa admission scholarships. She subsequently joined Queen’s University as a postdoctoral fellow focusing on privacy-preservation audio classification for resource-constrained devices. Her research at the iSMART lab focuses on computer vision towards industrial automation.   
   
-- name: Bahareh Nikpour
-  photo: Bahar (1).jpg
-  info: AI Researcher (PhD)
-  email: bahareh.nikpour@mcgill.ca
-  number_educ: 0
-  education1: Master <a href="https://ut.ac.ir/en">University of Tehran</a>
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-  scholar: https://scholar.google.com/citations?user=syH1csIAAAAJ&hl=en
-  linkedin: https://ca.linkedin.com/in/bahar-nikpour-7771888a
-  bio: Bahareh completed her PhD at the iSMART Lab in December 2024 and continues to collaborate with the iSMART team and its partners on advancing AI for industrial automation. She was awarded the prestigious McGill Engineering Doctoral Award (MEDA) and the Fonds de recherche du Québec – Nature et technologies (FRQNT). Her research focuses on attention discovery in few-shot learning scenarios, leveraging deep reinforcement learning techniques with applications in computer vision.
-
 - name: Thi Kieu Khanh Ho
   photo: Khanh.jpg
   info: AI Researcher (PhD)
@@ -219,18 +205,6 @@
   linkedin: https://www.linkedin.com/in/benjaminc-f/
   bio: Benjamin Curis-Friedman is a Software Engineering CO-OP student at McGill University with software-development experience and a strong interest in machine learning and mathematics. As a research assistant in the iSMART Lab, he will develop programs to turn raw video and sensor data into analysis-ready structured datasets.
   
-- name: Alexander Wyrstiuk
-  photo: AlexW.jpg
-  info: Research Assistant (BSc)
-  email: alexander.wyrstiuk@mail.mcgill.ca
-  number_educ: 0
-  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
-  education2:
-  education3:
-  scholar:
-  linkedin:
-  bio: Alexander is currently enrolled in McGill's Electrical Engineering BSs program and has added minors in Math and Computer Science upon developing a newfound curiosity in those fields. While at the forefront of cutting-edge technology as well as the intersection of Computer Science and Applied Mathematics, AI and Machine Learning are inevitably of great interest to Alexander.
-
 - name: Ahmad Al-Jabi
   photo: ahmad-al-jabi.jpg
   info: Research Assistant (BSc)
