@@ -1,7 +1,7 @@
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
   description: A framework integrating dual-branch prompt learning with label-free test-time adaptation for anomaly detection, using semantic cues to weight prompts and refining them via high-confidence pseudo-labels from unlabeled data.
-  authors: Z Wang, N Armanfard
+  authors: Z Wang, S Kahou, N Armanfard
   link:
     url: https://arxiv.org/abs/2508.00777
     display: 	The 36th British Machine Vision Conference (BMVC 2025)
