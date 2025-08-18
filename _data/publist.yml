@@ -58,8 +58,15 @@
   highlight: 1
   news2: 
 
-
-
+- title: "Deep Clustering with Self-supervision using Pairwise Similarities"
+  image: final_model-1.png
+  description: In this paper, we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e., one hypersphere per cluster.
+  authors: M Sadeghi, S. Soleimani, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2405.03590
+    display: IEEE Access (2025)
+  highlight: 1
+  news2:
 
 - title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
@@ -120,7 +127,6 @@
     display: Machine Learning with Applications (Elsevier; 2024)
   highlight: 1
   news2: 
-
   
 - title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
   image: DASVDD.png
@@ -222,15 +228,6 @@
   highlight: 1
   news2:
   
-- title: "Deep Clustering with Self-supervision using Pairwise Similarities"
-  image: final_model-1.png
-  description: In this paper, we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e., one hypersphere per cluster.
-  authors: M Sadeghi, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2405.03590
-    display: arXiv:2405.03590 (2021)
-  highlight: 1
-  news2:
 
 - title: "IDECF: Improved Deep Embedding Clustering With Deep Fuzzy Supervision"
   image: IDECF.gif
