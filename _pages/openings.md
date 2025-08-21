@@ -34,7 +34,7 @@ The diversity of our Lab is at the core of our innovation and creativity and str
 
 ### BSc students
 
-We have some projects for **undergraduate honors thesis** in machine learning and computer vision. Contact Prof. Armanfard if you are an undergraduate student at McGill and would like to have your honors thesis with us.
+We have some projects for **undergraduate students** in machine learning and computer vision. Contact Prof. Armanfard if you are an undergraduate student at McGill and would like to join the iSMART Lab.
 
 
 <figure>
