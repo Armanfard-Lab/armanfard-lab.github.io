@@ -38,6 +38,11 @@ permalink: /knowledge_transfer/
   * "Anomaly Detection in Time Series Data"
   * McMaster University, Hamilton, Canada
   * [Link](https://www.eng.mcmaster.ca/ece/events/lecture-4-anomaly-detection-in-time-series-data/)
+
+### Airbus AI Summit 2025
+  * "AI‑Driven Monitoring of Systems and Crew for Aerospace Safety and Resilience"
+  * Montreal, Canada
+  * September 2025
 </details>
 
 <details>
@@ -53,6 +58,12 @@ permalink: /knowledge_transfer/
 * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)
   * Tucson, Arizona
   * [Website](https://wacv2025.thecvf.com/)
+
+* Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning
+  * The 36th British Machine Vision Conference (BMVC 2025), Sheffield
+
+* Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning
+  * The 36th British Machine Vision Conference (BMVC 2025), Sheffield
 </details>
 
 <details>
