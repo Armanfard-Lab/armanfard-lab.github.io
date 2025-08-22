@@ -42,7 +42,7 @@ permalink: /knowledge_transfer/
 ### Airbus AI Summit 2025
   * "AI‑Driven Monitoring of Systems and Crew for Aerospace Safety and Resilience"
   * Montreal, Canada
-  * September 2025
+  * [Link] ()
 </details>
 
 <details>
@@ -59,11 +59,10 @@ permalink: /knowledge_transfer/
   * Tucson, Arizona
   * [Website](https://wacv2025.thecvf.com/)
 
-* Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning
-  * The 36th British Machine Vision Conference (BMVC 2025), Sheffield
+* The 36th British Machine Vision Conference (BMVC 2025)
+  * Sheffield, United Kingdom
+  * [Website](https://bmvc2025.bmva.org/)
 
-* Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning
-  * The 36th British Machine Vision Conference (BMVC 2025), Sheffield
 </details>
 
 <details>
