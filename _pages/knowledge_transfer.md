@@ -42,7 +42,7 @@ permalink: /knowledge_transfer/
 ### Airbus AI Summit 2025
   * "AI‑Driven Monitoring of Systems and Crew for Aerospace Safety and Resilience"
   * Montreal, Canada
-  * [Link] ()
+  * [Link](https://ismart.ece.mcgill.ca/knowledge_transfer/)
 </details>
 
 <details>
