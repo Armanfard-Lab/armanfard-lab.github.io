@@ -35,44 +35,43 @@ permalink: /astad3/
 
 <p align="center">The 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) at AAAI 2026 is a premier platform for researchers and practitioners at the forefront of AI-driven anomaly detection. With the proliferation of spatiotemporal data from sources like surveillance cameras, IoT sensors, and satellite imagery, the need for robust, automated systems to identify novel and unusual patterns has never been more critical. This workshop will delve into cutting-edge AI techniques that move beyond traditional rule-based methods to uncover hidden anomalies, fostering a new generation of intelligent monitoring and discovery. Join us to discuss how we can build more resilient, autonomous, and insightful systems for a safer and more efficient world.</p>
 
-<h2 align="center">Call for Paper</h2>
+<h2 align="center"> Call for Paper </h2>
+<hr>
+  
+<p align="left">We invite researchers and practitioners to submit their original research contributions to the 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of AAAI 2026. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):</p>
+  
+  <ul>
+    <li> Novel deep learning and generative models for spatiotemporal anomaly detection </li>
+    <li> Self-supervised, unsupervised, and few-shot learning for anomaly detection with limited data </li>
+    <li> Continual learning approaches for evolving anomalous patterns </li>
+    <li> Explainable AI for interpreting and justifying anomaly detection decisions </li>
+    <li> Foundation models for anomaly detection, including large language models (LLMs) and vision-language models (VLMs) </li>
+    <li> Novel datasets, benchmarks, and evaluation metrics </li>
+    <li> On-edge anomaly detection in real-time and resource-constrained settings </li>
+    <li> Applications in computer vision, robotics, autonomous driving, predictive maintenance, healthcare, finance, and beyond </li>
+  </ul>  
+
+<p align="left">Submission Site: <a href="https://openreview.net/group?id=AAAI.org/2026/Workshop/ASTAD" target="_blank">OpenReview</a></p>
+
+<h2 align="center"> Schedule </h2>
 <hr>
 
-<p align="center">We invite researchers and practitioners to submit their original research contributions to the 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of AAAI 2026. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):</p>
+Coming Soon
 
-<p align="center">
-* Novel deep learning and generative models for spatiotemporal anomaly detection<br>
-* Self-supervised, unsupervised, and few-shot learning for anomaly detection with limited data<br>
-* Continual learning approaches for evolving anomalous patterns<br>
-* Explainable AI for interpreting and justifying anomaly detection decisions<br>
-* Foundation models for anomaly detection, including large language models (LLMs) and vision-language models (VLMs)<br>
-* Novel datasets, benchmarks, and evaluation metrics<br>
-* On-edge anomaly detection in real-time and resource-constrained settings<br>
-* Applications in computer vision, robotics, autonomous driving, predictive maintenance, healthcare, finance, and beyond
-</p>
-
-<p align="center"><strong>Submission Site:</strong> <a href="https://openreview.net/group?id=AAAI.org/2026/Workshop/ASTAD" target="_blank">OpenReview</a></p>
-
-<h2 align="center">Schedule</h2>
+<h2 align="center"> Important Dates </h2>
 <hr>
 
-<p align="center">Coming Soon</p>
+   <p align="left"> The important dates are as follows: </p>
+<ul>
+<li> <b>Paper submission deadline:</b> October 22, 2025 </li>
+ <li> <b>Author notification:</b> November 5, 2025 </li>
+ <li> <b>Camera-ready deadline:</b> November 10, 2025 </li>
+  </ul>
 
-<h2 align="center">Important Dates</h2>
+  <h2 align="center"> Speakers </h2>
 <hr>
 
-<p align="center">The important dates are as follows:</p>
-
-<p align="center">
-* <strong>Paper submission deadline:</strong> October 22, 2025<br>
-* <strong>Author notification:</strong> November 5, 2025<br>
-* <strong>Camera-ready deadline:</strong> November 10, 2025
-</p>
-
-<h2 align="center">Speakers</h2>
-<hr>
-
-<p align="center">Coming Soon</p>
+Coming Soon
 
 <h2 align="center">Workshop Poster</h2>
 <hr>
@@ -84,7 +83,7 @@ permalink: /astad3/
 
 
 
-<h2 align="center">Organizers</h2>
+<h2 align="center"> Organizers </h2>
 <hr>
 
 <p align="left"><strong>Workshop URL:</strong> https://ismart.ece.mcgill.ca/astad3/</p>
