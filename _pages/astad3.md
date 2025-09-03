@@ -64,20 +64,6 @@ permalink: /astad3/
 
 <p align="left">Link to the submission site: Coming Soon</p>
 
-<h2 align="center"> Important Dates </h2>
-<hr>
-
-   <p align="left"> The important dates are as follows: </p>
-<ul>
-<li> <b>Paper submission deadline:</b> TBD </li>
- <li> <b>Author notification:</b> TBD </li>
- <li> <b>Camera-ready deadline:</b> TBD </li>
-  </ul> 
-
-  <h2 align="center"> Speakers </h2>
-<hr>
-
-<p align="center">To be announced</p>
 
 <h2 align="center">Workshop Committee</h2>
 <hr>
@@ -124,9 +110,11 @@ permalink: /astad3/
 <h2 align="center">Workshop Poster</h2>
 <hr>
 
-<div style="text-align: center; margin: 40px 0;">
-  <div style="max-width: 800px; margin: 0 auto;">
-    <h3 style="color: #333; margin-bottom: 20px;">ASTAD3 Workshop Poster</h3>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" alt="ASTAD3 Workshop Poster" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<div class="row">
+  <div class="col-sm-12">
+    <h3 align="center">ASTAD3 Workshop Poster</h3>
+    <div style="text-align: center; margin: 20px 0;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" alt="ASTAD3 Workshop Poster" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    </div>
   </div>
 </div> 
