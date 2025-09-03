@@ -35,8 +35,8 @@ permalink: /astad3/
 <h2 align="center">Workshop Poster</h2>
 <hr>
 
-<div style="border-radius: 16px; padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" style="width: 600px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
+<div style="padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" style="width: 800px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 <h2 align="center">Topics</h2>
