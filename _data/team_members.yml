@@ -82,7 +82,7 @@
   education3:
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/navid-hassan-zadeh/
-  bio: Navid received his Bachelor's degree in Joint Honours in Mathematics and Computer Science from McGill University. He pursued an MSc at the Computer Science Department of the University of Montreal. He is currently an RA at the iSMART Lab. He will begin his Ph.D. studies at the iSMART Lab in September 2025. His research interests include theories of Machine Learning and its applications.
+  bio: Navid received his Bachelor’s degree in Joint Honours Mathematics and Computer Science from McGill University. He began an MSc in Computer Science at the University of Montreal before transferring to the Ph.D. program at the iSMART Lab, McGill University, in September 2025. He is a recipient of the Vadasz Engineering Fellowship. His research interests include video-based vital-sign estimation, foundation models, and theories of machine learning and their applications.
 
 - name:  Dario Morle
   photo: Dario.jpg
@@ -107,18 +107,6 @@
   scholar:
   linkedin: https://www.linkedin.com/in/yi-wei-a9146716a/?originalSubdomain=ca&original_referer=
   bio: Jack (Yi) Wei received his Bachelor's degree in Computer Engineering with a minor in Mathematics from McGill University. He is the recipient of the McGill Engineering Undergraduate Student Award (MEUSMA). His interest lies in tabular data analysis.
-
-- name: Zihan Wang
-  photo: Zihan_Photo.JPG
-  info: AI Researcher (MSc)
-  email: zihan.wang@mail.mcgill.ca
-  number_educ: 0
-  education1: BSc, <a href="https://www.ualberta.ca/index.html">University of Alberta</a>
-  education2: 
-  education3: 
-  scholar: https://scholar.google.com/
-  linkedin: https://www.linkedin.com/in/zihan-wang-2919b2261/
-  bio: Zihan received his Bachelor’s degree in Electrical and Computer Engineering from the University of Alberta, Canada. He is now an MSc student at the iSMART Lab. He is the recipient of the Graduate Excellence Fellowship Award. His research at the iSMART Lab is focused on continual learning with large language models for anomaly detection.
 
 - name: Cormac Cureton
   photo: 20230625_201329 (2).jpg

@@ -11,7 +11,7 @@ permalink: /knowledge_transfer/
 
 **All workshops and tutorials listed below are organized by iSMART Lab.**
 
-### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (When/Where: TBD)
+### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (AAAI 2026)
   * [Website](https://ismart.ece.mcgill.ca/astad3/)
 
 ### 2nd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2025)
@@ -41,7 +41,7 @@ permalink: /knowledge_transfer/
 
 ### Airbus AI Summit 2025
   * "AI‑Driven Monitoring of Systems and Crew for Aerospace Safety and Resilience"
-  * Montreal, Canada
+  * Mirabel, Quebec, Canada
   * [Link](https://ismart.ece.mcgill.ca/knowledge_transfer/)
 </details>
 
