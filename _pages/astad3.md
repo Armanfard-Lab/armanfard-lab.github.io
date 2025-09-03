@@ -32,11 +32,56 @@ permalink: /astad3/
 
 {% endfor %}
 
+## Overview
+
+---
+
+The 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) at AAAI 2026 is a premier platform for researchers and practitioners at the forefront of AI-driven anomaly detection. With the proliferation of spatiotemporal data from sources like surveillance cameras, IoT sensors, and satellite imagery, the need for robust, automated systems to identify novel and unusual patterns has never been more critical. This workshop will delve into cutting-edge AI techniques that move beyond traditional rule-based methods to uncover hidden anomalies, fostering a new generation of intelligent monitoring and discovery. Join us to discuss how we can build more resilient, autonomous, and insightful systems for a safer and more efficient world.
+
+## Call for Paper 
+
+---
+
+We invite researchers and practitioners to submit their original research contributions to the 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of AAAI 2026. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):
+
+* Novel deep learning and generative models for spatiotemporal anomaly detection
+* Self-supervised, unsupervised, and few-shot learning for anomaly detection with limited data
+* Continual learning approaches for evolving anomalous patterns
+* Explainable AI for interpreting and justifying anomaly detection decisions
+* Foundation models for anomaly detection, including large language models (LLMs) and vision-language models (VLMs)
+* Novel datasets, benchmarks, and evaluation metrics
+* On-edge anomaly detection in real-time and resource-constrained settings
+* Applications in computer vision, robotics, autonomous driving, predictive maintenance, healthcare, finance, and beyond
+
+Submission Site: [OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/ASTAD)
+
+## Schedule 
+
+---
+
+Coming Soon
+
+## Important Dates 
+
+---
+
+The important dates are as follows: 
+
+* **Paper submission deadline:** October 22, 2025
+* **Author notification:** November 5, 2025
+* **Camera-ready deadline:** November 10, 2025
+
+## Speakers 
+
+---
+
+Coming Soon
+
 <h2 align="center">Workshop Poster</h2>
 <hr>
 
 <div style="padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" style="width: 800px; max-width: 95vw; height: auto; display: block; margin: 0 auto; border-radius: 0;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad3_poster.png" style="width: 800px; max-width: 95vw; height: auto; display: block; margin: 0 auto; border-radius: 0;" />
 </div>
 
 <h2 align="center">Topics</h2>
@@ -69,11 +114,12 @@ permalink: /astad3/
 
 <p align="left">We welcome original research contributions as full papers, in line with the standards of AAAI main track format. Submissions may consist of up to 7 pages of technical content plus additional pages solely for references. All submissions must be formatted using the official AAAI-26 author kit and will be subject to a double-blind peer-review process. Accepted papers will be included in the non-archival workshop proceedings, allowing authors to pursue future publications.</p>
 
-<p align="left">Link to the submission site: Coming Soon</p>
+<p align="left">Link to the submission site: <a href="https://openreview.net/group?id=AAAI.org/2026/Workshop/ASTAD" target="_blank">OpenReview</a></p>
 
 
-<h2 align="center">Workshop Committee</h2>
-<hr>
+## Organizers 
+
+---
 
 <p align="left"><strong>Workshop URL:</strong> https://ismart.ece.mcgill.ca/astad3/</p>
 
