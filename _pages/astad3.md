@@ -38,11 +38,11 @@ permalink: /astad3/
 <h2 align="center"> Call for Paper </h2>
 <hr>
   
-<p align="left">We invite researchers and practitioners to submit their original research contributions to the 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of AAAI 2026. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):</p>
+<p align="left">We invite researchers and practitioners to submit their original research contributions to The 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of AAAI 2026. This workshop aims to explore the latest advancements and novel approaches in anomaly detection (AD) using Artificial Intelligence techniques, with a focus on spatial and temporal dimensions. Topics of Interest :</p>
   
   <ul>
-    <li> Novel deep learning and generative models for spatiotemporal anomaly detection </li>
-    <li> Self-supervised, unsupervised, and few-shot learning for anomaly detection with limited data </li>
+    <li> Novel deep learning and generative models for spatiotemporal AD </li>
+    <li> Self-supervised, unsupervised and few-shot learning for AD with limited data </li>
     <li> Continual learning approaches for evolving anomalous patterns </li>
     <li> Explainable AI for interpreting and justifying anomaly detection decisions </li>
     <li> Foundation models for anomaly detection, including large language models (LLMs) and vision-language models (VLMs) </li>
@@ -52,6 +52,7 @@ permalink: /astad3/
   </ul>  
 
 <p align="left">Submission Site: <a href="https://openreview.net/group?id=AAAI.org/2026/Workshop/ASTAD" target="_blank">OpenReview</a></p>
+
 
 <h2 align="center"> Schedule </h2>
 <hr>
@@ -85,8 +86,6 @@ Coming Soon
 
 <h2 align="center"> Organizers </h2>
 <hr>
-
-<p align="left"><strong>Workshop URL:</strong> https://ismart.ece.mcgill.ca/astad3/</p>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ijcaimember %}
