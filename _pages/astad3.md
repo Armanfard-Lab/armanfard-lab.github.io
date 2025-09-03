@@ -36,7 +36,7 @@ permalink: /astad3/
 <hr>
 
 <div style="padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" style="width: 800px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" style="width: 800px; max-width: 95vw; height: auto; display: block; margin: 0 auto; border-radius: 0;" />
 </div>
 
 <h2 align="center">Topics</h2>
