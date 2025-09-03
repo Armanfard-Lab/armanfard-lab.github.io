@@ -32,6 +32,13 @@ permalink: /astad3/
 
 {% endfor %}
 
+<h2 align="center">Workshop Poster</h2>
+<hr>
+
+<div style="border-radius: 16px; padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" style="width: 600px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
+</div>
+
 <h2 align="center">Topics</h2>
 <hr>
   
@@ -107,14 +114,4 @@ permalink: /astad3/
 {% endif %}
 {% endfor %}
 
-<h2 align="center">Workshop Poster</h2>
-<hr>
-
-<div class="row">
-  <div class="col-sm-12">
-    <h3 align="center">ASTAD3 Workshop Poster</h3>
-    <div style="text-align: center; margin: 20px 0;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/astad3.png" alt="ASTAD3 Workshop Poster" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    </div>
-  </div>
-</div> 
+ 
