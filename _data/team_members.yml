@@ -156,6 +156,17 @@
   linkedin:
   bio: Aman earned his Bachelor's degree in Honours Electrical Engineering from McGill University. Following a research assistantship at the iSMART Lab in Fall 2024, he began pursuing his MSc at the iSMART Lab in January 2025. His research explores the application of reinforcement learning and computer vision in smart infrastructure and robotics.
  
+- name: Isa Mohideen
+  photo: Isa_WebsitePic_square.png
+  info: AI Researcher (MSc)
+  email: 
+  number_educ: 0
+  education1: BASc <a href="https://uwaterloo.ca/">University of Waterloo</a>
+  education2:
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/isamohideen
+  bio: Isa is pursuing an MSc at the iSMART Lab. He obtained his BASc in Biomedical Engineering from the University of Waterloo, with a specialization in Medical Artificial Intelligence. He is passionate about designing scalable ML tools that are reliable, transparent, and clinically meaningful.
 
 - name: Amirmohammad Naeini
   photo: IMG_3586_Original.jpeg
@@ -169,18 +180,6 @@
   linkedin:
   bio: Amir received his Bachelor’s degree in Electrical Engineering from Amirkabir University of Technology in Tehran, Iran, and his Master’s degree in Computer Science from York University in Toronto, ON, Canada. He is currently a Research Assistant at the iSMART Lab, focusing on software development and AI-related projects, particularly in the context of machine learning applications.
 
-- name: Théophile Soulié
-  photo: thumbnail_image001.jpg
-  info: Research Assistant (BSc)
-  email: theophile.soulie@mail.mcgill.ca
-  number_educ: 0
-  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
-  education2:
-  education3:
-  scholar:
-  linkedin:
-  bio: Made in France, assembled in Morocco, shipped to Canada, Théophile is pursuing a Bachelor’s in Electrical Engineering at McGill University as a James McGill Scholar. Passionate about AI and machine learning, he is particularly interested in their applications in signal processing and intelligent systems. As the founder of McGill H2, he is also engaged in sustainable energy solutions. With a strong foundation in hardware and software, Théophile is eager to contribute to cutting-edge research at the iSMART Lab.
-
 - name: Benjamin Curis-Friedman
   photo: benjamin.jpg
   info: Research Assistant (BSc)
@@ -193,18 +192,6 @@
   linkedin: https://www.linkedin.com/in/benjaminc-f/
   bio: Benjamin Curis-Friedman is a Software Engineering CO-OP student at McGill University with software-development experience and a strong interest in machine learning and mathematics. As a research assistant in the iSMART Lab, he will develop programs to turn raw video and sensor data into analysis-ready structured datasets.
   
-- name: Isa Mohideen
-  photo: Isa_WebsitePic_square.png
-  info: AI Researcher (MSc)
-  email: 
-  number_educ: 0
-  education1: BASc <a href="https://uwaterloo.ca/">University of Waterloo</a>
-  education2:
-  education3:
-  scholar:
-  linkedin: https://www.linkedin.com/in/isamohideen
-  bio: Isa is pursuing an MSc at the iSMART Lab. He obtained his BASc in Biomedical Engineering from the University of Waterloo, with a specialization in Medical Artificial Intelligence. He is passionate about designing scalable ML tools that are reliable, transparent, and clinically meaningful.
-
 - name: Jonathan Lamontagne Kratz
   photo: jonathan_pic_square.jpg
   info: Research Assistant (BSc)
@@ -215,7 +202,7 @@
   education3:
   scholar:
   linkedin:
-  bio: Jonathan is an Honours Computer Science student at McGill University with research interests in reinforcement learning and intelligent systems. At iSMART, he assists with data collection and preprocessing to support machine learning research. He is a project lead at the McGill Student AI Research Lab, has conducted brain-inspired AI research under Professor Schwarz, and was a world-champion competitor in VEX Robotics.
+  bio: Jonathan is an Honours Computer Science student at McGill University with research interests in reinforcement learning and intelligent systems. At iSMART, he assists with data collection and preprocessing to support machine learning research. He is a project lead at the McGill Student AI Research Lab, has conducted brain-inspired AI research, and was a world-champion competitor in VEX Robotics.
 
 - name: Ahmad Al-Jabi
   photo: ahmad-al-jabi.jpg
