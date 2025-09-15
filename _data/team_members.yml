@@ -205,6 +205,18 @@
   linkedin: https://www.linkedin.com/in/isamohideen
   bio: Isa is pursuing an MSc at the iSMART Lab. He obtained his BASc in Biomedical Engineering from the University of Waterloo, with a specialization in Medical Artificial Intelligence. He is passionate about designing scalable ML tools that are reliable, transparent, and clinically meaningful.
 
+- name: Jonathan Lamontagne Kratz
+  photo: jonathan_pic.jpg
+  info: Research Assistant (BSc)
+  email: 
+  number_educ: 0
+  education1: Honours Computer Science <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: Jonathan is an Honours Computer Science student at McGill University with research interests in reinforcement learning and intelligent systems. At iSMART, he assists with data collection and preprocessing to support machine learning research. He is a project lead at the McGill Student AI Research Lab, has conducted brain-inspired AI research under Professor Schwarz, and was a world-champion competitor in VEX Robotics.
+
 - name: Ahmad Al-Jabi
   photo: ahmad-al-jabi.jpg
   info: Research Assistant (BSc)
