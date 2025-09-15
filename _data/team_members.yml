@@ -193,6 +193,18 @@
   linkedin: https://www.linkedin.com/in/benjaminc-f/
   bio: Benjamin Curis-Friedman is a Software Engineering CO-OP student at McGill University with software-development experience and a strong interest in machine learning and mathematics. As a research assistant in the iSMART Lab, he will develop programs to turn raw video and sensor data into analysis-ready structured datasets.
   
+- name: Isa Mohideen
+  photo: Isa_WebsitePic.png
+  info: AI Researcher (MSc)
+  email: 
+  number_educ: 0
+  education1: BASc <a href="https://uwaterloo.ca/">University of Waterloo</a>
+  education2:
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/isamohideen
+  bio: Isa is pursuing an MSc at the iSMART Lab. He obtained his BASc in Biomedical Engineering from the University of Waterloo, with a specialization in Medical Artificial Intelligence. He is passionate about designing scalable ML tools that are reliable, transparent, and clinically meaningful.
+
 - name: Ahmad Al-Jabi
   photo: ahmad-al-jabi.jpg
   info: Research Assistant (BSc)
