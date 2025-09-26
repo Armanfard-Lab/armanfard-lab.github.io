@@ -43,6 +43,10 @@ permalink: /knowledge_transfer/
   * "AI‑Driven Monitoring of Systems and Crew for Aerospace Safety and Resilience"
   * Mirabel, Quebec, Canada
   * [Link](https://ismart.ece.mcgill.ca/knowledge_transfer/)
+
+### Espace Aéro — Quebec's Aerospace Innovation Zone (Invited Talk) - 2025
+  * Quebec, Canada
+  * [Website](https://espaceaero.quebec/)
 </details>
 
 <details>
