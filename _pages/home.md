@@ -50,9 +50,6 @@ We extend our gratitude to McGill University, Natural Sciences and Engineering R
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bridgestone-Logo.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cscanada.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/c3rios.webp" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dmzventures.jpeg" style="width: 100px">
 </figure>
 
 <figure class="fourth">
@@ -69,4 +66,7 @@ We extend our gratitude to McGill University, Natural Sciences and Engineering R
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/326467610_727288518831504_1045156533378518963_n.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/engine.jpg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bombardier.webp" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cscanada.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/c3rios.webp" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dmzventures.jpeg" style="width: 100px">
 </figure>
