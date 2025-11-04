@@ -47,3 +47,6 @@ collections:
   alumni:
     output: true
     permalink: /alumni/:name/
+
+g# Custom site variables
+seevita_demo_url: "" # Set to your external demo URL (e.g., https://demo.example.com)
