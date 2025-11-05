@@ -30,58 +30,40 @@ SeeVita estimates vital signs from a standard camera, contact‑free. Follow the
   By proceeding, you acknowledge that SeeVita is for research, wellness, and screening contexts and is not a medical device. It does not diagnose, treat, or cure any condition.
 </div>
 
-<div class="row">
-  <div class="col-sm-6" markdown="1">
-  
-  ### 1) Quick start
-  
-  1. Ensure even lighting on your face (avoid backlight and harsh shadows).
-  2. Sit 40–80 cm from the camera at eye level; center your face.
-  3. Keep still, breathe normally, and avoid talking during capture.
-  4. Record for 30–60 seconds; longer windows improve stability.
-  5. Use a modern browser and allow camera permissions when prompted.
-  
-  #### 2) Before you begin
-  
-  - Eligibility: use when you are seated, calm, and able to remain still for 30–60 seconds.
-  - Health context: not intended for emergency or critical care use.
-  - Medical decisions: do not make clinical decisions based on these estimates alone.
-  
-  </div>
-  <div class="col-sm-6" markdown="1">
-  
-  ### 3) Setup checklist
-  
-  - Camera: laptop/desktop/phone at 720p or higher, stabilized on a surface
-  - Environment: steady seat, quiet room, no bright window behind you
-  - Visibility: remove masks; keep hair clear from forehead/cheeks
-  - Network: reliable internet to avoid frame drops
-  
-  </div>
-</div>
+### 1) Quick start
 
-<div class="row">
-  <div class="col-sm-6" markdown="1">
-  
-  ### 4) Environment & framing
-  
-  - Lighting: face a light source; avoid strong backlight or side‑lighting that casts shadows.
-  - Background: neutral background helps the camera adjust exposure.
-  - Framing: keep your full face within the frame, forehead and cheeks clearly visible.
-  - Glasses/makeup: acceptable, but avoid reflective lenses and heavy face coverings.
-  
-  </div>
-  <div class="col-sm-6" markdown="1">
-  
-  ### 5) Do and don’t
-  
-  - Do face the camera directly; keep head within frame
-  - Do maintain a neutral expression and steady posture
-  - Don’t talk or move excessively during the recording
-  - Don’t record in low light or high‑contrast lighting
-  
-  </div>
-</div>
+1. Ensure even lighting on your face (avoid backlight and harsh shadows).
+2. Sit 40–80 cm from the camera at eye level; center your face.
+3. Keep still, breathe normally, and avoid talking during capture.
+4. Record for 30–60 seconds; longer windows improve stability.
+5. Use a modern browser and allow camera permissions when prompted.
+
+### 2) Before you begin
+
+- Eligibility: use when you are seated, calm, and able to remain still for 30–60 seconds.
+- Health context: not intended for emergency or critical care use.
+- Medical decisions: do not make clinical decisions based on these estimates alone.
+
+### 3) Setup checklist
+
+- Camera: laptop/desktop/phone at 720p or higher, stabilized on a surface
+- Environment: steady seat, quiet room, no bright window behind you
+- Visibility: remove masks; keep hair clear from forehead/cheeks
+- Network: reliable internet to avoid frame drops
+
+### 4) Environment & framing
+
+- Lighting: face a light source; avoid strong backlight or side‑lighting that casts shadows.
+- Background: neutral background helps the camera adjust exposure.
+- Framing: keep your full face within the frame, forehead and cheeks clearly visible.
+- Glasses/makeup: acceptable, but avoid reflective lenses and heavy face coverings.
+
+### 5) Do and don’t
+
+- Do face the camera directly; keep head within frame
+- Do maintain a neutral expression and steady posture
+- Don’t talk or move excessively during the recording
+- Don’t record in low light or high‑contrast lighting
 
 ### 6) Recording window
 
