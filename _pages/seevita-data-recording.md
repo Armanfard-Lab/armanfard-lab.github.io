@@ -22,82 +22,56 @@ sitemap: true
   <img src="{{ site.url }}{{ site.baseurl }}/images/ismart.png" alt="iSMART / SeeVita" style="max-width: 220px; height: auto; display: inline-block;">
 </div>
 
-### Overview
+<p style="text-align:center; font-weight:700; font-style:italic; color:#990000;">Recruiting Participants!</p>
+<p style="text-align:center;">
+  <a href="https://sites.google.com/upei.ca/ismart-vital-study-english/%C3%A0-propos" target="_blank" style="text-decoration:underline; font-weight:600;">Français</a> <span style="color:#3d85c6; font-weight:600;">🌎</span>
+  </p>
 
-SeeVita estimates vital signs from a standard camera, contact‑free. Follow the steps below to capture high‑quality recordings safely and consistently.
+## Vital Signals Recording Study: <em>AI + Healthcare</em>
 
-<div class="alert alert-info" role="alert" style="margin-top: 8px;">
-  By proceeding, you acknowledge that SeeVita is for research, wellness, and screening contexts and is not a medical device. It does not diagnose, treat, or cure any condition.
-</div>
-
-### 1) Quick start
-
-1. Ensure even lighting on your face (avoid backlight and harsh shadows).
-2. Sit 40–80 cm from the camera at eye level; center your face.
-3. Keep still, breathe normally, and avoid talking during capture.
-4. Record for 30–60 seconds; longer windows improve stability.
-5. Use a modern browser and allow camera permissions when prompted.
-
-### 2) Before you begin
-
-- Eligibility: use when you are seated, calm, and able to remain still for 30–60 seconds.
-- Health context: not intended for emergency or critical care use.
-- Medical decisions: do not make clinical decisions based on these estimates alone.
-
-### 3) Setup checklist
-
-- Camera: laptop/desktop/phone at 720p or higher, stabilized on a surface
-- Environment: steady seat, quiet room, no bright window behind you
-- Visibility: remove masks; keep hair clear from forehead/cheeks
-- Network: reliable internet to avoid frame drops
-
-### 4) Environment & framing
-
-- Lighting: face a light source; avoid strong backlight or side‑lighting that casts shadows.
-- Background: neutral background helps the camera adjust exposure.
-- Framing: keep your full face within the frame, forehead and cheeks clearly visible.
-- Glasses/makeup: acceptable, but avoid reflective lenses and heavy face coverings.
-
-### 5) Do and don’t
-
-- Do face the camera directly; keep head within frame
-- Do maintain a neutral expression and steady posture
-- Don’t talk or move excessively during the recording
-- Don’t record in low light or high‑contrast lighting
-
-### 6) Recording window
-
-- Duration: at least 30 seconds; 45–60 seconds improves stability for blood pressure and respiration estimates.
-- Multiple attempts: if results look unstable, record a second window after resting for 1–2 minutes.
-
-### 7) Privacy and consent
-
-Participate only if you understand and agree to the purpose of recording. For research or clinical use, follow your local consent procedures. We prioritize privacy with minimal retention and de‑identification where feasible. Your data should only be used for the stated purpose. For enterprise integrations, a data processing agreement may be required. Questions? Use our <a href="{{ site.url }}{{ site.baseurl }}/contact/">Contact</a> page.
-
-### 8) Start recording
-
-<p class="text-center">
-  <a class="btn btn-primary" href="{{ site.seevita_demo_url }}" target="_blank" rel="noopener">Launch Demo</a>
-  <a class="btn btn-default" href="{{ site.url }}{{ site.baseurl }}/seevita/">Back to SeeVita</a>
+<p style="text-align:center; margin: 16px 0;">
+  <a class="btn btn-primary" href="https://outlook.office.com/book/iSMARTVitalSignalsStudy@McGill.onmicrosoft.com/s/vGK-KiTeH0mlQPF6WkL6Rw2?ismsaljsauthenabled" target="_blank" rel="noopener" style="border-radius:8px; padding:10px 18px;">Sign Up Here!</a>
 </p>
 
-{% if site.seevita_demo_url contains '.mp4' %}
-<div class="embed-responsive embed-responsive-16by9" style="margin: 16px auto; max-width: 900px;">
-  <video class="embed-responsive-item" src="{{ site.seevita_demo_url }}" controls preload="metadata"></video>
-  <!-- The embedded video illustrates the demo flow. -->
+### Study Details & Requirements for Participation
+
+Researchers at McGill's <a href="https://ismart.ece.mcgill.ca/" target="_blank">iSMART Lab</a> are currently recruiting participants for our study “Evaluating a Uniquely Designed Machine Learning Model for Blood Pressure Estimation!”. Participants receive $30 worth of either Tim Horton's, McDonald's, or Starbucks gift cards for participating in a two‑hour data recording session, where we'll record videos of your face and monitor key physiological signals as you complete a series of simple tasks while seated. The collected data will be used to develop and assess machine learning models for video‑based blood pressure estimation, a promising approach that could help improve the lives of many people around the world. Participants can take part in the study up to 5 times, receiving $30 worth of gift cards each visit.
+
+The data recording session will take approximately 2 hours. During the session, six cameras will record videos of your face while we simultaneously collect physiological signals, including <a href="https://en.wikipedia.org/wiki/Photoplethysmogram" target="_blank">photoplethysmography</a> (PPG) and <a href="https://en.wikipedia.org/wiki/Electrocardiography" target="_blank">electrocardiogram</a> (ECG). The collected data will be used to train novel machine learning models to evaluate the feasibility of predicting blood pressure from facial videos, enabling a non‑contact measurement approach. In theory, estimating blood pressure from facial video recording is possible because the skin’s optical properties are sensitive to changes in blood flow in underlying blood vessels. The goal is that this research eventually contributes to a product in unobtrusive health monitoring.
+
+The first 45 minutes involve placing 11 non‑invasive electrodes and sensors on your body. The remaining ~75 minutes (with breaks) will involve completing various tasks while data is recorded. All data is to remain anonymous and accessible only to lab members; your name and personal information will not be associated with the recordings. Participation is voluntary — you may withdraw at any time, and we will delete your data upon request.
+
+As the electrodes need to be placed on your torso and neck, you’ll be given privacy and can use nearby washrooms during installation. Assistants of all genders are available to help. The session will be run by two male researchers. You're requested to arrive in a short‑sleeved shirt, as a blood pressure cuff will be placed on your right arm.
+
+#### Requirements for participation
+
+1. Be between the ages of 18 and 65
+2. Low sensitivity to bright or continuous light exposure, such as that from photography panels
+3. Understand French and/or English
+4. Be able to sit unaided without an assistive or lower extremity prosthetic device
+5. No history of hypersensitivity to medical equipment (e.g., Foley catheters, gloves) or nonmedical products (e.g., balloons, condoms, rubber gloves) containing natural rubber latex
+
+If you have any comments, questions, or concerns about any of the information or would like to learn more about our study and data recording procedure please contact Brian MacDonald at <a href="mailto:brian.g.macdonald@mail.mcgill.ca" target="_blank">brian.g.macdonald@mail.mcgill.ca</a>.
+
+### Study Location
+
+#### McConnell Engineering Building
+
+The study takes place at McGill University's downtown campus at McConnell Engineering Building, Room 814a (8th floor). Google Maps link: <a href="https://maps.app.goo.gl/GXfbGN49QB1ePzPS9" target="_blank">https://maps.app.goo.gl/GXfbGN49QB1ePzPS9</a>
+
+<p style="text-align:center; margin: 18px 0;">
+  <a class="btn btn-primary" href="https://outlook.office.com/book/iSMARTVitalSignalsStudy@McGill.onmicrosoft.com/s/vGK-KiTeH0mlQPF6WkL6Rw2?ismsaljsauthenabled" target="_blank" rel="noopener" style="border-radius:8px; padding:10px 18px;">Sign Up to Participate in our Study Here!</a>
+</p>
+
+<div style="text-align:center;">
+  <small><strong>Please address all comments, questions, or concerns regarding the data recording procedure to <u>Brian MacDonald</u> at <a href="mailto:brian.g.macdonald@mail.mcgill.ca" target="_blank">brian.g.macdonald@mail.mcgill.ca</a>.</strong></small>
+  <br>
+  <small><strong>If you have any other questions, have concerns relating to the ethics of this study, or would simply prefer to speak to the Principal Investigator, please contact <u>Dr. Narges Armanfard</u> at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.</strong></small>
+  <br>
+  <small style="color:#990000; font-style:italic; font-weight:700;">Study Actively Recruiting Participants as of Fall 2025 🎥</small>
+  <br>
+  <small>SeeVita is for research, wellness, and screening contexts and is not a medical device. It does not diagnose, treat, or cure any condition.</small>
 </div>
-{% endif %}
-
-### 9) Troubleshooting
-
-- Exposure issues: brighten the room or face a lamp; avoid windows behind you.
-- Focus issues: sit still for a moment to let the camera autofocus; clean the lens.
-- Performance: close other apps using the camera and reduce background CPU usage.
-- Permissions: in browser settings, grant camera access to this site and refresh.
-
-### 10) Disclaimer
-
-SeeVita provides estimates for informational purposes. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified health provider with any questions you may have regarding a medical condition.
 
 
 </div>
