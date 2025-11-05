@@ -6,6 +6,18 @@ permalink: /seevita/data-recording/
 sitemap: true
 ---
 
+<style>
+.seevita-recording { max-width: 900px; margin: 0 auto; }
+.seevita-recording h3 { margin-top: 24px; margin-bottom: 12px; font-weight: 600; }
+.seevita-recording h4, .seevita-recording h5, .seevita-recording h6 { margin-top: 16px; margin-bottom: 8px; font-weight: 600; }
+.seevita-recording p, .seevita-recording li { font-size: 16px; line-height: 1.6; }
+.seevita-recording ul, .seevita-recording ol { margin-bottom: 12px; }
+.seevita-recording .row { margin-top: 8px; margin-bottom: 8px; }
+.seevita-recording .alert { margin-top: 12px; }
+</style>
+
+<div class="seevita-recording">
+
 <div class="text-center" style="margin: 8px 0 20px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/ismart.png" alt="iSMART / SeeVita" style="max-width: 220px; height: auto; display: inline-block;">
 </div>
@@ -29,6 +41,12 @@ SeeVita estimates vital signs from a standard camera, contact‑free. Follow the
   4. Record for 30–60 seconds; longer windows improve stability.
   5. Use a modern browser and allow camera permissions when prompted.
   
+  #### 2) Before you begin
+  
+  - Eligibility: use when you are seated, calm, and able to remain still for 30–60 seconds.
+  - Health context: not intended for emergency or critical care use.
+  - Medical decisions: do not make clinical decisions based on these estimates alone.
+  
   </div>
   <div class="col-sm-6" markdown="1">
   
@@ -41,12 +59,6 @@ SeeVita estimates vital signs from a standard camera, contact‑free. Follow the
   
   </div>
 </div>
-
-### 2) Before you begin
-
-- Eligibility: use when you are seated, calm, and able to remain still for 30–60 seconds.
-- Health context: not intended for emergency or critical care use.
-- Medical decisions: do not make clinical decisions based on these estimates alone.
 
 <div class="row">
   <div class="col-sm-6" markdown="1">
@@ -106,3 +118,4 @@ Participate only if you understand and agree to the purpose of recording. For re
 SeeVita provides estimates for informational purposes. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified health provider with any questions you may have regarding a medical condition.
 
 
+</div>
