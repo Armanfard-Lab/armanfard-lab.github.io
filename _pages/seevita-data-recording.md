@@ -19,7 +19,7 @@ sitemap: true
 <div class="seevita-recording">
 
 <div class="text-center" style="margin: 8px 0 20px 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ismart.png" alt="iSMART / SeeVita" style="max-width: 220px; height: auto; display: inline-block;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/seevita/seevita-banner.png" alt="iSMART Vital Study" style="max-width: 360px; height: auto; display: inline-block;">
 </div>
 
 <p style="text-align:center; font-weight:700; font-style:italic; color:#990000;">Recruiting Participants!</p>
@@ -27,13 +27,13 @@ sitemap: true
   <a href="https://sites.google.com/upei.ca/ismart-vital-study-english/%C3%A0-propos" target="_blank" style="text-decoration:underline; font-weight:600;">Français</a> <span style="color:#3d85c6; font-weight:600;">🌎</span>
   </p>
 
-## Vital Signals Recording Study: <em>AI + Healthcare</em>
+<h2 style="text-align:center;">Vital Signals Recording Study: <em>AI + Healthcare</em></h2>
 
 <p style="text-align:center; margin: 16px 0;">
   <a class="btn btn-primary" href="https://outlook.office.com/book/iSMARTVitalSignalsStudy@McGill.onmicrosoft.com/s/vGK-KiTeH0mlQPF6WkL6Rw2?ismsaljsauthenabled" target="_blank" rel="noopener" style="border-radius:8px; padding:10px 18px;">Sign Up Here!</a>
 </p>
 
-### Study Details & Requirements for Participation
+<h3 style="text-align:center; color:#990000;">Study Details &amp; Requirements for Participation</h3>
 
 Researchers at McGill's <a href="https://ismart.ece.mcgill.ca/" target="_blank">iSMART Lab</a> are currently recruiting participants for our study “Evaluating a Uniquely Designed Machine Learning Model for Blood Pressure Estimation!”. Participants receive $30 worth of either Tim Horton's, McDonald's, or Starbucks gift cards for participating in a two‑hour data recording session, where we'll record videos of your face and monitor key physiological signals as you complete a series of simple tasks while seated. The collected data will be used to develop and assess machine learning models for video‑based blood pressure estimation, a promising approach that could help improve the lives of many people around the world. Participants can take part in the study up to 5 times, receiving $30 worth of gift cards each visit.
 
@@ -53,11 +53,18 @@ As the electrodes need to be placed on your torso and neck, you’ll be given pr
 
 If you have any comments, questions, or concerns about any of the information or would like to learn more about our study and data recording procedure please contact Brian MacDonald at <a href="mailto:brian.g.macdonald@mail.mcgill.ca" target="_blank">brian.g.macdonald@mail.mcgill.ca</a>.
 
-### Study Location
+<h3 style="text-align:center; color:#990000;">Study Location</h3>
 
-#### McConnell Engineering Building
+<h4 style="text-align:left;">McConnell Engineering Building</h4>
 
 The study takes place at McGill University's downtown campus at McConnell Engineering Building, Room 814a (8th floor). Google Maps link: <a href="https://maps.app.goo.gl/GXfbGN49QB1ePzPS9" target="_blank">https://maps.app.goo.gl/GXfbGN49QB1ePzPS9</a>
+
+<div class="embed-responsive embed-responsive-16by9" style="margin: 12px auto; max-width: 900px;">
+  <iframe class="embed-responsive-item" src="https://www.google.com/maps?q=McConnell%20Engineering%20Building%20Room%20814%20McGill&output=embed" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen aria-hidden="false" tabindex="0"></iframe>
+  <!-- Embedded map approximates the original Google Sites map section. -->
+  </div>
+
+<h3 style="text-align:center; color:#990000;">Sign up Now to Participate in our Data Recording Study Involving AI &amp; Healthcare!</h3>
 
 <p style="text-align:center; margin: 18px 0;">
   <a class="btn btn-primary" href="https://outlook.office.com/book/iSMARTVitalSignalsStudy@McGill.onmicrosoft.com/s/vGK-KiTeH0mlQPF6WkL6Rw2?ismsaljsauthenabled" target="_blank" rel="noopener" style="border-radius:8px; padding:10px 18px;">Sign Up to Participate in our Study Here!</a>
