@@ -56,7 +56,7 @@ As the electrodes need to be placed on your torso and neck, you’ll be given pr
 4. Be able to sit unaided without an assistive or lower extremity prosthetic device
 5. No history of hypersensitivity to medical equipment (e.g., Foley catheters, gloves) or nonmedical products (e.g., balloons, condoms, rubber gloves) containing natural rubber latex
 
-If you have any comments, questions, or concerns about any of the information or would like to learn more about our study and data recording procedure, please contact Brian MacDonald at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.
+If you have any comments, questions, or concerns about any of the information or would like to learn more about our study and data recording procedure, please contact Dr. Narges Armanfard at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.
 
 <h3>Study Location</h3>
 
