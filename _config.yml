@@ -48,4 +48,3 @@ collections:
     output: true
     permalink: /alumni/:name/
 
-seevita_demo_url: "https://www.ece.mcgill.ca/~narman1/BP-APP/video_demo_take.mp4" # Set to your external demo URL (e.g., https://demo.example.com)
