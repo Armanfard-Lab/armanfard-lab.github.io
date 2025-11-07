@@ -8,7 +8,7 @@ sitemap: true
 
 ### SeeVita — Contactless Health Monitoring
 
-SeeVita turns a standard camera into a contact‑free vital‑signs monitor.
+SeeVita is an AI-powered, contactless, real-time vital Sign Estimation System.
 
 <p>
   <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/seevita/data-recording/">Data Recording</a>
