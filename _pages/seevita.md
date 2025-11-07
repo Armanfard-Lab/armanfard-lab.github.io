@@ -8,7 +8,7 @@ sitemap: true
 
 ### SeeVita — Contactless Health Monitoring
 
-SeeVita turns a standard camera into a contact‑free vital‑signs monitor. It estimates blood pressure, heart rate, respiratory rate, and oxygen saturation using computer vision and signal processing.
+SeeVita turns a standard camera into a contact‑free vital‑signs monitor.
 
 <p>
   <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/seevita/data-recording/">Data Recording</a>
