@@ -76,14 +76,10 @@ The study takes place at McGill University's downtown campus at McConnell Engine
 </p>
 
 <div style="text-align:center;">
-  <small><strong>Please address all comments, questions, or concerns regarding the data recording procedure to <u>Brian MacDonald</u> at <a href="mailto:brian.g.macdonald@mail.mcgill.ca" target="_blank">brian.g.macdonald@mail.mcgill.ca</a>.</strong></small>
+  <small><strong>Please address all comments, questions, or concerns regarding the data recording procedure to <u>Prof. Narges Armanfard (Principal Investigator) </u> at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.</strong></small>
   <br>
-  <small><strong>If you have any other questions, have concerns relating to the ethics of this study, or would simply prefer to speak to the Principal Investigator, please contact <u>Dr. Narges Armanfard</u> at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.</strong></small>
   <br>
   <small class="seevita-note">Study Actively Recruiting Participants as of Fall 2025 🎥</small>
   <br>
-  <small>SeeVita is for research, wellness, and screening contexts and is not a medical device. It does not diagnose, treat, or cure any condition.</small>
 </div>
-
-
 </div>
