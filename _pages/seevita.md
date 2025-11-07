@@ -12,7 +12,7 @@ SeeVita turns a standard camera into a contact‑free vital‑signs monitor. It 
 
 <p>
   <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/seevita/data-recording/">Data Recording</a>
-  <a class="btn btn-default" href="{{ site.url }}{{ site.baseurl }}/seevita/demo/">Open Demo</a>
+  <a class="btn btn-default" href="{{ site.url }}{{ site.baseurl }}/seevita/demo/">Request Demo</a>
 </p>
 
 #### Key points
