@@ -1,5 +1,8 @@
+- date: Nov 2025
+  headline: Delighted to announce that our paper, (<a href="https://arxiv.org/abs/2511.09970">MultiTab</a>) has been accepted to as been accepted to the top-tier CORE A* conference AAAI 2026! We introduce MultiTab-Net, the first multitask transformer for large tabular datasets, together with MultiTab-Bench for deep, systematic multitask evaluation. Huge congratulations to Dimitri and the whole team!
+
 - date: Sept 2025
-  headline: The iSMART Lab has been invited to run a one-day workshop on Anomaly Detection at the premier AI conference, AAAI 2026, in Singapore. We warmly invite researchers, industry professionals, and stakeholders to participate, submit their original studies, and reach out if they are interested in being included as speakers. More details can be found <a href="https://ismart.ece.mcgill.ca/astad3/">here</a>.
+  headline: Thrilled to announce that the iSMART Lab has been invited to run a one-day workshop on Anomaly Detection at the prestigious CORE A* AI conference, AAAI 2026, in Singapore. We warmly invite researchers, industry professionals, and stakeholders to participate, submit their original studies, and reach out if they are interested in being included as speakers. More details can be found <a href="https://ismart.ece.mcgill.ca/astad3/">here</a>.
 
 - date: Aug 2025
   headline: Congratulations to Zihan for successfully completing his MSc thesis on Zero Shot Anomaly Detection with prompt learning. Great job, Zihan! 
@@ -14,7 +17,7 @@
   headline:  <a href="https://arxiv.org/abs/2308.12563"> TSAD‑C </a> — a pioneering framework for handling label‑level noise in sensory time‑series anomaly detection—has been accepted for publication at the prestigious Rank A AI conference, Uncertainty in Artificial Intelligence conference (UAI 2025), one of the premier venues in AI research. The work introduces a practical method that remains robust even when the training data itself is contaminated with anomalies. Congratulations to the iSMART team!
  
 - date: April 2025
-  headline: Our in-depth study, <a href="https://arxiv.org/abs/2302.00058"> Graph-based Time Series Anomaly Detection</a>, has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) — the leading venue in the Machine Learning field. This paper functions almost as a textbook, offering a comprehensive treatment of the topic. Congratulations to Khanh and the entire team.  
+  headline: Our in-depth study, <a href="https://arxiv.org/abs/2302.00058"><i>Graph-based Time Series Anomaly Detection</i></a>, has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — one of the most prestigious venues in machine learning. This comprehensive, textbook-style work provides a definitive treatment of graph-based approaches to time series anomaly detection. Congratulations to Khanh and the entire team!
 
 - date: April 2025
   headline:  We are being awarded two prestigious and highly competitive NSERC (PGS and CGS) awards in support of our research studies on Time series Data Analysis and Inverse Machine Learning. Congratulations to Thomas, Aman, and the iSMART team!
