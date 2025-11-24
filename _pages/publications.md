@@ -23,12 +23,16 @@ permalink: /publications/
  <div class="col-sm-12 clearfix">
   <div class="well">
    <pubtit>{{ publi.title }}</pubtit>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="aspect-ratio: 1.8;float: left" />
-   <p>{{ publi.description }}</p>
-   <p><em>{{ publi.authors }}</em></p>
-   <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
-   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-   <p> {{ publi.news2 }}</p>
+   <div style="display: flex; gap: 16px; align-items: flex-start;">
+     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 25%; height: 180px; object-fit: cover;" />
+     <div style="flex: 1;">
+       <p>{{ publi.description }}</p>
+       <p><em>{{ publi.authors }}</em></p>
+       <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
+       <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+       <p> {{ publi.news2 }}</p>
+     </div>
+   </div>
   </div>
  </div>
 
