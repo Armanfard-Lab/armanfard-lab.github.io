@@ -1,3 +1,13 @@
+- title: "MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data"
+  image: multitab_1_big.jpg
+  description: A framework for multitask learning on large tabular data, comprising MultiTab-Net, a transformer-based architecture that models feature dependencies while mitigating task competition, and MultiTab-Bench, a synthetic multitask generator for systematically evaluating multitask dynamics.
+  authors: D Sinodinos, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2511.09970
+    display: The 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
+  highlight: 1
+  news2:
+
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
   description: A framework integrating dual-branch prompt learning with label-free test-time adaptation for anomaly detection, using semantic cues to weight prompts and refining them via high-confidence pseudo-labels from unlabeled data.
