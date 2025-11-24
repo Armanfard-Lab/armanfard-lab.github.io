@@ -21,16 +21,16 @@ permalink: /publications/
 <div class="row">
 
  <div class="col-sm-12 clearfix">
-  <div class="well">
+  <div class="well" style="overflow: auto;">
    <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="height: auto; float: left; margin-right: 16px; margin-bottom: 8px; object-fit: contain;" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="float: left; height: 160px; max-width: 25%; width: auto; margin-right: 16px; margin-bottom: 8px; object-fit: contain; background: #fff; padding: 6px 8px; border: 1px solid #eee; border-radius: 6px;" />
+   <p>{{ publi.description }}</p>
+   <p><em>{{ publi.authors }}</em></p>
+   <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
+   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+   <p> {{ publi.news2 }}</p>
   </div>
- </div>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
