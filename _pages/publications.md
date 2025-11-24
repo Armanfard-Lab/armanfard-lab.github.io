@@ -23,20 +23,12 @@ permalink: /publications/
  <div class="col-sm-12 clearfix">
   <div class="well">
    <pubtit>{{ publi.title }}</pubtit>
-   <div style="display: flex; gap: 16px; align-items: flex-start;">
-    {% if forloop.first %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 25%; height: 180px; object-fit: contain; padding: 12px 8px; background: #fff; border: 1px solid #eee; border-radius: 6px;" />
-    {% else %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 25%; height: 180px; object-fit: cover;" />
-    {% endif %}
-     <div style="flex: 1;">
-       <p>{{ publi.description }}</p>
-       <p><em>{{ publi.authors }}</em></p>
-       <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
-       <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-       <p> {{ publi.news2 }}</p>
-     </div>
-   </div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="height: auto; float: left; margin-right: 16px; margin-bottom: 8px; object-fit: contain;" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
   </div>
  </div>
 </div>
