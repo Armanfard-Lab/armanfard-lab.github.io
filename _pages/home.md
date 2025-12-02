@@ -69,8 +69,5 @@ We extend our gratitude to McGill University, Natural Sciences and Engineering R
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cscanada.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/c3rios.webp" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dmzventures.jpeg" style="width: 100px">
-</figure>
-
-<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/moriarty_branding_img.png" style="width: 100px">
 </figure>
