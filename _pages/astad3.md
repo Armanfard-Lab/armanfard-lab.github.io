@@ -57,7 +57,18 @@ permalink: /astad3/
 <h2 align="center"> Schedule </h2>
 <hr>
 
-Coming Soon
+  <ul>
+    <li> 9:00 – 9:15: <b>Opening</b> </li>
+    <li> 9:15 – 10:15: <b>Keynote Speaker 1</b> </li>
+    <li> 10:15 – 10:30: <b>Coffee Break</b> </li>
+    <li> 10:30 – 12:00: <b>Paper Session (Oral)</b> </li>
+    <li> 12:00 – 1:00: <b>Lunch Break</b> </li>
+    <li> 1:00 – 2:00: <b>Keynote Speaker 2</b> </li>
+    <li> 2:00 – 3:00: <b>Keynote Speaker 3</b> </li>
+    <li> 3:00 – 3:15: <b>Coffee Break</b> </li>
+    <li> 3:15 – 4:30: <b>Poster Session</b> </li>
+    <li> 4:30 – 5:00: <b>Closing</b> </li>
+  </ul>
 
 <h2 align="center"> Important Dates </h2>
 <hr>
