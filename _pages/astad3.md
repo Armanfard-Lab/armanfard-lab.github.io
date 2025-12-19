@@ -78,6 +78,7 @@ permalink: /astad3/
 <li> <b>Paper submission deadline:</b> October 22, 2025 </li>
  <li> <b>Author notification:</b> November 5, 2025 </li>
  <li> <b>Camera-ready deadline:</b> November 10, 2025 </li>
+ <li> <b>Workshop Date:</b> January 26, 2026 (9AM - 5PM Singapore Time) </li>
   </ul>
 
   <h2 align="center"> Speakers </h2>
