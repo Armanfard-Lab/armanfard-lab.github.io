@@ -59,12 +59,12 @@ permalink: /astad3/
 
   <ul>
     <li> 9:00 – 9:15: <b>Opening</b> </li>
-    <li> 9:15 – 10:15: <b>Keynote Speaker 1</b> </li>
+    <li> 9:15 – 10:15: <b>Keynote: Prof. Ye Zhu</b> </li>
     <li> 10:15 – 10:30: <b>Coffee Break</b> </li>
     <li> 10:30 – 12:00: <b>Paper Session (Oral)</b> </li>
     <li> 12:00 – 1:00: <b>Lunch Break</b> </li>
-    <li> 1:00 – 2:00: <b>Keynote Speaker 2</b> </li>
-    <li> 2:00 – 3:00: <b>Keynote Speaker 3</b> </li>
+    <li> 1:00 – 2:00: <b>Keynote: Prof. Pang Guansong</b> </li>
+    <li> 2:00 – 3:00: <b>Keynote: Prof. Jie Ren</b> </li>
     <li> 3:00 – 3:15: <b>Coffee Break</b> </li>
     <li> 3:15 – 4:30: <b>Poster Session</b> </li>
     <li> 4:30 – 5:00: <b>Closing</b> </li>
@@ -84,7 +84,32 @@ permalink: /astad3/
   <h2 align="center"> Speakers </h2>
 <hr>
 
-Coming Soon
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zhu.jpg" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left" />
+  <h4>Prof. Ye Zhu</h4>
+  <i>School of Information Technology, Deakin University</i>
+  <p style="font-size:14px;">Dr Ye Zhu is a Senior Lecturer of computer science with the School of Information Technology, Deakin University, Geelong, VIC, Australia. He is an IEEE senior member and also a visiting faculty in Peking University and Nanjing University. He received a PhD degree in Artificial Intelligence with a Mollie Holman Medal for the best doctoral thesis of the year from Monash University in 2017. His research focuses on the fields of data mining and machine learning, particular topics including clustering analysis, anomaly detection, similarity learning, and their applications for pattern recognition and information retrieval. Dr Zhu has published over 90 papers in top-tier conferences and journals, including SIGKDD, VLDB, ICML, IJCAI, AAAI, AIJ, VLDBJ, ISJ, TKDE, PRJ, JAIR, and MLJ.</p>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Guansong-Pang.png" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left" />
+  <h4>Prof. Pang Guansong</h4>
+  <i>School of Computing and Information Systems, Singapore Management University</i>
+  <p style="font-size:14px;">Dr. Guansong Pang is a tenure-track Assistant Professor of Computer Science and Lee Kong Chian Fellow at the School of Computing and Information Systems, Singapore Management University (SMU), where he leads the Machine Learning & Applications (MaLA) Lab. He is also a faculty member of Centre on Security, Mobile Applications and Cryptography. He was a Research Fellow with the Australian Institute for Machine Learning (AIML), University of Adelaide, Australia. Before joining AIML, he received his Ph.D. at University of Technology Sydney (UTS), Australia. His research interests include machine learning, data mining, and computer vision, with a research theme focused on recognizing and generalizing to abnormal, unknown, or unseen data for creating trustworthy AI systems. His research has attracted 11,000+ citations and received multiple global recognition/awards, e.g., the prestigious 2020 UTS Chancellor's Award List, the World's Top 2% Scientists in 2022-2025 (the single-year or career-long category), DSAA 2023 Best Paper Award (Applications Track), and the Most Influential KDD 2023 Papers. He has been organizing a series of workshops and tutorials on anomaly and novelty detection at various conferences such as KDD, WSDM, CVPR, ICCV, IJCAI, and AAAI. He serves as Area Chair of NeurIPS, ICLR, ICML, CVPR, KDD, PAKDD, IJCAI and AAAI (Senior PC), Associate Editor of IEEE Transactions on Neural Networks and Learning Systems (TNNLS) and Pattern Recognition, and Editorial Board Member of IEEE Intelligent Systems and International Journal of Data Science and Analytics.</p>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ren.jpg" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left" />
+  <h4>Prof. Jie Ren</h4>
+  <i>Google DeepMind</i>
+  <p style="font-size:14px;">Jie Ren is a Staff Research Scientist at Google DeepMind. She holds a PhD in Computational Biology and Bioinformatics and an MSc in Statistics, from the University of Southern California. Jie's research centers on developing trustworthy AI solutions that can be safely deployed in real-world scenarios, aiming to advance scientific discoveries and enhance human well-being. Her work spans three key areas: (1) uncertainty estimation and robustness in large foundation models, (2) out-of-distribution detection and robustness in deep learning, and (3) the development of reliable machine learning for real-world application, with a special focus on biological and medical research.</p>
+</div>
+</div>
 
 <h2 align="center">Workshop Poster</h2>
 <hr>
