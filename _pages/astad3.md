@@ -59,15 +59,17 @@ permalink: /astad3/
 
   <ul>
     <li> 9:00 – 9:15: <b>Opening</b> </li>
-    <li> 9:15 – 10:15: <b>Keynote: Dr. Ye Zhu</b> </li>
-    <li> 10:15 – 10:30: <b>Coffee Break</b> </li>
-    <li> 10:30 – 12:00: <b>Paper Session (Oral)</b> </li>
+    <li> 9:15 – 9:30: <b>Workshop Overview and Plan</b> </li>
+    <li> 9:30 – 10:30: <b>Keynote: Dr. Ye Zhu</b> </li>
+    <li> 10:30 – 11:00: <b>Coffee Break</b> </li>
+    <li> 11:00 – 12:00: <b>Paper Session (Oral)</b> </li>
     <li> 12:00 – 1:00: <b>Lunch Break</b> </li>
     <li> 1:00 – 2:00: <b>Keynote: Prof. Pang Guansong</b> </li>
     <li> 2:00 – 3:00: <b>Keynote: Dr. Jie Ren</b> </li>
-    <li> 3:00 – 3:15: <b>Coffee Break</b> </li>
-    <li> 3:15 – 4:30: <b>Poster Session</b> </li>
-    <li> 4:30 – 5:00: <b>Closing</b> </li>
+    <li> 3:00 – 3:30: <b>Poster Session</b> </li>
+    <li> 3:30 – 4:00: <b>Coffee Break</b> </li>
+    <li> 4:00 – 4:30: <b>Poster Session</b> </li>
+    <li> 4:30 – 5:00: <b>Poster Session and Closing</b> </li>
   </ul>
 
 <h2 align="center"> Important Dates </h2>
