@@ -57,20 +57,56 @@ permalink: /astad3/
 <h2 align="center"> Schedule </h2>
 <hr>
 
-  <ul>
-    <li> 9:00 – 9:15: <b>Opening</b> </li>
-    <li> 9:15 – 9:30: <b>Workshop Overview and Plan</b> </li>
-    <li> 9:30 – 10:30: <b>Keynote: Dr. Ye Zhu</b> </li>
-    <li> 10:30 – 11:00: <b>Coffee Break</b> </li>
-    <li> 11:00 – 12:00: <b>Paper Session (Oral)</b> </li>
-    <li> 12:00 – 1:00: <b>Lunch Break</b> </li>
-    <li> 1:00 – 2:00: <b>Keynote: Prof. Pang Guansong</b> </li>
-    <li> 2:00 – 3:00: <b>Keynote: Dr. Jie Ren</b> </li>
-    <li> 3:00 – 3:30: <b>Poster Session</b> </li>
-    <li> 3:30 – 4:00: <b>Coffee Break</b> </li>
-    <li> 4:00 – 4:30: <b>Poster Session</b> </li>
-    <li> 4:30 – 5:00: <b>Poster Session and Closing</b> </li>
-  </ul>
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 8px; width: 25%; vertical-align: top;"><b>9:00 – 9:15</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Opening</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>9:15 – 9:30</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Workshop Overview and Plan</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>9:30 – 10:30</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Keynote: Dr. Ye Zhu</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>10:30 – 11:00</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Coffee Break</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>11:00 – 12:00</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Paper Session (Oral)</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>12:00 – 1:00</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Lunch Break</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>1:00 – 2:00</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Keynote: Prof. Pang Guansong</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>2:00 – 3:00</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Keynote: Dr. Jie Ren</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>3:00 – 3:30</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Poster Session</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>3:30 – 4:00</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Coffee Break</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>4:00 – 4:30</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Poster Session</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;"><b>4:30 – 5:00</b></td>
+      <td style="padding: 8px; vertical-align: top;"><b>Poster Session and Closing</b></td>
+    </tr>
+  </table>
 
 <h2 align="center"> Important Dates </h2>
 <hr>
