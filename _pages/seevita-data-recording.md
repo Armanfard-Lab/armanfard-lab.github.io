@@ -42,11 +42,11 @@ sitemap: true
 
 <h3>Study Details &amp; Requirements for Participation</h3>
 
-Researchers at McGill's <a href="https://ismart.ece.mcgill.ca/" target="_blank">iSMART Lab</a> are currently recruiting participants for our study on Vital Monitoring. Participants receive $30 worth of either Tim Horton's, McDonald's, or Starbucks gift cards for participating in a two‑hour data recording session, where we'll record videos of your face and monitor key physiological signals as you complete a series of simple tasks while seated. The collected data will be used to develop and assess machine learning models for vital monitoring. Participants can take part in the study up to 5 times, receiving $30 worth of gift cards each visit.
+Researchers at McGill's <a href="https://ismart.ece.mcgill.ca/" target="_blank">iSMART Lab</a> are currently recruiting participants for our study on Vital Monitoring. Participants receive $30 worth of either Tim Horton's, McDonald's, or Starbucks gift cards for participating in a two‑hour data recording session, where we'll record videos of your face and monitor physiological signals as you complete a series of simple tasks while seated. The collected data will be used to develop and assess machine learning models for vital monitoring. Participants can take part in the study up to 5 times, receiving $30 worth of gift cards each visit. Registration for the second session can only be completed after the participant completed their first session.
 
 The data recording session will take approximately 2 hours. During the session, we will record videos of your face and physiological signals. The first 45 minutes involve placing non‑invasive electrodes and sensors on your body. The remaining ~75 minutes (with breaks) will involve completing various tasks while data is recorded. All data is to remain anonymous; your name and personal information will not be associated with the recordings. Participation is voluntary — you may withdraw at any time, and we will delete your data upon request.
 
-As the electrodes need to be placed on your torso and neck, you’ll be given privacy and can use nearby washrooms during installation. Assistants of all genders are available to help. The session will be run by two male researchers. You're requested to arrive in a short‑sleeved shirt, as a blood pressure cuff will be placed on your right arm.
+As the electrodes need to be placed on your torso and neck, you'll be given privacy and can use nearby washrooms during installation. Assistants of all genders are available to help. The session will be run by two male researchers. We also request that you wear a short-sleeved shirt to the experiment
 
 #### Requirements for participation
 
@@ -56,7 +56,7 @@ As the electrodes need to be placed on your torso and neck, you’ll be given pr
 4. Be able to sit unaided without an assistive or lower extremity prosthetic device
 5. No history of hypersensitivity to medical equipment (e.g., Foley catheters, gloves) or nonmedical products (e.g., balloons, condoms, rubber gloves) containing natural rubber latex
 
-If you have any comments, questions, or concerns about any of the information or would like to learn more about our study and data recording procedure, please contact Dr. Narges Armanfard at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.
+If you have any comments, questions, or concerns about any of the information or would like to learn more about our study and data recording procedure, please contact Brian at <a href="mailto:brian.g.macdonald@mail.mcgill.ca" target="_blank">brian.g.macdonald@mail.mcgill.ca</a>. Or if you would prefer to email the principal investigator, Dr. Narges Armanfard, please contact her at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.
 
 <h3>Study Location</h3>
 
@@ -76,7 +76,7 @@ The study takes place at McGill University's downtown campus at McConnell Engine
 </p>
 
 <div style="text-align:center;">
-  <small><strong>Please address all comments, questions, or concerns regarding the data recording procedure to <u>Prof. Narges Armanfard (Principal Investigator) </u> at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>.</strong></small>
+  <small><strong>Please address all feedback or concerns regarding the data recording procedure to Prof. Narges Armanfard (Principal Investigator) at <a href="mailto:narges.armanfard@mcgill.ca" target="_blank">narges.armanfard@mcgill.ca</a>. If you would like additional information on how the study is ran, please contact Brian at <a href="mailto:brian.g.macdonald@mail.mcgill.ca" target="_blank">brian.g.macdonald@mail.mcgill.ca</a>.</strong></small>
   <br>
   <br>
   <small class="seevita-note">Study Actively Recruiting Participants as of Fall 2025 🎥</small>
