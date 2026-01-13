@@ -53,6 +53,19 @@ permalink: /knowledge_transfer/
 <summary><h2>Conference Presentations</h2></summary>
 
 <details>
+<summary><h3>2026</h3></summary>
+
+* The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
+  * Philadelphia, Pennsylvania, USA
+  * [Website](https://aaai.org/conference/aaai/aaai-26/)
+  * Papers:
+    * MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data
+    * EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset
+    * Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection
+
+</details>
+
+<details>
 <summary><h3>2025</h3></summary>
 
 * The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)
@@ -66,6 +79,9 @@ permalink: /knowledge_transfer/
 * The 36th British Machine Vision Conference (BMVC 2025)
   * Sheffield, United Kingdom
   * [Website](https://bmvc2025.bmva.org/)
+  * Papers:
+    * Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection
+    * Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning
 
 </details>
 
