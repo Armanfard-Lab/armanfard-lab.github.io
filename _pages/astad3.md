@@ -59,17 +59,16 @@ permalink: /astad3/
 
   <ul style="list-style: none; padding-left: 0;">
     <li><span style="display: inline-block; width: 140px;"><b>09:00 – 09:15:</b></span> <b>Opening</b></li>
-    <li><span style="display: inline-block; width: 140px;"><b>09:15 – 09:30:</b></span> <b>Workshop Overview and Plan</b></li>
-    <li><span style="display: inline-block; width: 140px;"><b>09:30 – 10:30:</b></span> <b>Keynote: Dr. Ye Zhu</b></li>
-    <li><span style="display: inline-block; width: 140px;"><b>10:30 – 11:00:</b></span> <b>Coffee Break</b></li>
-    <li><span style="display: inline-block; width: 140px;"><b>11:00 – 12:00:</b></span> <b>Paper Session (Oral)</b></li>
+    <li><span style="display: inline-block; width: 140px;"><b>09:15 – 10:15:</b></span> <b>Keynote: Dr. Ye Zhu</b></li>
+    <li><span style="display: inline-block; width: 140px;"><b>10:15 – 10:30:</b></span> <b>Coffee Break</b></li>
+    <li><span style="display: inline-block; width: 140px;"><b>10:30 – 12:00:</b></span> <b>Paper Session (Oral)</b></li>
     <li><span style="display: inline-block; width: 140px;"><b>12:00 – 13:00:</b></span> <b>Lunch Break</b></li>
     <li><span style="display: inline-block; width: 140px;"><b>13:00 – 14:00:</b></span> <b>Keynote: Dr. Jie Ren</b></li>
     <li><span style="display: inline-block; width: 140px;"><b>14:00 – 15:00:</b></span> <b>Keynote: Prof. Pang Guansong</b></li>
     <li><span style="display: inline-block; width: 140px;"><b>15:00 – 15:30:</b></span> <b>Poster Session</b></li>
     <li><span style="display: inline-block; width: 140px;"><b>15:30 – 16:00:</b></span> <b>Coffee Break</b></li>
-    <li><span style="display: inline-block; width: 140px;"><b>16:00 – 16:30:</b></span> <b>Poster Session</b></li>
-    <li><span style="display: inline-block; width: 140px;"><b>16:30 – 17:00:</b></span> <b>Poster Session and Closing</b></li>
+    <li><span style="display: inline-block; width: 140px;"><b>16:00 – 16:50:</b></span> <b>Poster Session</b></li>
+    <li><span style="display: inline-block; width: 140px;"><b>16:50 – 17:00:</b></span> <b>Closing</b></li>
   </ul>
 
 <h2 align="center"> Important Dates </h2>
