@@ -8,6 +8,7 @@ sitemap: true
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Merriweather:wght@400;700&display=swap">
 <style>
+.post-title { text-align: center; }
 .seevita-recording { max-width: 900px; margin: 0 auto; font-family: 'Merriweather', Arial, serif; }
 .seevita-recording h1, .seevita-recording h2, .seevita-recording h3, .seevita-recording h4 { font-family: 'Montserrat', Arial, sans-serif; }
 .seevita-recording h2 { font-weight: 700; font-size: 34px; line-height: 1.15; margin: 18px 0 8px; text-align: center; }
