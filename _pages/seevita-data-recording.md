@@ -29,9 +29,9 @@ sitemap: true
   <img src="{{ site.url }}{{ site.baseurl }}/images/seevita/seevita-banner.png" alt="iSMART Vital Study" style="max-width: 360px; height: auto; display: inline-block;">
 </div>
 
-<p style="text-align:center; font-weight:700; font-style:italic; color:#990000;">Recruiting Participants!</p>
+<p style="text-align:center; font-weight:700; font-style:italic; color:#990000; font-size: 20px;">Recruiting Participants!</p>
 <p style="text-align:center;">
-  <a href="https://sites.google.com/upei.ca/ismart-vital-study-english/%C3%A0-propos" target="_blank" style="text-decoration:underline; font-weight:600;">Français</a> <span class="seevita-muted">🌎</span>
+  <a href="{{ site.url }}{{ site.baseurl }}/seevita/enregistrement-donnees/" style="text-decoration:underline; font-weight:600; font-size: 18px;">Français</a> <span class="seevita-muted">🌎</span>
   </p>
 
 <h2>Vital Signals Recording Study: <em>AI + Healthcare</em></h2>
