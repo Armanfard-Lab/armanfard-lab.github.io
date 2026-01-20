@@ -203,3 +203,15 @@
   scholar:
   linkedin: https://www.linkedin.com/in/ahmad-al-jabi
   bio: Ahmad Al-Jabi is an undergraduate student in Electrical Engineering at McGill University. His interests lie in machine learning and its real-world applications, particularly in intelligent systems, automation, and robotics. At the iSMART Lab, he supports projects involving data collection, software tools, and applied AI research.
+
+- name: Veronika Slobodyan
+  photo: veronika-slobodyan.jpg
+  info: Research Assistant (BSc)
+  email: veronika.slobodyan@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: Veronika Slobodyan is an undergraduate student in Electrical Engineering at McGill University. Her interests include machine learning, signal processing, and AI applications in industry and healthcare. At the iSMART Lab, she contributes to projects involving data analysis, algorithm development, and applied AI research.
