@@ -28,7 +28,7 @@ permalink: /knowledge_transfer/
 </details>
 
 <details>
-<summary><h2>Invited Talks and Distinguished Lectures</h2></summary>
+<summary><h2>Invited Talks</h2></summary>
 
 ### 5th Edition of Mila's Partner Symposium | Partner Symposium - 2025
   * Prof. Narges Armanfard as Invited Speaker
@@ -47,10 +47,6 @@ permalink: /knowledge_transfer/
 ### Espace Aéro — Quebec's Aerospace Innovation Zone (Invited Talk) - 2025
   * Quebec, Canada
   * [Website](https://espaceaero.quebec/)
-</details>
-
-<details>
-<summary><h2>Conference Presentations</h2></summary>
 
 <details>
 <summary><h3>2026</h3></summary>
@@ -58,7 +54,7 @@ permalink: /knowledge_transfer/
 * The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
   * Philadelphia, Pennsylvania, USA
   * [Website](https://aaai.org/conference/aaai/aaai-26/)
-  * Papers:
+  * Talks:
     * MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data
     * EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset
     * Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection
@@ -79,7 +75,7 @@ permalink: /knowledge_transfer/
 * The 36th British Machine Vision Conference (BMVC 2025)
   * Sheffield, United Kingdom
   * [Website](https://bmvc2025.bmva.org/)
-  * Papers:
+  * Talks:
     * Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection
     * Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning
 
