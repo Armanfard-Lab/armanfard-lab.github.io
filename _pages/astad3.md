@@ -148,22 +148,6 @@ permalink: /astad3/
   </tbody>
 </table>
 
-<h2 align="center"> Keynote Talks </h2>
-<hr>
-
-<div style="max-width: 900px; margin: 0 auto;">
-  <h3>Dr. Ye Zhu</h3>
-  <p><strong>Title:</strong> Anomaly Detection Based on Isolation Mechanisms</p>
-  <p><strong>Abstract:</strong> Anomaly detection is a longstanding and active research area that has many applications in domains such as finance, security and manufacturing. However, the efficiency and performance of anomaly detection algorithms are challenged by the large-scale, high-dimensional and heterogeneous data that are prevalent in the era of big data. Isolation-based unsupervised anomaly detection is a novel and effective approach for identifying anomalies in data. It relies on the idea that anomalies are few and different from normal instances, and thus can be easily isolated by random partitioning. Isolation-based methods have several advantages over existing methods, such as low computational complexity, low memory usage, high scalability, robustness to noise and irrelevant features, and no need for prior knowledge or heavy parameter tuning. This talk reviews the state-of-the-art isolation-based anomaly detection methods, including their data partitioning strategies, anomaly score functions, and algorithmic details. It also discusses some extensions and applications of isolation-based methods in different scenarios, such as detecting anomalies in streaming data, time series, trajectory and image datasets.</p>
-
-  <h3>Dr. Jie Ren</h3>
-  <p><em>Title and abstract to be announced.</em></p>
-
-  <h3>Prof. Pang Guansong</h3>
-  <p><strong>Title:</strong> Anomalies Are Not a Class: Leveraging Labeled Anomalies in Deep and Generalist Anomaly Detection</p>
-  <p><strong>Abstract:</strong> Most anomaly detection (AD) research focuses on unsupervised or semi-supervised settings, where models are trained using only normal data, or unlabeled data assumed to be predominantly normal. While this paradigm avoids reliance on anomaly labels, it inherently limits discriminability, as models lack explicit knowledge of what constitutes abnormality. In many real-world applications, however, labeled anomaly examples are available. These may include verified defect or tumor samples in a target system, as well as curated anomaly datasets released publicly. Such labeled anomalies encode valuable prior knowledge about abnormalities of interest and, when properly leveraged, can significantly enhance detection performance. A key challenge is that labeled anomalies rarely exhaust the space of abnormal behaviors encountered at inference time, raising fundamental questions about generalization beyond seen anomaly types. This talk reviews recent progress in "supervised anomaly detection", a paradigm that exploits labeled anomaly data while explicitly addressing unknowingness, open-set nature of anomalies. We discuss two research directions. The first focuses on open-set supervised anomaly detection, where models are trained with known anomaly classes yet are required to detect previously unseen anomalies during inference. The second explores generalist anomaly detectors, which are trained once on auxiliary labeled anomaly datasets and can generalize across domains/datasets without retraining. Together, these advances challenge the notion of anomalies as a fixed class (i.e., supervised anomaly detection ≠ binary classification) and point toward more discriminative, generalized anomaly detection systems.</p>
-</div>
-
   <h2 align="center"> Speakers </h2>
 <hr>
 
@@ -248,5 +232,18 @@ permalink: /astad3/
 </div>
 {% endif %}
 {% endfor %}
+
+<h2 align="center"> Keynote Talks </h2>
+<hr>
+
+<div style="max-width: 900px; margin: 0 auto;">
+  <h3>Dr. Ye Zhu</h3>
+  <p><strong>Title:</strong> Anomaly Detection Based on Isolation Mechanisms</p>
+  <p><strong>Abstract:</strong> Anomaly detection is a longstanding and active research area that has many applications in domains such as finance, security and manufacturing. However, the efficiency and performance of anomaly detection algorithms are challenged by the large-scale, high-dimensional and heterogeneous data that are prevalent in the era of big data. Isolation-based unsupervised anomaly detection is a novel and effective approach for identifying anomalies in data. It relies on the idea that anomalies are few and different from normal instances, and thus can be easily isolated by random partitioning. Isolation-based methods have several advantages over existing methods, such as low computational complexity, low memory usage, high scalability, robustness to noise and irrelevant features, and no need for prior knowledge or heavy parameter tuning. This talk reviews the state-of-the-art isolation-based anomaly detection methods, including their data partitioning strategies, anomaly score functions, and algorithmic details. It also discusses some extensions and applications of isolation-based methods in different scenarios, such as detecting anomalies in streaming data, time series, trajectory and image datasets.</p>
+
+  <h3>Prof. Pang Guansong</h3>
+  <p><strong>Title:</strong> Anomalies Are Not a Class: Leveraging Labeled Anomalies in Deep and Generalist Anomaly Detection</p>
+  <p><strong>Abstract:</strong> Most anomaly detection (AD) research focuses on unsupervised or semi-supervised settings, where models are trained using only normal data, or unlabeled data assumed to be predominantly normal. While this paradigm avoids reliance on anomaly labels, it inherently limits discriminability, as models lack explicit knowledge of what constitutes abnormality. In many real-world applications, however, labeled anomaly examples are available. These may include verified defect or tumor samples in a target system, as well as curated anomaly datasets released publicly. Such labeled anomalies encode valuable prior knowledge about abnormalities of interest and, when properly leveraged, can significantly enhance detection performance. A key challenge is that labeled anomalies rarely exhaust the space of abnormal behaviors encountered at inference time, raising fundamental questions about generalization beyond seen anomaly types. This talk reviews recent progress in "supervised anomaly detection", a paradigm that exploits labeled anomaly data while explicitly addressing unknowingness, open-set nature of anomalies. We discuss two research directions. The first focuses on open-set supervised anomaly detection, where models are trained with known anomaly classes yet are required to detect previously unseen anomalies during inference. The second explores generalist anomaly detectors, which are trained once on auxiliary labeled anomaly datasets and can generalize across domains/datasets without retraining. Together, these advances challenge the notion of anomalies as a fixed class (i.e., supervised anomaly detection ≠ binary classification) and point toward more discriminative, generalized anomaly detection systems.</p>
+</div>
 
  
