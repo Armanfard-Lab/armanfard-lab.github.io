@@ -89,9 +89,10 @@ permalink: /astad3/
 <table style="width: 100%; margin: 20px auto; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f5f5f5;">
-      <th style="width: 8%; text-align: center; padding: 12px; border: 1px solid #ddd;">Paper ID</th>
-      <th style="width: 42%; text-align: left; padding: 12px; border: 1px solid #ddd;">Title</th>
-      <th style="width: 50%; text-align: left; padding: 12px; border: 1px solid #ddd;">Authors</th>
+      <th style="width: 6%; text-align: center; padding: 12px; border: 1px solid #ddd;">Paper ID</th>
+      <th style="width: 40%; text-align: left; padding: 12px; border: 1px solid #ddd;">Title</th>
+      <th style="width: 46%; text-align: left; padding: 12px; border: 1px solid #ddd;">Authors</th>
+      <th style="width: 8%; text-align: center; padding: 12px; border: 1px solid #ddd;">PDF</th>
     </tr>
   </thead>
   <tbody>
@@ -99,51 +100,61 @@ permalink: /astad3/
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">1</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Alexander Koran, Hadi Hojjati, Narges Armanfard</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/2_Unveiling_the_Flaws_A_Critic.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">2</td>
       <td style="padding: 10px; border: 1px solid #ddd;">EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Hadi Hojjati, Christopher Z Roth, Rory Woods, Ken Sills, Narges Armanfard</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/3_EngineAD_A_Real_World_Vehicl.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">3</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Generative Flow Models in Weight Space for Detecting Covariate Shifts</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Daniel Saragih, Deyu Cao, Tejas Balaji</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/5_Generative_Flow_Models_in_We.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">4</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Advancing Thermal Fault Diagnostics for Lithium-Ion Energy Storage Systems: An Autonomous Vision Foundation-Based Approach</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Huixin Xu, Chaoyu Dong, Qian Xiao, Yu Jin, Hongjie Jia</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/7_Advancing_Thermal_Fault_Diag.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">5</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Leveraging Physics Anomaly Knowledge and Contrastive Learning for Region-Agnostic Landslide Prediction</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Ren Ozeki, Hirozumi Yamaguchi</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/8_Leveraging_Physics_Anomaly_K.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">6</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Domain-Adaptive Video Captioning for Surveillance Videos</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Fengqi Zhang, Chunrui Hua, Shuaijie Li, Wen Qi</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/9_Domain_Adaptive_Video_Captio.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">7</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Anomaly-driven Reinforcement Learning</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Saurabh Varshneya, Maik Schürmann, Philipp Liznerski, Mayank Chetan Ahuja, Jan C. Aurich, Sophie Fellenz, Marius Kloft</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/13_Anomaly_driven_Reinforcemen.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">8</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Benchmarking IoT Time-Series AD with Event-Level Augmentations</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Dmitry Zhevnenko, Aleksandr Kovalenko, Fedor Meshchaninov, Anton Kozhukhov, Travnikov Vladislav, Makar Ippolitov, Kirill Yashunin, Iurii Katser, Ilya Makarov</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/14_Benchmarking_IoT_Time_Serie.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">9</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Bridging the Data Gap: Spatially Conditioned Diffusion Model for Anomaly Generation in Photovoltaic Electroluminescence Images</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Shiva Hanifi, Sasan Jafarnejad, Raphael Frank</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/16_Bridging_the_Data_Gap_Spati.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">10</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Modular Segmentation-Agnostic Framework for Object-Based Change Detection in Multi-Temporal VHR Imagery</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Abdul-Rashid Zakaria, Teresa J. DiMeola, Charles Walter, Pasi Lautala, Thomas Oommen, Hong Xiao</td>
+      <td style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="{{ site.url }}{{ site.baseurl }}/ASTAD_Papers/20_Modular_Segmentation_Agnost.pdf" target="_blank" rel="noopener">PDF</a></td>
     </tr>
   </tbody>
 </table>
