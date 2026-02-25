@@ -17,6 +17,7 @@ permalink: /datasets/
 .dataset-links a { font-size: 14px; font-weight: 600; }
 </style>
 
+{% assign enginead_form = "https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6lA_BBWdcepEgYvoZ7Q3rLFUQzEyV0pHV0tNQUpVUThWU0NXMFZLRlJXVi4u" %}
 <div class="datasets-page">
 <h2 align="center">Datasets</h2>
 
@@ -27,7 +28,7 @@ permalink: /datasets/
     <p>Vehicle engine sensor data for anomaly detection. Expert-annotated, multi-vehicle.</p>
     <div class="dataset-links">
       <a href="https://github.com/Armanfard-Lab/EngineAD" target="_blank" rel="noopener">GitHub</a>
-      <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6lA_BBWdcepEgYvoZ7Q3rLFUQzEyV0pHV0tNQUpVUThWU0NXMFZLRlJXVi4u" target="_blank" rel="noopener">Request access</a>
+      <a href="{{ enginead_form }}" target="_blank" rel="noopener">Request access</a>
     </div>
   </div>
 </div>
