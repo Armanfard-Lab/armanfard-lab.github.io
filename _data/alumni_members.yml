@@ -98,7 +98,9 @@
 - name: Jiahao Lu (PhD Visitor Scholar, March 2023 - Feb 2024)
   photo: 
   info:
-  duration: Moved on to the University of Copenhagen.
+  duration: |
+    Research: Self-Explanatory Unsupervised Anomaly Detection for Multi-Variate Time Series Data. 
+    Moved on to the University of Copenhagen.
   email: 
   number_educ: 1
   education1: 
