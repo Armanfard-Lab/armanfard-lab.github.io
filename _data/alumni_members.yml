@@ -13,7 +13,7 @@
   photo: 
   info: 
   duration: |
-    Thesis: Anomaly Detection on Tabular Data via In-Context Bayesian Inference
+    Thesis: Anomaly Detection on Tabular Data via In-Context Bayesian Inference.
   email: 
   number_educ: 1
   education1:  
@@ -33,7 +33,7 @@
 - name: Bahareh Nipour (PhD, Sept 2019- Dec 2024)
   photo: 
   info:
-  duration: >
+  duration: |
     Thesis: Hard Attention Finding using Reinforcement Learning.    
   email: 
   number_educ: 1
@@ -43,7 +43,9 @@
 - name: Mohammadreza Sadeghi (PhD, Sept 2019- Dec 2024)
   photo: 
   info:
-  duration: Moved on to Machine Learning Engineer, Huawei Noah's Ark Lab, Montreal
+  duration: |
+    Thesis: Unsupervised Representation Learning for Data Clustering.
+    Moved on to Machine Learning Engineer, Huawei Noah's Ark Lab, Montreal.
   email: 
   number_educ: 1
   education1: 
@@ -52,16 +54,20 @@
 - name: Ali Karami (MSc-Thesis, Sept 2022- Aug 2024)
   photo: 
   info:
-  duration: Moved on to Machine Learning Engineer, Instacart, Montreal
+  duration: |
+    Thesis: Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.
+    Moved on to Machine Learning Engineer, Instacart, Montreal
   email: 
   number_educ: 1
   education1: 
   education2:
 
-- name: Alexnder Koran (MSc-Thesis,Jan-Dec 2024)
+- name: Alexnder Koran (MSc-Thesis, Jan-Dec 2024)
   photo: 
   info:
-  duration: Moved on to a PhD program at McGill University
+  duration: |
+    Research: Time Series Anomaly Analysis. 
+    Fast-tracked to a PhD program at McGill University.
   email: 
   number_educ: 1
   education1: 
@@ -70,7 +76,9 @@
 - name: Sushant Sinha (MSc-Thesis, Co-supervised, Sept 2022-Aug 2024)
   photo: 
   info:
-  duration: Moved on to PhD program at Max Planck Institute, Germany
+  duration: |
+    Thesis: Data-driven Mechanical Property Prediction and Optimization of Hot Rolled Microalloyed Steels. 
+    Moved on to a PhD program at the Max Planck Institute, Germany.
   email: 
   number_educ: 1
   education1: 
@@ -79,7 +87,9 @@
 - name: Thomas Lai (MSc-Thesis, Sept 2023- Aug 2024)
   photo: 
   info:
-  duration: Moved on to PhD program at McGill University
+  duration: |
+    Research: Open-set timeseries data analysis.
+    Fast-tracked to PhD program at McGill University.
   email: 
   number_educ: 1
   education1: 
@@ -88,7 +98,7 @@
 - name: Jiahao Lu (PhD Visitor Scholar, March 2023 - Feb 2024)
   photo: 
   info:
-  duration: Moved on to the University of Copenhagen
+  duration: Moved on to the University of Copenhagen.
   email: 
   number_educ: 1
   education1: 
@@ -97,7 +107,9 @@
 - name: Damien Gengler (MSc-Thesis; March-Aug 2023)
   photo: 
   info:
-  duration: Moved on to Gravite.io as Machine Learning Engineer
+   duration: |
+    Thesis: Continual Learning for Self-Supervised Data Clustering.
+    Moved on to Gravite.io as a Machine Learning Engineer.
   email: 
   number_educ: 1
   education1: 
@@ -106,7 +118,9 @@
 - name: Denzel Guy (MSc-Thesis Student, Co-Supervised, Sept 2021 - Aug 2023)
   photo: 
   info:
-  duration: Moved on to Kingston Process Metallurgy Inc. (KPM) as Project Manager
+  duration: |
+    Thesis: Prediction of Mechanical Properties of Microalloyed Hot Rolled Steels using Machine Learning Techniques
+    Moved on to Kingston Process Metallurgy Inc. (KPM) as Project Manager.
   email: 
   number_educ: 1
   education1: 
@@ -115,7 +129,9 @@
 - name: Dimitrios Sinodinos (MSc-Thesis Student, Sept 2022- Aug 2023)
   photo: 
   info:
-  duration: Moved on to PhD program at McGill University
+  duration: |
+    Research: Multi-task learning.
+    Fast-tracked to PhD program at McGill University.
   email: 
   number_educ: 1
   education1: 
@@ -124,7 +140,9 @@
 - name: Hadi Hojjati (MSc-Thesis Student, Jan-Dec 2021)
   photo: Hadi (1).jpg
   info:
-  duration: Moved on to PhD program at McGill University
+  duration: |
+    Research: one-class classification.
+    Fast-tracked to PhD program at McGill University.
   email: hadi.hojjati@mcgill.ca
   number_educ: 1
   education1: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
@@ -143,7 +161,9 @@
 - name: Shuhong Shen (MSc-Thesis Student, Co-Supervised, 2020)
   photo: man.jpg
   info: 
-  duration: Moved on to Hatch in Toronto
+  duration: |
+    Thesis: Roll Force Prediction in Hot Strip Rolling Mill using Machine Learning Techniques.
+    Moved on to Hatch in Toronto.
   info: Master Student
   email:
   number_educ: 0
