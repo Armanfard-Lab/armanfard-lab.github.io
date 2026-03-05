@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-<h2 align="center"> Founder and Principal Investigator </h2>
+<h2 align="center"> Founder and Director </h2>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
