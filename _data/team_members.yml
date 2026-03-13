@@ -215,3 +215,15 @@
   scholar:
   linkedin:
   bio: Veronika Slobodyan is an undergraduate student in Electrical Engineering at McGill University. Her interests include machine learning, signal processing, and AI applications in industry and healthcare. At the iSMART Lab, she contributes to projects involving data analysis, algorithm development, and applied AI research.
+
+- name: William Prato-Deriet
+  photo: William.jpg
+  info: Research Assistant (BSc)
+  email:
+  number_educ: 0
+  education1: BSc (in progress) <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: William is an undergraduate Bioengineering student at McGill University. His experience spans artificial intelligence, quantitative modeling, and biomedical technology. He is particularly interested in the translation of scientific and engineering advances into scalable technologies with real-world impact.
