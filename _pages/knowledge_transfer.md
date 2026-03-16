@@ -44,7 +44,7 @@ permalink: /knowledge_transfer/
   * "AI‑Driven Monitoring of Systems and Crew for Aerospace Safety and Resilience"
   * Prof. Narges Armanfard as Invited Speaker
   * Mirabel, Quebec, Canada
-  * [Link](https://ismart.ece.mcgill.ca/knowledge_transfer/)
+  * [Website](https://ismart.ece.mcgill.ca/knowledge_transfer/)
 
 ### Espace Aéro — Quebec's Aerospace Innovation Zone - 2025
   * Quebec, Canada
