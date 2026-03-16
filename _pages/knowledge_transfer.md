@@ -7,7 +7,7 @@ permalink: /knowledge_transfer/
 ---
 
 <details open>
-<summary><h2>Invited Workshops and Tutorials</h2></summary>
+<summary><h2>Recent Invited Workshops and Tutorials</h2></summary>
 
 **All workshops and tutorials listed below are organized by iSMART Lab.**
 
@@ -28,7 +28,7 @@ permalink: /knowledge_transfer/
 </details>
 
 <details>
-<summary><h2>Invited Talks</h2></summary>
+<summary><h2>Recent Invited Talks</h2></summary>
 
 ### 5th Edition of Mila's Partner Symposium | Partner Symposium - 2025
   * Prof. Narges Armanfard as Invited Speaker
@@ -36,103 +36,109 @@ permalink: /knowledge_transfer/
 
 ### Distinguished Research Lecture
   * "Anomaly Detection in Time Series Data"
+  * Prof. Narges Armanfard as Invited Speaker
   * McMaster University, Hamilton, Canada
   * [Link](https://www.eng.mcmaster.ca/ece/events/lecture-4-anomaly-detection-in-time-series-data/)
 
 ### Airbus AI Summit 2025
   * "AI‑Driven Monitoring of Systems and Crew for Aerospace Safety and Resilience"
+  * Prof. Narges Armanfard as Invited Speaker
   * Mirabel, Quebec, Canada
   * [Link](https://ismart.ece.mcgill.ca/knowledge_transfer/)
 
-### Espace Aéro — Quebec's Aerospace Innovation Zone (Invited Talk) - 2025
+### Espace Aéro — Quebec's Aerospace Innovation Zone - 2025
   * Quebec, Canada
+  * Prof. Narges Armanfard as Invited Speaker
   * [Website](https://espaceaero.quebec/)
+</details>
 
 <details>
-<summary><h3>2026</h3></summary>
-
-* The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
-  * Philadelphia, Pennsylvania, USA
+<summary><h2>Reseach Talks</h2></summary>
+ 
+### The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
+  * Singapore
   * [Website](https://aaai.org/conference/aaai/aaai-26/)
-  * Talks:
+  * Research Talks:
     * MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data
     * EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset
     * Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection
 
-</details>
-
-<details>
-<summary><h3>2025</h3></summary>
-
-* The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)
+###  The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)
   * Rio de Janeiro, Brazil
   * [Website](https://www.auai.org/uai2025/)
-
-* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)
+  * Topics:
+    * Contaminated Multivariate Time-Series Anomaly Detection with Spatio-Temporal Graph Conditional Diffusion Models
+      
+### IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)
   * Tucson, Arizona
   * [Website](https://wacv2025.thecvf.com/)
+  * Topics:
+    * Cross-Task Affinity Learning for Multitask Dense Scene Predictions
+    * Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection
 
-* The 36th British Machine Vision Conference (BMVC 2025)
+### The 36th British Machine Vision Conference (BMVC 2025)
   * Sheffield, United Kingdom
   * [Website](https://bmvc2025.bmva.org/)
-  * Talks:
+  * Topics:
     * Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection
     * Language-Guided Reinforcement Learning for Hard Attention in Few-Shot Learning
-
-</details>
-
-<details>
-<summary><h3>2024</h3></summary>
-
-* 27th European Conference on Artificial Intelligence (ECAI 2024)
+   
+### 27th European Conference on Artificial Intelligence (ECAI 2024)
   * Santiago de Compostela, Spain
   * [Website](https://www.ecai2024.eu/)
-</details>
+  * Topics:
+    * Open-Set Multivariate Time-Series Anomaly Detection
 
-<details>
-<summary><h3>2023</h3></summary>
-
-* 34th British Machine Vision Conference (BMVC 2023)
+### 34th British Machine Vision Conference (BMVC 2023)
   * Aberdeen, Scotland
   * [Website](https://bmvc2023.org/)
+  * Topics:
+    *  C3: Cross-instance guided Contrastive Clustering
 
-* European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2023)
+### European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2023)
   * Turin, Italy
   * [Website](https://2023.ecmlpkdd.org/)
+  * Topics:
+    *  Multivariate Time-Series Anomaly Detection with Temporal Self-Supervision and Graphs: Application to Vehicle Failure Prediction
 
-* Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-2023)
+### Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-2023)
   * Washington DC, USA
   * [Website](https://aaai.org/Conferences/AAAI-23/)
-</details>
+  * Topics:
+    *  Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs: Application to Seizure Analysis
 
-<details>
-<summary><h3>2022</h3></summary>
-
-* 26th International Conference on Pattern Recognition (ICPR 2022)
+### 26th International Conference on Pattern Recognition (ICPR 2022)
   * Montreal, Canada
   * [Website](https://www.icpr2022.com/)
+  * Topics:
+    * Attentive Task Interaction Network for Multi-Task Learning
 
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)
+### IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)
   * Singapore
   * [Website](https://2022.ieeeicassp.org/)
-</details>
+  * Topics:
+    * Self-Supervised Acoustic Anomaly Detection Via Contrastive Learning
 
-<details>
-<summary><h3>2021</h3></summary>
-
-* IEEE International Conference on Image Processing (ICIP 2021)
+### IEEE International Conference on Image Processing (ICIP 2021)
   * Anchorage, Alaska, USA
   * [Website](https://2021.ieeeicip.org/)
-
-* IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021)
+  * Topics:
+    * IDECF: Improved Deep Embedding Clustering With Deep Fuzzy Supervision
+ 
+### IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021)
   * Melbourne, Australia
   * [Website](https://www.smc2021.org/)
+  * Topics:
+    * Joint Selection using Deep Reinforcement Learning for Skeleton-based Activity Recognition
 
-* International Joint Conference on Neural Networks (IJCNN 2021)
+### International Joint Conference on Neural Networks (IJCNN 2021)
   * Virtual Conference
   * [Website](https://www.ijcnn.org/)
+  * Topics:
+    * Deep Successive Subspace Learning for Data Clustering
+
 </details>
-</details>
+
 
 <details>
 <summary><h2>Teaching Activities</h2></summary>
