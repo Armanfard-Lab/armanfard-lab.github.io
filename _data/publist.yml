@@ -8,6 +8,16 @@
   highlight: 1
   news2:
 
+- title: "ICLAD: In-Context Learning for Unified Tabular Anomaly Detection Across Supervision Regimes"
+  image: ICLAD_overview.png
+  description: ICALD is a foundation model for tabular anomaly detection that uses in-context learning to generalize across datasets and supervision regimes—delivering state-of-the-art performance without task-specific retraining.
+  authors: J Wei, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2603.19497
+    display: https://arxiv.org/abs/2603.19497 (2026)
+  highlight: 1
+  news2:
+
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
   description: A framework integrating dual-branch prompt learning with label-free test-time adaptation for anomaly detection, using semantic cues to weight prompts and refining them via high-confidence pseudo-labels from unlabeled data.
