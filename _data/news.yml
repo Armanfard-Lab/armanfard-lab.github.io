@@ -1,5 +1,5 @@
 - date: March 2026
-  headline: Our recent foundation model, ICLAD, is now available <a href="https://arxiv.org/abs/2603.19497">here. ICALD is a foundation model for tabular anomaly detection that uses in-context learning to generalize across datasets and supervision regimes—delivering state-of-the-art performance without task-specific retraining.</a>
+  headline: Our recent foundation model, ICLAD, is now available <a href="https://arxiv.org/abs/2603.19497"> here </a>. ICALD is a foundation model for tabular anomaly detection that uses in-context learning to generalize across datasets and supervision regimes—delivering state-of-the-art performance without task-specific retraining.</a>
   
 - date: Feb 2026
   headline: We are proud to announce that two of our team members have completed their theses with exceptional grades and are candidates for the McGill Thesis Award. Khanh defended her PhD on graph-based time-series data, and Jack completed his MSc on in-context Bayesian inference for tabular data.
@@ -77,7 +77,7 @@
   headline: <a href="https://arxiv.org/pdf/2310.12294">MOSAD</a>&#58; the first-ever solution for Open-Set Time Series Anomaly Detection is accepted for presentation at the Prestigious Rank A AI Conference, ECAI-24 in Spain! Congratulations to Thomas, Khanh, and the iSMART Team! 
   
 - date: June 2024
-  headline: Part of our research on Unsupervised Continual Clustering, integrating representation learning and clustering with knowledge distillation from lightweight student models, is now available <a href="https://arxiv.org/abs/2405.19234">here.</a>.
+  headline: Part of our research on Unsupervised Continual Clustering, integrating representation learning and clustering with knowledge distillation from lightweight student models, is now available <a href="https://arxiv.org/abs/2405.19234">here </a>.
 
 - date: June 2024
   headline: iSMART Lab Awarded Substantial Grant in Support of its Ongoing Innovations in Industrial Automation! Congratulations to the entire team!
