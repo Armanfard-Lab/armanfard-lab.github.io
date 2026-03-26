@@ -18,6 +18,16 @@
   highlight: 1
   news2:
 
+  - title: "Multitask-Informed Prior for In-Context Learning on Tabular Data: Application to Steel Property Prediction"
+  image: ICLAD_overview.png
+  description: This work bridges foundation models and industrial intelligence, showing how multitask priors can redefine tabular learning in real-world systems.
+  authors: D Sinodinos, B Nikpour, JY Wei, S Sinha, X Ma, K Rehman, S Yue, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2603.22738
+    display: https://arxiv.org/abs/2603.22738 (preprint, 2026)
+  highlight: 1
+  news2:
+
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
   description: A framework integrating dual-branch prompt learning with label-free test-time adaptation for anomaly detection, using semantic cues to weight prompts and refining them via high-confidence pseudo-labels from unlabeled data.
