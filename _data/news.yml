@@ -1,5 +1,5 @@
 - date: March 2026
-  headline: VLAAD and our multimodal collision datasets, CARLA-Collide and Real-Collide, are now available <a href="https://arxiv.org/abs/2603.25946">here</a> — enabling collision-aware vision-language learning for safer end-to-end driving with strong generalization and significant performance gains.
+  headline: VLAAD and our multimodal collision datasets, CARLA-Collide and Real-Collide, are now available <a href="https://arxiv.org/abs/2603.25946">here</a> -- enabling collision-aware vision-language learning for safer end-to-end driving with strong generalization and significant performance gains.
 
 - date: March 2026
   headline: Our foundation model, ICLAD, is now available <a href="https://arxiv.org/abs/2603.19497">here</a> -- a tabular anomaly detection model that leverages in-context learning to generalize across datasets and supervision regimes, achieving state-of-the-art performance without task-specific retraining.
@@ -11,10 +11,10 @@
   headline: We are proud to announce that two of our team members have completed their theses with exceptional grades and are candidates for the McGill Thesis Award. Khanh defended her PhD on graph-based time-series data, and Jack completed his MSc on in-context Bayesian inference for tabular data.
 
 - date: Jan 2026
-  headline: Our framework, ARTA, is available <a href="https://arxiv.org/abs/2603.25956">here</a> — an adversarially robust multivariate time-series anomaly detection approach that leverages joint information retention to improve stability under noise and achieve strong performance across diverse benchmarks.
+  headline: Our framework, ARTA, is available <a href="https://arxiv.org/abs/2603.25956">here</a> -- an adversarially robust multivariate time-series anomaly detection approach that leverages joint information retention to improve stability under noise and achieve strong performance across diverse benchmarks.
 
 - date: Dec 2025
-  headline: Our dataset, EngineAD, is available <a href="https://arxiv.org/abs/2603.25955">here</a> — a large-scale, real-world vehicle engine anomaly detection benchmark with expert-labeled telemetry, enabling the development and evaluation of robust, field-deployable models in safety-critical automotive settings.
+  headline: Our dataset, EngineAD, is available <a href="https://arxiv.org/abs/2603.25955">here</a> -- a large-scale, real-world vehicle engine anomaly detection benchmark with expert-labeled telemetry, enabling the development and evaluation of robust, field-deployable models in safety-critical automotive settings.
   
 - date: Nov 2025
   headline: Delighted to announce that our paper, <a href="https://arxiv.org/abs/2511.09970">MultiTab</a>, has been accepted to the top-tier CORE A* conference AAAI 2026! We introduce MultiTab-Net, the first multitask transformer for large tabular datasets, together with MultiTab-Bench for deep, systematic multitask evaluation. Huge congratulations to Dimitri and the whole team!
