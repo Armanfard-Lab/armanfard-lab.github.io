@@ -2,7 +2,7 @@
   headline: VLAAD and our multimodal collision datasets, CARLA-Collide and Real-Collide, are now available <a href="https://arxiv.org/abs/2603.25946">here</a> — enabling collision-aware vision-language learning for safer end-to-end driving with strong generalization and significant performance gains.
 
 - date: March 2026
-  headline: Our foundation model, ICLAD, is now available <a href="https://arxiv.org/abs/2603.19497"> here </a> -- a tabular anomaly detection model that leverages in-context learning to generalize across datasets and supervision regimes, achieving state-of-the-art performance without task-specific retraining.
+  headline: Our foundation model, ICLAD, is now available <a href="https://arxiv.org/abs/2603.19497">here</a> -- a tabular anomaly detection model that leverages in-context learning to generalize across datasets and supervision regimes, achieving state-of-the-art performance without task-specific retraining.
 
 - date: March 2026
   headline: We introduced a multitask learning framework that enhances TabPFN by injecting multitask awareness directly into its prior—enabling it to capture complex relationships among mechanical properties in steel manufacturing. See <a href="https://arxiv.org/abs/2603.22738"> here </a> for details.
