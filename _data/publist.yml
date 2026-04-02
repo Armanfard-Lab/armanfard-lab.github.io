@@ -1,3 +1,23 @@
+- title: "Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets"
+  image: vlaad_full_annotated.png
+  description: VLAAD proves that smarter representations—not bigger models—are key to safer autonomous driving.
+  authors: A Koran, D Sinodinos, H Hojjati, T Nanri, F Chen, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2603.25946
+    display: arxiv.2603.25946 (preprint, 2026)
+  highlight: 1
+  news2:
+
+- title: "Adversarial-Robust Multivariate Time-Series Anomaly Detection via Joint Information Retention"
+  image: ARTA.png
+  description: By explicitly modeling adversarial temporal corruptions, ARTA transforms robustness from an afterthought into a core design principle of time-series anomaly detection.
+  authors: H Hojjati, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2603.25956
+    display: arxiv.2603.25956 (preprint, 2026)
+  highlight: 1
+  news2:
+
 - title: "MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data"
   image: multitab_1_big.jpg
   description: A framework for multitask learning on large tabular data, comprising MultiTab-Net, a transformer-based architecture that models feature dependencies while mitigating task competition, and MultiTab-Bench, a synthetic multitask generator for systematically evaluating multitask dynamics.
@@ -37,6 +57,16 @@
     display: "SSRN 6427246 (preprint, 2026)"
   highlight: 1
   news2: 
+
+- title: "EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset"
+  image: EngineAD.png
+  description: With EngineAD, we move beyond benchmarks toward truly deployable anomaly detection for safety-critical systems.
+  authors: H Hojjati, C Roth, R Woods, K Sills, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2603.25955
+    display: 	The 40th AAAI Conference on Artificial Intelligence-ASTAD W (2026)
+  highlight: 1
+  news2:
 
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
