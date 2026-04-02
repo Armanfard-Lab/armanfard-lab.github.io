@@ -28,6 +28,16 @@
   highlight: 1
   news2:
 
+- title: "Supervised Multimodal Model for Plasma Spray Diagnostics and Spray Health Monitoring"
+  image: aps_process.png
+  description: This work bridges foundation models and industrial intelligence, showing how multitask priors can redefine tabular learning in real-world systems.
+  authors: C Cureton, A Praveen, S Soleimani, A Sidhu, C Cojocaru, K R Yu, N Armanfard
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6427246
+    display: "SSRN 6427246 (preprint, 2026)"
+  highlight: 1
+  news2: 
+
 - title: "Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning"
   image: PILOT.png
   description: A framework integrating dual-branch prompt learning with label-free test-time adaptation for anomaly detection, using semantic cues to weight prompts and refining them via high-confidence pseudo-labels from unlabeled data.
