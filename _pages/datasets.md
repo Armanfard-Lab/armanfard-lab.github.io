@@ -27,8 +27,8 @@ Vehicle engine sensor data for anomaly detection. Expert-annotated, multi-vehicl
 
 **Link:** [TBD](#)
 
-### Multi-tab data
+### MultiTab — Synthetic Multitask Data
 
-*Description to be added.*
+Generate synthetic multitask regression datasets with controllable task correlations, polynomial complexity, and noise levels.
 
-**Link:** [TBD](#)
+**[Open the generator →](/multitab-generator/)**
