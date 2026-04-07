@@ -109,6 +109,11 @@ firstp {
     display: block;
   }
 
+  .navbar-fixed-top .navbar-collapse,
+  .navbar-fixed-bottom .navbar-collapse {
+    max-height: none;
+  }
+
   .navbar-collapse.collapse {
     display: none !important;
     padding-left: 0;
@@ -118,6 +123,7 @@ firstp {
   .navbar-collapse.collapse.in {
     display: block !important;
     overflow-x: hidden;
+    overflow-y: visible;
   }
 
   .navbar-nav {
