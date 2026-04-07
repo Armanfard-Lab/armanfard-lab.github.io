@@ -93,6 +93,14 @@ firstp {
 
 /* Use mobile-style collapsed nav on all screen sizes */
 @media (min-width: 768px) {
+  .navbar > .container .navbar-header,
+  .navbar > .container .navbar-collapse,
+  .navbar > .container-fluid .navbar-header,
+  .navbar > .container-fluid .navbar-collapse {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
   .navbar-header {
     float: none;
   }
