@@ -10,18 +10,23 @@ permalink: /datasets/
 
 ### EngineAD
 
-Vehicle engine sensor data for anomaly detection. Expert-annotated, multi-vehicle.
+EngineAD is a real-world vehicle engine anomaly detection dataset designed for safety-critical transportation applications.
 
-{% assign enginead_form = "https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6lA_BBWdcepEgYvoZ7Q3rLFUQzEyV0pHV0tNQUpVUThWU0NXMFZLRlJXVi4u" %}
-**Request access:** [Fill out the form]({{ enginead_form }})
+- Collected from a fleet of **25 commercial vehicles** over **6 months**.
+- Includes high-resolution telemetry sampled at approximately **1-second intervals** from engine-related sensors.
+- Covers **13 raw engine signals** (e.g., pressure, temperature, fuel-rate, rotational-speed related channels).
+- Includes expert annotations distinguishing normal operation from early signs of incipient faults.
+- Provides processed segment-level data commonly used for benchmarking (including principal-component-based representations).
 
-### Carla-Collide
+**Dataset page:** [BorealisData - EngineAD (DOI:10.5683/SP3/TX13P1)](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/TX13P1)
+
+### CARLA-Collide
 
 *Description to be added.*
 
 **Link:** [TBD](#)
 
-### iSMART-Collide
+### Real-Collide
 
 *Description to be added.*
 
