@@ -123,17 +123,20 @@ firstp {
     padding-bottom: 10px;
   }
 
+  .navbar-nav .dropdown-menu,
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
-    width: auto;
+    width: 100%;
     margin-top: 0;
+    padding: 0;
     background-color: transparent;
     border: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
   }
 
+  .navbar-nav .dropdown-menu > li > a,
   .navbar-nav .open .dropdown-menu > li > a {
     padding: 5px 15px 5px 25px;
   }
