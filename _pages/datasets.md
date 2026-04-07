@@ -8,7 +8,7 @@ permalink: /datasets/
 
 ## Datasets
 
-### EngineAD
+### <span id="enginead">EngineAD</span>
 
 EngineAD is a real-world vehicle engine anomaly detection dataset designed for safety-critical transportation applications.
 
@@ -32,7 +32,7 @@ EngineAD is a real-world vehicle engine anomaly detection dataset designed for s
 
 **Link:** [TBD](#)
 
-### MultiTab — Synthetic Multitask Data
+### <span id="multitab">MultiTab — Synthetic Multitask Data</span>
 
 Generate synthetic multitask regression datasets with controllable task correlations, polynomial complexity, and noise levels.
 

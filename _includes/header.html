@@ -15,9 +15,16 @@
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/datasets">Datasets</a></li>
+		<li class="dropdown">
+		  <a href="{{ site.url }}{{ site.baseurl }}/datasets" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+			Datasets <span class="caret"></span>
+		  </a>
+		  <ul class="dropdown-menu">
+			<li><a href="{{ site.url }}{{ site.baseurl }}/datasets#enginead">EngineAD</a></li>
+			<li><a href="{{ site.url }}{{ site.baseurl }}/datasets#multitab">MultiTab</a></li>
+		  </ul>
+		</li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/knowledge_transfer">Knowledge Transfer</a></li>
-		<li><a href="https://github.com/Armanfard-Lab" target="_blank">Repository</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/collaborate-with-us">Collaborate</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/contact">Contact Us</a></li>
 	  </ul>
