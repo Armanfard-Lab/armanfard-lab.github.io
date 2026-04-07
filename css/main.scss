@@ -103,15 +103,24 @@ firstp {
 
   .navbar-collapse.collapse {
     display: none !important;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .navbar-collapse.collapse.in {
     display: block !important;
+    overflow-x: hidden;
   }
 
   .navbar-nav {
     float: none !important;
-    margin: 7.5px -15px;
+    margin: 0;
+    width: 100%;
+  }
+
+  .navbar-nav.navbar-right {
+    float: none !important;
+    margin-right: 0;
   }
 
   .navbar-nav > li {
@@ -119,8 +128,7 @@ firstp {
   }
 
   .navbar-nav > li > a {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 15px;
   }
 
   .navbar-nav .dropdown-menu,
