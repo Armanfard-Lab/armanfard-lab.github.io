@@ -122,8 +122,17 @@ firstp {
 
   .navbar-collapse.collapse.in {
     display: block !important;
+    position: fixed;
+    top: 50px;
+    left: 0;
+    width: min(320px, 85vw);
+    height: calc(100vh - 50px);
+    padding: 0 0 20px;
+    background-color: #9E0918;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
     overflow-x: hidden;
-    overflow-y: visible;
+    overflow-y: auto;
+    z-index: 1029;
   }
 
   .navbar-nav {
