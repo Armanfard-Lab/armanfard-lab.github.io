@@ -117,6 +117,15 @@ firstp {
     max-height: none;
   }
 
+  .navbar-collapse,
+  .navbar-collapse.collapse,
+  .navbar-collapse.collapsing,
+  .navbar-collapse.collapse.in {
+    -webkit-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+  }
+
   .navbar-collapse.collapse {
     display: none !important;
     padding-left: 0;
@@ -136,9 +145,6 @@ firstp {
     overflow-x: hidden;
     overflow-y: auto;
     z-index: 1029;
-    -webkit-transition: none !important;
-    -o-transition: none !important;
-    transition: none !important;
   }
 
   .navbar-collapse.collapse.in {
@@ -148,7 +154,7 @@ firstp {
     right: 0;
     left: auto;
     width: min(320px, 85vw);
-    height: calc(100vh - 50px);
+    height: calc(100vh - 50px) !important;
     padding: 0 0 20px;
     background-color: #9E0918;
     border-top: 1px solid rgba(255, 255, 255, 0.15);
