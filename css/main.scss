@@ -103,10 +103,13 @@ firstp {
 
   .navbar-header {
     float: none;
+    position: relative;
   }
 
   .navbar-toggle {
     display: block;
+    float: right;
+    margin-right: 15px;
   }
 
   .navbar-fixed-top .navbar-collapse,
@@ -120,11 +123,30 @@ firstp {
     padding-right: 0;
   }
 
+  .navbar-collapse.collapsing {
+    position: fixed;
+    top: 50px;
+    right: 0;
+    left: auto;
+    width: min(320px, 85vw);
+    height: calc(100vh - 50px) !important;
+    padding: 0 0 20px;
+    background-color: #9E0918;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    overflow-x: hidden;
+    overflow-y: auto;
+    z-index: 1029;
+    -webkit-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+  }
+
   .navbar-collapse.collapse.in {
     display: block !important;
     position: fixed;
     top: 50px;
-    left: 0;
+    right: 0;
+    left: auto;
     width: min(320px, 85vw);
     height: calc(100vh - 50px);
     padding: 0 0 20px;
