@@ -11,6 +11,9 @@
   headline: We introduced a multitask learning framework that enhances TabPFN by injecting multitask awareness directly into its prior—enabling it to capture complex relationships among mechanical properties in steel manufacturing. See <a href="https://arxiv.org/abs/2603.22738"> here </a> for details.
 
 - date: Feb 2026
+  headline: iSMART Wins a prestigious award in Support of SeeVita--Contactless vital signs monitoring for real-world environments! Congratulations to Our Entire Team!
+
+- date: Feb 2026
   headline: We are proud to announce that two of our team members have completed their theses with exceptional grades and are candidates for the McGill Thesis Award. Khanh defended her PhD on graph-based time-series data, and Jack completed his MSc on in-context Bayesian inference for tabular data.
 
 - date: Jan 2026
@@ -65,7 +68,7 @@
   headline: Congratulations to Bahar and Mohammadreza on successfully defending their PhD theses! Their hard work and dedication have truly paid off!
   
 - date: Oct 2024
-  headline: iSMART Wins Prestigious Award for Innovations in AI Healthcare! Congratulations to Our Entire Team!
+  headline: iSMART Wins a prestigious award in Support of SeeVita--Contactless vital signs monitoring for real-world environments! Congratulations to Our Entire Team!
   
 - date: Oct 2024
   headline: <a href="https://arxiv.org/abs/2401.11124">CTAL</a>&#58; A novel distillation module and framework achieving significant multitask gains with minimal parameters, accepted in the first round (~10% acceptance) at the prestigious Rank A AI conference WACV 2025. Congrats to Dimitri and the iSMART Team! 
