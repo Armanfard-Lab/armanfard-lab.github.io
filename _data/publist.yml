@@ -1,3 +1,13 @@
+- title: "TabPFN-MT: A Natively Multitask In-Context Learner for Tabular Data"
+  image: TabPFNMT.png
+  description: Multitask PFNs deliver state-of-the-art tabular learning with constant-cost inference across targets.
+  authors: C Cureton, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2605.20234
+    display: arxiv.2605.20234 (preprint, 2026)
+  highlight: 1
+  news2:
+
 - title: "Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets"
   image: vlaad_full_annotated.png
   description: VLAAD proves that smarter representations—not bigger models—are key to safer autonomous driving.
