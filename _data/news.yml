@@ -1,3 +1,6 @@
+- date: May 2026
+  headline:  Our multitask PFN method, TabPFN-MT, which delivers state-of-the-art tabular learning with constant-cost inference across multiple targets, is now available <a href="https://arxiv.org/abs/2605.20234">here</a>. Evaluated on 344 datasets, it matches top single-task ensembles while scaling far more efficiently.
+
 - date: April 2026
   headline: We are being awarded the prestigious and competitive FRQ award in support of our ongoing research on SeeVita--Contactless vital signs monitoring for real-world environments! Congratulations to Brian and the iSMART team!
 
