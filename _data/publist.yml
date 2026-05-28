@@ -1,7 +1,7 @@
 - title: "Forward-Backward Knowledge Distillation for Continual Clustering"
   image: FBCC.jpg
   description: There is a noticeable lack of algorithms specifically designed for unsupervised clustering. To fill this gap, we introduce the concept of UCC in this paper.
-  authors: M Sadeghi, S. Soleimani, Z Wang, N Armanfard
+  authors: M Sadeghi, S Soleimani, Z Wang, N Armanfard
   link:
     url: https://arxiv.org/abs/2405.19234
     display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2026)
