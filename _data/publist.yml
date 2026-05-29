@@ -178,7 +178,7 @@
   highlight: 1
   news2: 
 
- - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
+- title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
   image: BaharReview.png
   description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
   authors: B Nikpour, D Sinodinos, N Armanfard
