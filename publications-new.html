@@ -56,6 +56,40 @@ permalink: /publications-new/
     {% endif %}
     {% endfor %}
 
+    <!-- All Publications -->
+    <div class="row mt-5">
+        <div class="col-12">
+            <h2 class="section-title mb-4" style="color: #9E0918;">All Publications</h2>
+        </div>
+    </div>
+
+    {% for publi in site.data.publist %}
+    {% if publi.highlight != 1 %}
+    <div class="row mb-3">
+        <div class="col-12">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <div class="row align-items-center">
+                        {% if publi.image %}
+                        <div class="col-md-2 mb-2 mb-md-0">
+                            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-fluid rounded" alt="Publication Image" style="aspect-ratio: 1.8; object-fit: cover;">
+                        </div>
+                        <div class="col-md-10">
+                        {% else %}
+                        <div class="col-12">
+                        {% endif %}
+                            <h6 class="card-title text-primary mb-1">{{ publi.title }}</h6>
+                            <p class="text-muted mb-1" style="font-size: 0.9em;"><em>{{ publi.authors }}</em></p>
+                            <p class="mb-0" style="font-size: 0.9em;"><a href="{{ publi.link.url }}" target="_blank" class="link-primary">{{ publi.link.display }}</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
     <!-- Research Areas -->
     <div class="row mt-5">
         <div class="col-12">
