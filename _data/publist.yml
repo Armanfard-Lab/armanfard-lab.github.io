@@ -5,7 +5,7 @@
   link:
     url: https://arxiv.org/abs/2606.07416
     display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2026)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Unsupervised Continual Clustering via Forward-Backward Knowledge Distillation"
