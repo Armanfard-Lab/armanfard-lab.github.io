@@ -35,7 +35,30 @@ Generate synthetic multitask regression datasets with controllable task correlat
 **Related paper:**
 - [MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data (AAAI 2026)](https://arxiv.org/abs/2511.09970)
 
-**Citation policy:** If you use MultiTab or the synthetic generator for experiments, please cite the paper above (as requested in the MultiTab GitHub description).
+**Citation policy:** If you use MultiTab or the synthetic generator for experiments, please cite the paper above as below:
+```bibtex
+@inproceedings{hojjati2026enginead,
+  title={EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset},
+  author={Hojjati, Hadi and Roth, Christopher and Woods, Rory and Sills, Ken and Armanfard, Narges},
+  booktitle={Proceedings of the 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) at AAAI},
+  series={Communications in Computer and Information Science},
+  year={2026},
+  publisher={Springer},
+}
+```
+```bibtex
+@inproceedings{hojjati2023multivariate,
+  title={Multivariate Time-Series Anomaly Detection with Temporal Self-supervision and Graphs: Application to Vehicle Failure Prediction},
+  author={Hojjati, Hadi and Sadeghi, Mohammadreza and Armanfard, Narges},
+  booktitle={Machine Learning and Knowledge Discovery in Databases: Applied Data Science and Demo Track (ECML PKDD)},
+  series={Lecture Notes in Computer Science},
+  volume={14175},
+  pages={239--254},
+  year={2023},
+  publisher={Springer},
+  doi={10.1007/978-3-031-43430-3_15}
+}
+
 
 ### Upcoming datasets
 
