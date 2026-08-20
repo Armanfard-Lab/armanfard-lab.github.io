@@ -78,9 +78,12 @@ Generate synthetic multitask regression datasets with controllable task correlat
 
 ```bibtex
 @inproceedings{sinodinos2026multitab,
-  title={MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data},
-  author={Sinodinos, Dimitrios and Wei, Jack Yi and Armanfard, Narges},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  title={MultiTab: A Scalable Foundation for Multitask Learning
+    on Tabular Data},
+  author={Sinodinos, Dimitrios and Wei, Jack Yi and Armanfard,
+    Narges},
+  booktitle={Proceedings of the AAAI Conference on Artificial
+    Intelligence},
   volume={40},
   number={30},
   pages={25499--25507},
