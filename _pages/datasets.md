@@ -30,10 +30,16 @@ The EngineAD dataset is now publicly available — no access request is required
 
 ```bibtex
 @inproceedings{hojjati2026enginead,
-  title={EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset},
-  author={Hojjati, Hadi and Roth, Christopher and Woods, Rory and Sills, Ken and Armanfard, Narges},
-  editor={Armanfard, Narges and Hojjati, Hadi and Ho, Thi Kieu Khanh},
-  booktitle={Automated Spatial and Temporal Anomaly Detection: Third International Workshop, ASTAD@AAAI 2026, Held in Conjunction with AAAI 2026, Singapore, January 26, 2026, Proceedings},
+  title={EngineAD: A Real-World Vehicle Engine Anomaly Detection
+    Dataset},
+  author={Hojjati, Hadi and Roth, Christopher and Woods, Rory and
+    Sills, Ken and Armanfard, Narges},
+  editor={Armanfard, Narges and Hojjati, Hadi and Ho, Thi Kieu
+    Khanh},
+  booktitle={Automated Spatial and Temporal Anomaly Detection:
+    Third International Workshop, ASTAD@AAAI 2026, Held in
+    Conjunction with AAAI 2026, Singapore, January 26, 2026,
+    Proceedings},
   series={Communications in Computer and Information Science},
   year={2026},
   publisher={Springer Singapore},
@@ -43,9 +49,13 @@ The EngineAD dataset is now publicly available — no access request is required
 
 ```bibtex
 @inproceedings{hojjati2023multivariate,
-  title={Multivariate Time-Series Anomaly Detection with Temporal Self-supervision and Graphs: Application to Vehicle Failure Prediction},
-  author={Hojjati, Hadi and Sadeghi, Mohammadreza and Armanfard, Narges},
-  booktitle={Machine Learning and Knowledge Discovery in Databases: Applied Data Science and Demo Track (ECML PKDD)},
+  title={Multivariate Time-Series Anomaly Detection with Temporal
+    Self-supervision and Graphs: Application to Vehicle Failure
+    Prediction},
+  author={Hojjati, Hadi and Sadeghi, Mohammadreza and Armanfard,
+    Narges},
+  booktitle={Machine Learning and Knowledge Discovery in
+    Databases: Applied Data Science and Demo Track (ECML PKDD)},
   series={Lecture Notes in Computer Science},
   volume={14175},
   pages={239--254},
