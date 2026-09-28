@@ -1,3 +1,6 @@
+- date: Sept 2026
+  headline: Thrilled to announce that the iSMART Lab will run the 4th Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) at AAAI-27. This year's scope extends to anomaly detection foundation models, generalist and reasoning-based detectors, agentic root-cause analysis, and anomaly detection in deployed autonomous agents. We warmly invite researchers and practitioners to submit their original work. More details can be found <a href="https://ismart.ece.mcgill.ca/astad4/">here</a>.
+
 - date: May 2026
   headline:  Our multitask PFN method, TabPFN-MT, which delivers state-of-the-art tabular learning with constant-cost inference across multiple targets, is now available <a href="https://arxiv.org/abs/2605.20234">here</a>. Evaluated on 344 datasets, it matches top single-task ensembles while scaling far more efficiently.
 

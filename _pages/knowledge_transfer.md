@@ -11,6 +11,9 @@ permalink: /knowledge_transfer/
 
 **All workshops and tutorials listed below are organized by iSMART Lab.**
 
+### 4th Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (AAAI 2027)
+  * [Website](https://ismart.ece.mcgill.ca/astad4/)
+
 ### 3rd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (AAAI 2026)
   * [Website](https://ismart.ece.mcgill.ca/astad3/)
 
