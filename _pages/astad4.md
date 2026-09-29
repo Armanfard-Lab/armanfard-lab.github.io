@@ -7,7 +7,7 @@ permalink: /astad4/
 ---
 
 <div style="margin: 0 auto 20px; text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/astad4_banner.jpg" alt="AAAI-27, Montréal" style="width: 100%; max-width: 1100px; height: auto; display: block; margin: 0 auto; border-radius: 12px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad4_banner.jpg" alt="Palais des Congrès de Montréal, AAAI-27 venue" style="width: 100%; max-width: 1100px; height: auto; display: block; margin: 0 auto; border-radius: 12px;" />
 </div>
 
 <h1 align="center"> 4th Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) </h1>
