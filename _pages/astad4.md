@@ -71,6 +71,13 @@ permalink: /astad4/
 
 <p align="center">Keynote speakers will be announced soon.</p>
 
+<h2 align="center">Workshop Poster</h2>
+<hr>
+
+<div style="padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad4_poster.png" style="width: 800px; max-width: 95vw; height: auto; display: block; margin: 0 auto; border-radius: 0;" />
+</div>
+
 <h2 align="center"> Organizers </h2>
 <hr>
 
