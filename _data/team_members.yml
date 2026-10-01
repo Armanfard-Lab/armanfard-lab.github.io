@@ -54,9 +54,9 @@
   education1: BSc, <a href="https://mcgill.ca/">McGill University</a>
   education2: 
   education3: 
-  scholar: https://scholar.google.com/
-  linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
-  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. He joined the iSMART Lab in the summer of 2023 and subsequently pursued an MSc, focusing on open-set anomaly detection. A year after starting his Master's at the iSMART Lab, Thomas fast-tracked into a PhD.  He is a recipient of the MEUSMA and FRQ awards. His research is on open-set anomaly detection leveraging LLM models.
+  scholar: https://scholar.google.com/citations?user=_FfSgMIAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/
+  bio: "Thomas is a PhD student at the iSMART Lab, McGill University and Mila - Quebec AI Institute. He received his B.Eng. in Bioengineering from McGill University. His research develops deep learning algorithms and foundation models for time-series analysis, with a focus on open-set anomaly detection, with work published at ECAI. He also works on applications in brain signal analysis and industrial automation, and is co-first author of EpiiSLM, developed with clinical collaborators at the MNI. He has received the NSERC Postgraduate Scholarship–Doctoral (PGS-D) and the Vadasz Fellowship. He was a co-organizer of the ASTAD workshop at WACV 2025."
 
 - name: Alexander Koran
   photo: alex.jpg
