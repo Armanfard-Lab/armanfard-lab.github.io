@@ -19,7 +19,7 @@ permalink: /astad4/
 <h2 align="center">Overview</h2>
 <hr>
 
-<p align="center">The 4th Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) at AAAI-27 brings together researchers and practitioners working on AI-driven anomaly detection across images and video, signals and time series, and graphs. As detection moves from curated benchmarks into deployed systems, anomalies often appear only in the relationship between data streams, such as images, sensor readings, event logs, and maintenance records. ASTAD welcomes work that bridges modalities, disciplines, and method families. This year, the scope extends to detection-specific foundation models, generalist detectors, reasoning-based detection, agentic pipelines that carry detection through to root-cause analysis, and anomaly detection in deployed autonomous agents.</p>
+<p align="center">ASTAD brings together researchers and practitioners working on AI methods for detecting, predicting, explaining, and responding to anomalies, abnormalities, outliers, risks, failures, and deviations from expected or learned normal behavior across spatial, temporal, and multimodal data. The workshop welcomes methodological advances as well as real-world applications in industry, IT systems, finance, healthcare, and beyond, spanning anomaly detection and prediction, out-of-distribution and outlier detection, fraud detection, predictive maintenance, risk analysis and assessment, fault and failure detection/prediction, accident and incident detection/prediction, early warning systems, and abnormal behavior recognition.</p>
 
 <h2 align="center"> Call for Papers </h2>
 <hr>
@@ -27,19 +27,27 @@ permalink: /astad4/
 <p align="left">We invite researchers and practitioners to submit their original research contributions to the 4th Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of AAAI-27. Topics include, but are not limited to:</p>
 
   <ul>
-    <li> Novel architectures and deep generative models for anomaly detection in images, video, graphs, signals, and tabular data, including anomaly synthesis </li>
-    <li> Foundation models, vision–language models, and multimodal LLMs for anomaly detection, including generalist detectors </li>
-    <li> Agentic anomaly detection and root-cause analysis; anomaly detection in deployed autonomous agents </li>
-    <li> Self-supervised, unsupervised, few-shot, zero-shot, and continual anomaly detection under distribution shift </li>
-    <li> Explainable and reasoning-based anomaly detection </li>
-    <li> Datasets and benchmarking, including zero-shot data leakage and negative results </li>
-    <li> Real-time and on-edge anomaly detection </li>
-    <li> Applications in healthcare, industry, automotive, robotics, remote sensing, energy, and finance </li>
+    <li> Anomaly, abnormality, novelty, outlier, and out-of-distribution detection </li>
+    <li> Anomaly and abnormal-event prediction / forecasting </li>
+    <li> Predictive maintenance, fault diagnosis, and failure prediction in industrial and IT systems </li>
+    <li> Risk analysis, risk prediction, and early-warning systems in healthcare, finance, and infrastructure </li>
+    <li> Fraud detection and financial anomaly detection </li>
+    <li> Accident, incident, and hazard detection and prediction </li>
+    <li> Detection and prediction of deviations from expected or learned normal behavior </li>
+    <li> Root-cause analysis, diagnosis, localization, and attribution across clinical, industrial, and IT settings </li>
+    <li> Foundation models, LLMs, VLMs, and generalist models for detection and prediction </li>
+    <li> Agentic AI for monitoring, diagnosis, prediction, and autonomous response </li>
+    <li> Generative, self-supervised, unsupervised, few-shot, and zero-shot approaches </li>
+    <li> Explainable, interpretable, causal, and reasoning-based methods </li>
+    <li> Multimodal, spatial, temporal, spatiotemporal, graph, image, video, signal, and tabular data </li>
+    <li> Real-time, streaming, continual, and on-device methods </li>
+    <li> Datasets, benchmarks, evaluation, uncertainty, robustness, and distribution shift </li>
+    <li> Applications in healthcare, manufacturing, IT operations, automotive, transportation, robotics, cybersecurity, remote sensing, infrastructure, energy, finance, and safety-critical systems </li>
   </ul>
 
 <h3 align="left"> Submission Requirements </h3>
 
-<p align="left">We welcome original research as full papers of up to 8 pages or short and position papers of up to 4 pages, plus additional pages for references only. Submissions must use the official AAAI-27 author kit and will undergo double-blind peer review. We plan to publish accepted papers in proceedings; details will be posted on this page.</p>
+<p align="left">We welcome original research as full papers of up to 7 pages, plus 2 additional pages for references only. Submissions must use the official AAAI-27 author kit and will undergo double-blind peer review.</p>
 
 <p align="left">All submissions will be handled electronically via OpenReview. Only PDF files are accepted.</p>
 
@@ -49,6 +57,11 @@ permalink: /astad4/
 <hr>
 
 <p align="left">ASTAD is a one-day event combining paper presentations, invited talks from leading researchers, and interactive poster sessions, with ample time for Q&amp;A and discussion.</p>
+
+<h2 align="center"> Attendance </h2>
+<hr>
+
+<p align="left">Attendance is open to all registered AAAI-27 participants, including researchers, students, and industry professionals.</p>
 
 <h2 align="center"> Important Dates </h2>
 <hr>
