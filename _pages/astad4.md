@@ -6,8 +6,10 @@ sitemap: false
 permalink: /astad4/
 ---
 
+<h1 align="center"> 4th Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) </h1>
+
 <div style="padding: 20px 24px; margin: 20px auto; text-align: center; display: block; width: fit-content;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/astad4_title_banner.png" alt="4th Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), iSMART Lab, AAAI-27, Feb 16-23 2027, Montréal, Canada" style="width: 900px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad_aaai27_logo.png" alt="iSMART Lab and AAAI-27, Montréal" style="width: 500px; max-width: 95vw; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 <h2 align="center">Overview</h2>
