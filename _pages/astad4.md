@@ -78,7 +78,25 @@ permalink: /astad4/
 <h2 align="center"> Speakers </h2>
 <hr>
 
-<p align="center">Keynote speakers will be announced soon.</p>
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LemanAkoglu.jpeg" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left; object-fit: cover;" />
+  <h4>Prof. Leman Akoglu</h4>
+  <i>Heinz College of Information Systems and Public Policy, Carnegie Mellon University</i>
+  <p style="font-size:14px;">Dr. Akoglu is the Heinz College Dean's Associate Professor at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. She also hold courtesy appointments at the Machine Learning Department (MLD) and the Computer Science Department (CSD) of School of Computer Science (SCS). At Heinz, she directs the Data Analytics Techniques Algorithms (DATA) Lab. Her research interests are broadly in data mining, graph mining, machine learning, and knowledge discovery, with specific focus on anOmaLiEs---identifying and characterizing 'what stands out' in large-scale, time-varying, multi-modal data sources through scalable computational methods.</p>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad4/YueZhao.jpg" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left; object-fit: cover;" />
+  <h4>Prof. Yue Zhao</h4>
+  <i>Department of Computer Science, University of Southern California</i>
+  <p style="font-size:14px;">Yue Zhao is an Assistant Professor of Computer Science at the University of Southern California, where he leads the FORTIS Lab and serves as Associate Co-Director of the Institute on Ethics and Trust in Computing. His research focuses on auditable AI systems, connecting anomaly detection with the evaluation, security, and efficiency of AI agents. He develops open-source tools and benchmarks, including PyOD, ADBench, and TrustLLM. He received his Ph.D. from Carnegie Mellon University in 2023. His honors include multiple Amazon Research Awards, the NVIDIA Academic Grant Program Award, and selection for AAAI New Faculty Highlights. He serves as an Action Editor for Transactions on Machine Learning Research and an Associate Editor for IEEE Transactions on Neural Networks and Learning Systems.</p>
+</div>
+</div>
+
+<p align="center"><i>More keynote speakers to be announced soon!</i></p>
 
 <h2 align="center">Workshop Poster</h2>
 <hr>
