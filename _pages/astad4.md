@@ -135,7 +135,7 @@ permalink: /astad4/
 .astad-faq-item.open .astad-faq-a { max-height: 400px; padding: 4px 20px 18px; }
 </style>
 
-<div class="astad-faq" id="astad-faq">
+<div class="astad-faq" id="astad-faq" markdown="0">
 <div class="astad-faq-item">
 <div class="astad-faq-q">Will accepted papers be published in archival proceedings?<span class="astad-faq-icon">+</span></div>
 <div class="astad-faq-a"><p>Accepted papers from the previous edition of ASTAD will appear in archival proceedings. We intend to publish this year's accepted papers in archival proceedings as well; however, this has not yet been confirmed. Any updates will be posted on this page.</p></div>
