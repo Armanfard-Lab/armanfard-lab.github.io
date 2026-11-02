@@ -114,6 +114,24 @@ permalink: /astad4/
   <img src="{{ site.url }}{{ site.baseurl }}/images/astad4_poster.png" style="width: 800px; max-width: 95vw; height: auto; display: block; margin: 0 auto; border-radius: 0;" />
 </div>
 
+<h2 align="center"> FAQ </h2>
+<hr>
+
+<h3 align="left"> Will accepted papers be published in archival proceedings? </h3>
+<p align="left">Accepted papers from the previous edition of ASTAD will appear in archival proceedings. We intend to publish this year's accepted papers in archival proceedings as well; however, this has not yet been confirmed. Any updates will be posted on this page.</p>
+
+<h3 align="left"> Can I submit a paper that is under review or accepted elsewhere? </h3>
+<p align="left">No. ASTAD does not allow dual submission. A paper submitted to ASTAD must not be under review at, or accepted by, any other venue. If ASTAD papers are published in archival proceedings, your accepted paper may not be resubmitted elsewhere in the same form, but substantially extended versions are allowed and encouraged. Otherwise, you are free to submit it to another venue afterwards.</p>
+
+<h3 align="left"> What is the attendance policy? </h3>
+<p align="left">ASTAD follows the attendance policy of the main AAAI conference: at least one author of each accepted paper must register for the workshop and present the paper in person.</p>
+
+<h3 align="left"> Can I present remotely? </h3>
+<p align="left">No. All presentations must be given in person.</p>
+
+<h3 align="left"> How can I volunteer as a reviewer? </h3>
+<p align="left">Email us and include a link to your OpenReview profile.</p>
+
 <h2 align="center"> Organizers </h2>
 <hr>
 
