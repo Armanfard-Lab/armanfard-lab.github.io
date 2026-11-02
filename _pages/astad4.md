@@ -96,6 +96,15 @@ permalink: /astad4/
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astad4/SametAkcay.png" class="rounded-circle" width="25%" style="aspect-ratio: 1; border-radius:50%;float: left; object-fit: cover;" />
+  <h4>Dr. Samet Akcay</h4>
+  <i>Principal AI Research Engineer, Intel Corporation</i>
+  <p style="font-size:14px;">Samet Akcay is a Principal Engineer at Intel, within the AI Models and Robotics organization in Edge Computing Group. He provides technical leadership and architecture for machine learning, deep learning, and robot learning, with a focus on advancing Vision AI and Physical AI technologies for intelligent systems at the edge. He is the creator of Anomalib, a widely adopted open-source framework for anomaly detection. His research spans computer vision, anomaly detection, multimodal and physical AI, with over 40 publications and more than 6,000 citations. Samet holds a PhD in Computer Science from Durham University, UK, and an MSc in Electrical Engineering from Pennsylvania State University, USA. His current work focuses on advancing Vision AI, multimodal learning, and Physical AI, bridging cutting-edge research with practical, scalable solutions for real-world applications in computer vision, robotics, and edge computing.</p>
+</div>
+</div>
+
 <p align="center"><i>More keynote speakers to be announced soon!</i></p>
 
 <h2 align="center">Workshop Poster</h2>
