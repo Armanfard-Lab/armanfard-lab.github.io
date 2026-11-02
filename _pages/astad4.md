@@ -117,20 +117,54 @@ permalink: /astad4/
 <h2 align="center"> FAQ </h2>
 <hr>
 
-<h3 align="left"> Will accepted papers be published in archival proceedings? </h3>
-<p align="left">Accepted papers from the previous edition of ASTAD will appear in archival proceedings. We intend to publish this year's accepted papers in archival proceedings as well; however, this has not yet been confirmed. Any updates will be posted on this page.</p>
+<style>
+.astad-faq { max-width: 760px; margin: 20px auto; }
+.astad-faq-item { border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 12px; overflow: hidden; background: #fff; }
+.astad-faq-q {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 16px 20px; cursor: pointer; font-weight: 600; font-size: 16px;
+  background: #f7f8fa; transition: background 0.15s ease;
+}
+.astad-faq-q:hover { background: #eef1f5; }
+.astad-faq-icon { font-size: 20px; line-height: 1; color: #8B0000; transition: transform 0.2s ease; flex-shrink: 0; margin-left: 12px; }
+.astad-faq-item.open .astad-faq-icon { transform: rotate(45deg); }
+.astad-faq-a {
+  max-height: 0; overflow: hidden; transition: max-height 0.25s ease, padding 0.25s ease;
+  padding: 0 20px; font-size: 14px; line-height: 1.6; color: #444;
+}
+.astad-faq-item.open .astad-faq-a { max-height: 400px; padding: 4px 20px 18px; }
+</style>
 
-<h3 align="left"> Can I submit a paper that is under review or accepted elsewhere? </h3>
-<p align="left">No. ASTAD does not allow dual submission. A paper submitted to ASTAD must not be under review at, or accepted by, any other venue. If ASTAD papers are published in archival proceedings, your accepted paper may not be resubmitted elsewhere in the same form, but substantially extended versions are allowed and encouraged. Otherwise, you are free to submit it to another venue afterwards.</p>
+<div class="astad-faq" id="astad-faq">
+  <div class="astad-faq-item">
+    <div class="astad-faq-q">Will accepted papers be published in archival proceedings?<span class="astad-faq-icon">+</span></div>
+    <div class="astad-faq-a"><p>Accepted papers from the previous edition of ASTAD will appear in archival proceedings. We intend to publish this year's accepted papers in archival proceedings as well; however, this has not yet been confirmed. Any updates will be posted on this page.</p></div>
+  </div>
+  <div class="astad-faq-item">
+    <div class="astad-faq-q">Can I submit a paper that is under review or accepted elsewhere?<span class="astad-faq-icon">+</span></div>
+    <div class="astad-faq-a"><p>No. ASTAD does not allow dual submission. A paper submitted to ASTAD must not be under review at, or accepted by, any other venue. If ASTAD papers are published in archival proceedings, your accepted paper may not be resubmitted elsewhere in the same form, but substantially extended versions are allowed and encouraged. Otherwise, you are free to submit it to another venue afterwards.</p></div>
+  </div>
+  <div class="astad-faq-item">
+    <div class="astad-faq-q">What is the attendance policy?<span class="astad-faq-icon">+</span></div>
+    <div class="astad-faq-a"><p>ASTAD follows the attendance policy of the main AAAI conference: at least one author of each accepted paper must register for the workshop and present the paper in person.</p></div>
+  </div>
+  <div class="astad-faq-item">
+    <div class="astad-faq-q">Can I present remotely?<span class="astad-faq-icon">+</span></div>
+    <div class="astad-faq-a"><p>No. All presentations must be given in person.</p></div>
+  </div>
+  <div class="astad-faq-item">
+    <div class="astad-faq-q">How can I volunteer as a reviewer?<span class="astad-faq-icon">+</span></div>
+    <div class="astad-faq-a"><p>Email us and include a link to your OpenReview profile.</p></div>
+  </div>
+</div>
 
-<h3 align="left"> What is the attendance policy? </h3>
-<p align="left">ASTAD follows the attendance policy of the main AAAI conference: at least one author of each accepted paper must register for the workshop and present the paper in person.</p>
-
-<h3 align="left"> Can I present remotely? </h3>
-<p align="left">No. All presentations must be given in person.</p>
-
-<h3 align="left"> How can I volunteer as a reviewer? </h3>
-<p align="left">Email us and include a link to your OpenReview profile.</p>
+<script>
+document.querySelectorAll('#astad-faq .astad-faq-q').forEach(function (q) {
+  q.addEventListener('click', function () {
+    q.parentElement.classList.toggle('open');
+  });
+});
+</script>
 
 <h2 align="center"> Organizers </h2>
 <hr>
